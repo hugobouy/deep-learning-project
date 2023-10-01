@@ -78,7 +78,9 @@ Illinois Tech\\
 %%%%%%%%% BODY TEXT
 \section{Problem description}
 \label{sec:intro}
-Online reviews and questions on e-commerce platforms like Amazon play a critical role in guiding consumer purchasing decisions. However, sarcasm and humor in reviews and questions can mislead sentiment analysis tools, affecting both sellers and buyers. Our project aims to develop a machine learning model to detect sarcasm and humor in Amazon reviews and questions, ensuring a more accurate representation of consumer sentiment.
+In an increasingly digital driven world, the analysis of user-generated content and/or reviews in the context of e-commerce has become a key area of research and development. Understanding opinions and emotions expressed in product feedback submitted by customers is then essential to enhance the user’s experience. One aspect that might be overlooked in this area is sarcastic and humor detection that can lead to a misinterpretation of these texts.
+
+However, humor remains a complex human phenomenon that is far from having a clear definition. While humor and sarcastic mechanisms are integral to human interaction, its subjective nature makes it a challenging target for computational analysis. Recent work has been able to open up this area using deep learning and natural language processing advances. With this project, we will attempt to improve e-commerce review processing making use of deep learning models and humor disambiguation.
 
 %-------------------------------------------------------------------------
 \section{Brief Survey of Previous Work}
@@ -109,7 +111,7 @@ It can be divided in 5 main milestones:
     
     \item Third, we compare our model to a LLM such as ChatGPT to assess if our dedicated humor/sarcasm classification model performs significantly better than a state of the art LLM using an appropriate prompt. We analyze the cost of both solutions.
     
-    \item Forth, we improve our model to properly classify a product review considering its sarcastic/humorous sense into meaningful categories such as "consumer thinks the product is overpriced", "consumer thinks the product is good quality", etc. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
+    \item Fourth, we improve our model to properly classify a product review considering its sarcastic/humorous sense into meaningful categories such as "consumer thinks the product is overpriced", "consumer thinks the product is good quality", etc. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
     
     \item If time allows it, we use our sarcastic model detection to improve automatic answer generation to take into account the humorous tone of the comment / question.
 \end{enumerate}
