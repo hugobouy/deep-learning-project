@@ -80,7 +80,6 @@ Illinois Tech\\
 \label{sec:intro}
 Online reviews and questions on e-commerce platforms like Amazon play a critical role in guiding consumer purchasing decisions. However, sarcasm and humor in reviews and questions can mislead sentiment analysis tools, affecting both sellers and buyers. Our project aims to develop a machine learning model to detect sarcasm and humor in Amazon reviews and questions, ensuring a more accurate representation of consumer sentiment.
 
-
 %-------------------------------------------------------------------------
 \section{Brief Survey of Previous Work}
 
@@ -100,24 +99,25 @@ Gupta et al.~\cite{gupta2021} explored the use of Large Language Models (LLMs) i
 
 \section{Preliminary Plan and Ideas}
 
-\begin{enumerate}
-    \item Implement a model able to detect humor/sarcasm in small text reviews. This would initially be a basic model that is simply capable of saying whether or not a phrase or text contains humor or sarcasm pattern or not.
-    
-    \item Improve implementation to take into account different factors. To further improve this implementation the model would eventually have to take into account more factors such as the type of product considered as a comment may or may not be sarcastic depending on the considered product. This can help us identify if some type of products or events are more prone to triggering humorous or sarcastic comments.
-    
-    \item Comparing the model to a LLM such as chat GPT. This would enable us to assess if our dedicated humor/sarcasm detecting model performs significantly better than a state of the art LLM such as ChatGPT using an appropriate prompt.
-    
-    \item Using humor detection model for review classification. Using the model implemented, we could enhance review classification based on humor detected in reviews. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
-    
-    \item Adapted response to user’s sarcastic comments. Based on the previous work, we could propose automatic answers to comment and analyze if the response addresses correctly humorous/sarcastic reviews.
-\end{enumerate}
+Our project focus on how sentiment analysis tools dedicated to sarcasm and humor disambiguation can be used to enhance E-commerce review and Q\&A processing.
+It can be divided in 5 main milestones:
 
+\begin{enumerate}
+    \item First, we implement a basic model able to detect humor/sarcasm in small text reviews. This model would only be capable of saying whether or not a given phrase/text contains humor or sarcasm patterns. To build the model, we compare different approaches published in the scientific literature.
+    
+    \item Second, we improve the model to take into account several factors such as the type of product considered, its description, price, etc. (as sarcasm may be related to one aspect of the product). Feeding the model with the context can also help identify if some type of products are more prone to trigger humorous or sarcastic comments.
+    
+    \item Third, we compare our model to a LLM such as ChatGPT to assess if our dedicated humor/sarcasm classification model performs significantly better than a state of the art LLM using an appropriate prompt. We analyze the cost of both solutions.
+    
+    \item Forth, we improve our model to properly classify a product review considering its sarcastic/humorous sense into meaningful categories such as "consumer thinks the product is overpriced", "consumer thinks the product is good quality", etc. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
+    
+    \item If time allows it, we use our sarcastic model detection to improve automatic answer generation to take into account the humorous tone of the comment / question.
+\end{enumerate}
 
 %%%%%%%%% REFERENCES
 {\small
 \bibliographystyle{ieee_fullname}
 \bibliography{egbib}
 }
-
 
 \end{document}
