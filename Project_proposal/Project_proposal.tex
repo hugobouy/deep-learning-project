@@ -78,14 +78,16 @@ Illinois Tech\\
 %%%%%%%%% BODY TEXT
 \section{Problem description}
 \label{sec:intro}
-In an increasingly digital driven world, the analysis of user-generated content and/or reviews in the context of e-commerce has become a key area of research and development. Understanding opinions and emotions expressed in product feedback submitted by customers is then essential to enhance the user’s experience. One aspect that might be overlooked in this area is sarcastic and humor detection that can lead to a misinterpretation of these texts.
+In an increasingly e-commerce driven world, the analysis of review, comments and questions written by consumers online has become a field of interests. Understanding opinions and emotions expressed in product feedback/related questions is essential to enhance the user’s experience. One aspect that might be overlooked in this area is sarcastic and humor detection that can lead to a misinterpretation of these texts.
 
-However, humor remains a complex human phenomenon that is far from having a clear definition. While humor and sarcastic mechanisms are integral to human interaction, its subjective nature makes it a challenging target for computational analysis. Recent work has been able to open up this area using deep learning and natural language processing advances. With this project, we will attempt to improve e-commerce review processing making use of deep learning models and humor disambiguation.
+Humor remains a complex human phenomenon that is far from having a clear definition. While humor and sarcastic mechanisms are integral to human interaction, its subjective nature makes it a challenging target for computational analysis. Recent work has been able to open up this area using deep learning and natural language processing advances. With this project, we will attempt to improve e-commerce review processing using deep learning models for humor disambiguation.
 
 %-------------------------------------------------------------------------
 \section{Brief Survey of Previous Work}
 
-Jain et al.~\cite{jain2019} delved into the complexities of identifying sarcasm in Amazon reviews. Recognizing sarcasm is crucial for accurate sentiment analysis, especially since sarcastic comments can be misinterpreted by traditional opinion mining methods. They utilized the "Sarcasm Corpus" containing labeled ironic and regular Amazon reviews, extracting features like sentiment scores, punctuation patterns, and contextual elements that consider the contrast between review sentiment and product rating. Their experiments showed the Support Vector Machine (SVM) classifier as the most accurate, emphasizing the role of context in sarcasm detection.
+Several studies have been conducted over the past years in the ambition of detecting humor and sarcasm:
+
+Jain et al.~\cite{jain2019} delved into the complexities of identifying sarcasm in Amazon reviews. Recognizing sarcasm is crucial for accurate sentiment analysis, especially since sarcastic comments can be misinterpreted by traditional opinion mining methods. They utilized the "Sarcasm Corpus" containing labeled ironic and regular Amazon reviews, extracting features like sentiment scores, punctuation patterns, and contextual elements that consider the contrast between review sentiment and product rating. Their experiments designated the Support Vector Machine (SVM) classifier as the most accurate, emphasizing the role of context in sarcasm detection.
 
 Building upon the idea of sarcasm detection, Poria et al.~\cite{poria2020} introduced a method using deep convolutional neural networks (CNNs). They critiqued traditional methods that treat sarcasm detection as mere text categorization, arguing that such approaches often miss the deeper understanding of language nuances required for sarcasm. Their method integrates sentiment, emotion, and personality features extracted from pre-trained CNNs. By leveraging Twitter data, they contrasted sarcastic sentences with the ground-truth polarity of events. Their experiments with word embeddings from word2vec and a combined CNN-SVM approach demonstrated superior performance on benchmark datasets.
 
@@ -112,7 +114,7 @@ It can be divided in 5 main milestones:
     
     \item Fourth, we improve our model to properly classify a product review considering its sarcastic/humorous sense into meaningful categories such as "consumer thinks the product is overpriced", "consumer thinks the product is good quality", etc. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
     
-    \item If time allows it, we use our sarcastic model detection to improve automatic answer generation to take into account the humorous tone of the comment / question.
+    \item If time allows it, we will use our sarcastic model detection to generate relevent automatic answer that take into account the humorous tone of the comment/question.
 \end{enumerate}
 
 %%%%%%%%% REFERENCES
