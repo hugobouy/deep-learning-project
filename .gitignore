@@ -1,3 +1,6 @@
+/datasets/SarcasmAmazonReviewsCorpus-master/Ironic/*
+/datasets/SarcasmAmazonReviewsCorpus-master/Regular/*
+
 *.DS_Store
 
 ## Core latex/pdflatex auxiliary files:
