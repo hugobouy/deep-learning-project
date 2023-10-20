@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>worst book i have ever read</TITLE>
+<DATE>June 6, 2010</DATE>
+<AUTHOR>A Customer</AUTHOR>
+<PRODUCT>Great Expectations (Kindle Edition)</PRODUCT>
+<REVIEW>
+this book was excruciatingly painful to read. when i read this book i finally understood the definition of the word infinity. i would recomend this book to friends who have insomnia or those who i absolutely despise.
+</REVIEW>

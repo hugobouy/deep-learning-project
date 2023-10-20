@@ -1,0 +1,12 @@
+<STARS>5.0</STARS>
+<TITLE>Great Laptop!</TITLE>
+<DATE>May 26, 2009</DATE>
+<AUTHOR>J. Bolton</AUTHOR>
+<PRODUCT>Dell D600 Laptop 1.6ghz 40gb DVD/CDRW B Grade Includes Genuine XP Professional restore cd! (Personal Computers)</PRODUCT>
+<REVIEW>
+This is a great laptop for the price.  It functions beautifully for basic use (school, work, surfing the web, etc.).  I have had absolutely no trouble with mine, and would highly recommend this product to everyday users. 
+ 
+ I've seen a couple of bad reviews simply because users purchased this computer with the intent to make it their "gaming" computer, and then were disappointed with the outcome.  Check the specs and your game requirements first.  If you truly want a gaming computer, you probably shouldn't be looking at Laptops in the first place.  
+ 
+ It's a great computer at a reasonable price.  If you just need something for work, school, and surfing the web, it's perfect.
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Not worth it</TITLE>
+<DATE>July 1, 2010</DATE>
+<AUTHOR>JEA83</AUTHOR>
+<PRODUCT>Adobe Photoshop CS5 Upgrade (DVD-ROM)</PRODUCT>
+<REVIEW>
+So I downloaded this from adobe, and its horrible. It becomes mission impossible to do a lot of the simplest things I could do in CS4. Plus it would be nice if it didn't crash every other hour. And I'm running off a high performance computer.
+</REVIEW>

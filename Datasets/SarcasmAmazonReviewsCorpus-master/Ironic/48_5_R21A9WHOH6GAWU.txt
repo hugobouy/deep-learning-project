@@ -1,0 +1,16 @@
+<STARS>1.0</STARS>
+<TITLE>Poorly designed remote for Blu-ray (& DVD) use</TITLE>
+<DATE>December 3, 2009</DATE>
+<AUTHOR>Glenn Camhi</AUTHOR>
+<PRODUCT>Sony PlayStation 3 Blu-ray Disc Remote (Accessory)</PRODUCT>
+<REVIEW>
+Two design flaws render this otherwise fine remote too frustrating to use for controlling Blu-ray (and DVD) movies.
+ 
+ 1. No backlight or glowing keys, so operation in the dark is difficult. This wouldn't be a big issue if the buttons were better laid out and had some clues by touch to clarify their functions. But this is a big issue because of flaw #2...
+ 
+ 2. The giant Stop button is positioned between the Play and Pause buttons, and all three are the same large size and shape. It's also between the Skip Back and Skip Forward buttons, horizontally, putting it right in the middle of all the most-used buttons.
+ 
+ It takes an impressive level of ineptitude to design a remote like this. Years of R&D on DVD remotes have wisely made Stop buttons smaller than other buttons, and placed them out of the way. Sony seems to have ignored that wisdom. It's much too easy to inadvertently tap the PS3 remote's large, centrally positioned stop button.  And unlike most DVD players, the PS3 has no "Are you sure you want to stop the disc?" warning, for when you do.  So when you accidentally stop your movie (which you will), it's a long and irritating process to find your place again on a Blu-ray disc.  It can take 5 minutes, depending on how many notices, previews, commercials and animated menus you have to get through again (some of which you can't skip past). And then you have to find where you were, risking seeing images or chapter titles that give away things you really didn't want to know yet. All this wasted time can kill the flow of a movie.
+ 
+ Hopefully there's a better remote that works with the PS3... one that was designed by people who test their products in real-world circumstances.
+</REVIEW>

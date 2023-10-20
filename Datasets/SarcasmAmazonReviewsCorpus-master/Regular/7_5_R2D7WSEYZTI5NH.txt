@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>Kingston quality, massive storage, what's not to love?</TITLE>
+<DATE>December 2, 2008</DATE>
+<AUTHOR>Nathan Beauchamp "Dakotad555"</AUTHOR>
+<PRODUCT>Kingston 32 GB Class 4 SDHC Flash Memory Card SD4/32GB (Electronics)</PRODUCT>
+<REVIEW>
+There are some things to consider before buying this particular card or any other 32gb SDHC card on the market:  
+ 
+ 1. This is NOT an ideal card for a digital SLR like a D80, D90, Rebel XT, etc... That is because it is a class 4 device. The class of a SDHC cards has to do with how fast they read and write files, not how much storage they have. For a digital SLR, you should purchase a class 6 SDHC card most of the time. Class 6 cards will allow you to take 'bursts' of photos and not be limited by the card's capacity to write them. Also class 4 cards are slower reading data, meaning they will take longer to upload files to your computer. Upload speed is convenient, especially when loading large batches of files.  
+ 
+ 2. This card has far more storage than most people will need for their digital camera. Unless you like to keep all your photos on a SDHC card and never move them to your computer, or are a high volume photographer, there is very little need for more than about 8gb of storage space for most caeras. The possible exception to this is if you have a professional SLR that shoots files in the 16-20mb range--but if you do, you'll likely want a class 6 card anyway. If all you intend to use this card for is a digital camera, save yourself a lot of money and buy a PNY 8GB SDHC Card . If you're worried about running out of space on a vacation, buy a few of them. Otherwise you run the risk of having 'all your eggs in one basket.' If one card fails, you lose all your pictures instead of only a portion of them. 
+ 
+ This card is fantastic for use in a video camcorder capable of writing to an SDHC card. (Check with the manual first to insure that a class 4 card will be fast enough first). It is also perfect as extra storage for an ultra portable computer or net book like the Asus EEE pc. Another great application would be as added storage to a personal media player or MP3 player equipped with a SDHC slot such as the Cowon D2 . 
+ 
+ There are other good 32gb SDHC cards on the market, some at cheaper price points than the Kingston card. IMHO, brand matters very little with something like a SDHC card, since they all are made pretty much the same way. None of the brands currently offering them (Transcend, PNY, Kingston) have high fail rates with their other products, so I believe they are all pretty similar. What you decide to buy will depend on whether you trust a particular brand, or who has the lowest price. All of them will work equally well.
+</REVIEW>

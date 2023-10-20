@@ -1,0 +1,14 @@
+<STARS>5.0</STARS>
+<TITLE>Great DTV antenna</TITLE>
+<DATE>December 2, 2007</DATE>
+<AUTHOR>Chingas Lee "Audio's Amigo"</AUTHOR>
+<PRODUCT>Eagle Aspen Dtv2Buhf Directv 2-Bay Uhf Antenna (Electronics)</PRODUCT>
+<REVIEW>
+This antenna worked better than expected for it's size and price.
+ Roof top mounted.
+ It's wide beam width allowed reception from DTV stations at 136 to 188 degrees with no problem at a distance of 10 to 50 miles with 6-7 of 8 signal strength bars on DTV broadcast. Also worked good on analog broadcast.
+ It also worked very well on a nearby hi-band VHF channel 13.
+ This is a directional antenna so any stations on the back side will not be received.
+ This worked better than my old 8-bay channel master.
+ It is made for outdoor use but because of it's small size it could be used indoors.
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>2.0</STARS>
+<TITLE>Taste...</TITLE>
+<DATE>January 14, 2010</DATE>
+<AUTHOR>enoezark "k-1"</AUTHOR>
+<PRODUCT>Communion Wafers Box of 1000</PRODUCT>
+<REVIEW>
+With a little peanut butter and jelly, these things make a great snack on the go.
+</REVIEW>

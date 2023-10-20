@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>A great deal of fun!</TITLE>
+<DATE>December 28, 2006</DATE>
+<AUTHOR>Daniel Bjorndahl</AUTHOR>
+<PRODUCT>Dunlop 2-Pack Egg Shaker</PRODUCT>
+<REVIEW>
+For the price, you really shouldn't pass up this opportunity for such a fun instrument. They're just the right size for the hand, and inviting to use.
+</REVIEW>

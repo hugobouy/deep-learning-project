@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>IPhone Users</TITLE>
+<DATE>February 26, 2009</DATE>
+<AUTHOR>Shoe Shopper "Shoe Shopper"</AUTHOR>
+<PRODUCT>iPhone 3G Stylus (Wireless Phone Accessory)</PRODUCT>
+<REVIEW>
+For those of my generation who keep up with technology but just can't get the hang of touch typing without hitting the right key the Apple IPhone 3G Stylus is the best thing for you. You are able to move faster and hit the right keys without mistakes. I love this tool I just wish there was a place on the Iphone to place it. If you have fat fingers or long nails this is the tool for you!
+</REVIEW>

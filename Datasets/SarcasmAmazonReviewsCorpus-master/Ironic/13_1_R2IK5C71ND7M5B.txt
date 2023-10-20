@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>The Truth is Out There!</TITLE>
+<DATE>August 8, 2008</DATE>
+<AUTHOR>Margaret Dybala "too many books, too little time"</AUTHOR>
+<PRODUCT>A Million Random Digits with 100,000 Normal Deviates (Paperback)</PRODUCT>
+<REVIEW>
+It wasn't until I got to 43654 and then sped on towards 53511 that I realized that if you take every 10th digit, multiply by 12, divide by 150, then using every 5th digit to code with the letters of the Russian alphabet, that you get a backwards version of the Da Vinci Code!  Dan Brown, tell us the truth!  Is this your work??
+</REVIEW>

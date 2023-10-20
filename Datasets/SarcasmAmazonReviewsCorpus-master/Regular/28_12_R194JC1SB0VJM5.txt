@@ -1,0 +1,16 @@
+<STARS>4.0</STARS>
+<TITLE>For now, this is the best the US has</TITLE>
+<DATE>January 31, 2009</DATE>
+<AUTHOR>Michael J. Pennachio</AUTHOR>
+<PRODUCT>SanDisk 16 GB Class 2 microSDHC Flash Memory Card SDSDQ-016G (Bulk Packaging) (Electronics)</PRODUCT>
+<REVIEW>
+This micro SDHC card is the best in the US market. Samsung has developed a 32GB one but it is only available in Asia at the time of this writing. With that said, this is a good card. I bought it for my Blackberry Curve 8300. If you are going to use it for a Blackberry, make sure that you have the Blackberry OS 4.5 or later as it will not read the whole 16GB if you do not.
+ 
+ Even though this is a Class 2 card (the 16GB Class 4's, like the 32GB cards, are only available in Asia right now), it reads and writes fairly quickly. The card is fast enough to record and play videos on my Curve, and saving a couple minute video after shooting it literally takes seconds to write.
+ 
+ I have two minor gripes about this card, and they aren't that bad. One is the price. You can get an 8GB card for less than half of the price of this one. However, it is still "new" so that's the penalty for being an early adopter.
+ 
+ The other gripe I have is that with the Samsung reader (see the bundle Amazon sells with this card) will NOT format this card in anything other than FAT32. Now the Curve can't understand NTFS, so for me it's not a big deal, but for someone who may want to use this as take away storage, just be aware of that.
+ 
+ Other than that, I think this card is great. Also please note this card DOES come with an SD adapter. Don't let the Bulk Packaging fool you. If you have an SD card reader, you will not have to go out and buy a separate card reader for this. Save yourself the 5 bucks if you can. I hope this review was helpful.
+</REVIEW>

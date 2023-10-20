@@ -1,0 +1,14 @@
+<STARS>1.0</STARS>
+<TITLE>Complete Garbage...</TITLE>
+<DATE>November 4, 2004</DATE>
+<AUTHOR>Karen L. Mcginty "mcdisney2001"</AUTHOR>
+<PRODUCT>Gravis Eliminator AfterShock Rumble Game Pad  USB (G48031) (Electronics)</PRODUCT>
+<REVIEW>
+I bought this before reading the reviews, which is unlike me.  Once I saw the experiences the other buyers had had, I was nervous, but convinced myself that it would be fine.  I run XP, so I downloaded the software from the Gravis site, installed everything, and tried a game.  The D pad wouldn't work, despite the fact that I had downloaded the XP software.  If this had been the only problem, I would have figured that I had just done something wrong, but the joysticks were awful!  Half the time, I would move the joystick up, to move forward, and when I released it my character kept going forward.  Not great when you're standing on the edge of a cliff.  I found it impossible to get any kind of control over my game characters, not nearly enough to even consider being able to use the gamepad for games.
+ 
+ Another thing about the gamepad is that, although I tried it in the store, to get a feel for it, I decided rather quickly that, regardless of how it worked, it just wasn't right for my small hands (I'm female, and have exceptionally small hands).  I can't call this a complaint, just a matter of personal preference.
+ 
+ When I viewed the "Read Me" file on this thing, and came to the section about "Known Bugs", I about had a heart attack at all of the problems this thing is "known" to have!  After every single bug listed, they gave a completely lame, unsatisfactory "solution".  For instance, one bug said that games often take a moment to respond to input from the controller.  Their solution? "Please wait a moment after each button click, to give the game time to respond".  Erm, sure; I'll just politely ask 200 Orcs to stop attacking me while Aragorn takes a moment to respond, no problem.
+ 
+ I'm not by any means an extremely serious gamer with unrealistically high expectations for my equipment; I just like to play sometimes, and want moderately sufficient results.  This controller came nowhere near that, and I'll be returning it tomorrow morning, after only owning it for about 18 hours.
+</REVIEW>

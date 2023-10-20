@@ -1,0 +1,8 @@
+﻿<STARS>5.0</STARS>
+<TITLE>Kids Favorite!</TITLE>
+<DATE>June 30, 2008</DATE>
+<AUTHOR>T. Black</AUTHOR>
+<PRODUCT>Skippy Peanut Butter, Creamy, 16.3-Ounce Jars (Pack of 6) (Grocery)</PRODUCT>
+<REVIEW>
+Skippy Creamy is the best tasting of all the peanut butters on the market.  My kids love Skippy Creamy!
+</REVIEW>

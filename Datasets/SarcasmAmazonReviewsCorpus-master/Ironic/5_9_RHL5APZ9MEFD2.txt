@@ -1,0 +1,16 @@
+<STARS>1.0</STARS>
+<TITLE>*Extremely* *unimpressive*, especially compared to ANY other option.</TITLE>
+<DATE>May 18, 2010</DATE>
+<AUTHOR>A_*NIX_Geek "DethB4DCaf"</AUTHOR>
+<PRODUCT>Archos 5 500 GB Internet Tablet with Android (Electronics)</PRODUCT>
+<REVIEW>
+If you are looking for a really expensive paperweight, or need to replace the brick in your solid gold commode, the Archos is the device for you. However, if you are looking for any amount of *functionality*, there are volumes of viable choices that cost much less and actually work, such as any Android-based phone.
+ 
+     I have all sorts of Archos accessories that I can use with multiple stereos, televisions and computers and I've invested volumes of time now trying to get *any* combination of functionality that I can't get on something much cheaper -- like my netbook, or even my phone -- with little or no success. 
+ 
+     To compare the application library that Archos provides [without using a hack another user has provided to access the Android Library] is like comparing the largest local mega-mall to a "7-11" corner store... assuming the corner store went bankrupt several years ago.
+ 
+     Alas, however, the hack only gets you past the software problems, and leaves you with the hardware and the firmware/operating system that Archos provides. The operating system is an Android variant, whose updates have only once removed my access to every other application [out of three total updates] which I applied at the recommendation of the Archos Customer support folks. And the hardware... well... once you get past the non-standard connectors for any of the other Archos accessories that don't connect quite correctly because of all the different variations between different Archos hardware components you can just bet that the documentation won't be able to help you troubleshoot any of the myriad of problems you are going to encounter on an on-going basis. 
+ 
+    Fortunately, there is an on-line support forum for the dedicated, but for the *price* you pay, there are *much* better options available. If you are under the impression that the *form factor* will make it special, like I was... well good luck actually getting it to access anything, either on the internal hard drive [think reformatting, several times... maybe it will eventually work] or on your local network [I have no idea how a valid file that is stored on another machine that my Archos CAN see could be "corrupted", but I'm going research that the next time I have an hour or three to throw away...] or even from the directly-attached satellite receiver -- the codes provided by the documentation don't work, which I did not find even remotely surprising, but at least there's a trouble-shooting section that doesn't help...
+</REVIEW>

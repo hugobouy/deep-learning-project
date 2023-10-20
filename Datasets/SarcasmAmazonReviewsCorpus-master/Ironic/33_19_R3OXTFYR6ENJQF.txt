@@ -1,0 +1,16 @@
+<STARS>1.0</STARS>
+<TITLE>Sitting useless on my desk - total junk</TITLE>
+<DATE>May 18, 2007</DATE>
+<AUTHOR>Micah Wedemeyer</AUTHOR>
+<PRODUCT>SanDisk Sansa m250 2 GB MP3 Player (Black) (Electronics)</PRODUCT>
+<REVIEW>
+When I say useless, I mean "unable to be used" not "has some quirky features I don't like"  It started out OK, but after about a month, it is broken.
+ 
+ The problems started when I loaded about 1GB of music onto it.  I had 2 playlists, each with about 500MB of music.  The music would play fine, but switching playlists would take about 2 minutes.  That's right, with a flash player (ie. no moving parts), it would take a full 2 minutes for it to start playing a song when I changed playlists.  I don't know if it was due to number of songs per list or anything like that.  All I know is that it was totally annoying and completely ridiculous.
+ 
+ When I got sick of it and looked on Sansa's website, I noticed they had a firmware upgrade.  So, hoping it was a bug that had been fixed, I ran their firmware updater.  IT CRASHED!!  My jaw nearly hit the floor when the updater crashed.  For those that don't know, an aborted firmware update is the equivalent of a lobotomy for an electronic device.  For what it's worth, the player worked for another day, but then just quit after that.
+ 
+ I plugged it into the computer to sync some music, and it was not recognized.  So, I unhooked it and replaced the battery, hoping to clear whatever snafu was happening.  Since that (1/2 hour ago), I've been staring at the Sansa bootup screen, hoping against all hope that it will eventually spring to life.
+ 
+ I wanted a good quality, non-iPod mp3 player.  Simple, easy, and inexpensive.  The m250 is none of these, considering that you'll end up throwing it in the trash and buying something else.  Save yourself the trouble and get something worthwhile.
+</REVIEW>

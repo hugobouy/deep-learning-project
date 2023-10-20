@@ -1,0 +1,8 @@
+<STARS>2.0</STARS>
+<TITLE>We returned this item.</TITLE>
+<DATE>June 27, 2010</DATE>
+<AUTHOR>COB</AUTHOR>
+<PRODUCT>Norcross Hawkeye H22PX Sonar System (Electronics)</PRODUCT>
+<REVIEW>
+After much work we could not get this item to work.  So we returned it.
+</REVIEW>

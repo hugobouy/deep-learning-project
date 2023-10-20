@@ -1,0 +1,24 @@
+<STARS>4.0</STARS>
+<TITLE>Better than older models</TITLE>
+<DATE>September 11, 2008</DATE>
+<AUTHOR>Tezza "Tezza"</AUTHOR>
+<PRODUCT>Canon LiDE200 Color Image Scanner (2924B002) (Electronics)</PRODUCT>
+<REVIEW>
+I decided to replace my old "all in one" printer which I was using as a scanner and a photocopying with the Canon LIDE200.   I liked the specification: 4800x4800 dpi and a claimed 11 second scan rate. 
+ 
+ The first thing I noticed as I was unpacking the scanner from the box was a mysterious WARNING about unlocking the lid of the scanner.   The scanner was packed with the lid unlocked (as I found out later), and the instructions mentioned to keep the lid locked for travel or extensive handling.  Fair enough, but it made me wonder if I had already done something bad to my scanner (I hadn't). 
+ 
+ I then installed the software.  I expected big things from Canon here, because generally they are pretty smart about software.   The software, in terms of use, is much better than the software I had for scanning with my old scanner.    The scanner has an "easy" setting that basically just scans at 300DPI without a fuss.    If you want to scan at full resolution, you have to open the "driver" that exposes a page with all the bells and whistles to let you really fine tune your scan and set the highest resolutions.  
+ 
+ All this was fair enough, however I found a few minor disturbing problems with the software.   Firstly, once you've opened the "driver", it's not intuitive to figure out how to get back to the "no brainer" mode.   Also, when you want to save your scan, it always seems to default to the scanning library it sets up.  If you override it, it doesn't stay "changed".   This is a slight pain.  I always wonder who they hire to test and give feedback, because I always feel like I'm pointing out what should be the "obvious" to large companies like Canon (actually I really love Canon - so take no offense!). 
+ 
+ As far as scanning speed is concerned, the scanner does indeed scan a 300 dpi page in about 11 seconds (that's pretty fast folks).  However, the estimate does not include the 3 seconds the software takes to respond to the command to begin scanning (I'm running a duo core processor - no slouch) and the few seconds it takes to save the image.   All in all, speed is impressive. 
+ 
+ Now on to document quality.  I tried scanning a few brochures and to be honest, at 300 DPI I wasn't super impressed with the result.   So I went into the "driver" at set the scanning at maximum resolution (4800 x 4800).   You get a pretty good result at that resolution, but by no means was I blown away.   Perhaps more "tweaks" of the driver is needed.   I noticed that the scanner attempts to "improve" the picture (which it does) but some of the detail of the text was a little off (brochure had images and text).  I wondered if the lid of the scanner was making really good contact.  Next time I will add a few pages of plain white paper behind the image and see if it makes a difference. 
+ 
+ I tried scanning a printed document, and compared it to a printed document I scanned using my old scanner.   I scanned the image to a PDF and low and behold, a major, major improvement (at 300 DPI). 
+ 
+ So, I gave the scanner four "stars".  Why not five?   Well, the software is much easier to use than my old scanner, but still not without a few minor "quirks".    This is a great scanner for scanning documents.  How well it will actually scan and reproduce a photo is still in question, and perhaps I need to learn how to use the driver software better.  I don't think I could scan an original photo without seeing some degradation in quality.  
+ 
+ I'd be interested to hear other people's experiences regarding copying photos.   I hope I'm wrong in my assessment, because I really expected a 4800x4800 scanner to reproduce "dead on" copies of a photo.
+</REVIEW>

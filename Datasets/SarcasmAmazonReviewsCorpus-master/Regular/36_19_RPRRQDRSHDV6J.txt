@@ -1,0 +1,10 @@
+<STARS>5.0</STARS>
+<TITLE>Well worth the price</TITLE>
+<DATE>May 31, 2010</DATE>
+<AUTHOR>Byron K. Guernsey</AUTHOR>
+<PRODUCT>Yamaha NP30 Portable Grand Piano</PRODUCT>
+<REVIEW>
+I found several reviews of other Yamaha keyboards that had a grand piano built in, and several of them pointed to this one as a huge value for the price.  The internal Piano sounds are very good, but you only have about 5 or 6 sounds.  I didn't buy it for the internal sounds.  I bought it because of its semi-weighted and graded keys, and the fact that it had a Midi in/out port.  Many of the current generation of entry-level Yamaha keyboards now have just a USB port for interface with a computer over a midi chipset, but lack that actual MIDI ports for connecting to other midi equipment.  This keyboard has the midi ports.
+ 
+ Its also very lightweight and genuinely portable.  My only complaint was that the description said it shipped with a power adapter, and it did not. Most of the sites I checked said the power adapter was sold separately, so I was surprised that it was listed here on Amazon with it...but then it wasn't included.
+</REVIEW>

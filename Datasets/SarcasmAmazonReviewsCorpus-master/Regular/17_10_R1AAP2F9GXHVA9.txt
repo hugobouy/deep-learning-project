@@ -1,0 +1,8 @@
+<STARS>3.0</STARS>
+<TITLE>Good to see uranium here..</TITLE>
+<DATE>October 5, 2005</DATE>
+<AUTHOR>A.M.N. "quixotic"</AUTHOR>
+<PRODUCT>Uranium Ore</PRODUCT>
+<REVIEW>
+First, I'm not sure what the abundance of U-238 is in this sample. In any case, if you want this for "experimenting," note that this is NOT the U-235 that you probably should be looking for. If this sample is pure, even though it's just U-238, it deserves 4 stars. But only 3 for now, since no information is provided here.
+</REVIEW>

@@ -1,0 +1,32 @@
+<STARS>5.0</STARS>
+<TITLE>Buy this phone !!</TITLE>
+<DATE>April 29, 2010</DATE>
+<AUTHOR>Laura Dale</AUTHOR>
+<PRODUCT>HTC DROID INCREDIBLE Android Phone (Verizon Wireless) (Wireless Phone)</PRODUCT>
+<REVIEW>
+I got my Droid Incredible in the mail on Tuesday even though the release date is today (4/29).
+ The phone is stunning...with all the simplicity you'd expect out of a new smartphone and all the fun you'd expect out of a Google phone.
+ 
+ Pros:
+ Android OS and Sense
+ Customizable
+ Beautiful Screen
+ Android Market
+ 8MP camera (shoots well in low light don't let anyone tell you different)
+ super fast processor
+ 7 home screens that you can view by pinching.  You don't have to swipe through all 7.  Makes my friends jealous.
+ the browser is smooth and fast. Auto aligns text when you zoom.  uses multi-touch to pinch and zoom. Smooth scrolling and fast, fast load times.
+ 
+ Cons
+ hard to sync any e-mail other than a gmail account
+ facebook app sucks, but i just made a bookmark to the full site, since the internet is super fast
+ optical trackpad is glitchy but i only use it for the camera
+ battery life...but Seidio is coming out with an extended battery so thats not going to be a problem soon
+ 
+ Bottom Line:
+ Honestly, I have been waiting for a phone like this every since the iPhone.  I don't have AT&T and to be honest I just don't like Apple as a company.  They make cool stuff, but they rip their customers off.  This phone is an iPhone killer.  Compare them on all levels of performance, looks, functionality, customization, and speed and you'll find that the Droid Incredible is the same if not better.  Also, Verizon's coverage is fantastic, so don't be fooled by 4G.  I'm sure its great if you live somewhere where you get service.
+ 
+ EDIT: (4/30) This phone eats RAM like crazy.  I installed "Advanced Task Killer" but I was still down to only 42M after a few days.  I would suggest downloading either "Task Manager" or "TaskPanel" (I have Task Manager and my boyfriend has TaskPanel on his Moto Droid and both work quite well).  I also suggest restarting the phone every few days just like you would a real computer.
+ 
+ Other than that still no complaints   :)
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Broken AMZN algorithm</TITLE>
+<DATE>July 14, 2010</DATE>
+<AUTHOR>Gregory Judd "gjudd"</AUTHOR>
+<PRODUCT>The Overton Window (Hardcover)</PRODUCT>
+<REVIEW>
+Through some peculiar mischance AMZN's mailbots sent me a breathless promotion for this - thing. Is the paper it's printed on two-ply? I can't think of any other purpose to which I would put them....
+</REVIEW>

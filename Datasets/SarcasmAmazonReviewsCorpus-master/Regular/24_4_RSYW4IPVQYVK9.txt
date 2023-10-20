@@ -1,0 +1,13 @@
+<STARS>5.0</STARS>
+<TITLE>Everything and More</TITLE>
+<DATE>April 22, 2009</DATE>
+<AUTHOR>A. Lillethun "Chemical"</AUTHOR>
+<PRODUCT>Razer Mamba Wireless Gaming Laser Mouse 5600 DPI (Electronics)</PRODUCT>
+<REVIEW>
+Pros: This mouse does everything that I've read in all the reviews including the slight jittering of the mouse.  However that is easily fixed by removing the silver/embossed ring around the sensor that reads 5600 dpi sensor, etc.  A quick e-mail to the support at Razer will net you a teflon ring to place into the ring (the mouse however will work fine with nothing there).  I have always preferred wired mice being a very competitive gamer, I would never have chanced my batteries going out on me at a key time in game play.  However this mouse allows you to have the best in both wired and wireless gameplay.
+ 
+ Cons: I wish it weren't so expensive, but you can't always have it your way.  I'm a little leery of having the Razer software update the onboard mouse memory, Synapse, every time I open it to make a change; but that is a fairly minor problem as long as it works.
+ 
+ At the writing of this review, a firmware update is available from the Razer website that solves the problems that many have been experiencing with the battery not charging to full capacity.  I can confirm that this update solves the problem.  Thumbs up to Razer.
+ 
+</REVIEW>

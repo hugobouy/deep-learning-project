@@ -1,0 +1,49 @@
+<STARS>5.0</STARS>
+<TITLE>I approve this remote control</TITLE>
+<DATE>September 19, 2008</DATE>
+<AUTHOR>A. Dent "Aragorn"</AUTHOR>
+<PRODUCT>Sony PlayStation 3 Blu-ray Disc Remote (Accessory)</PRODUCT>
+<REVIEW>
+I did not think I needed yet another remote control because I thought the six-axis had everything it needed for movie playing on the PS3 and, yet, I bought one. There were 2 initial reasons:
+ 
+ - my wife was missing a 'magic wand' shaped remote for playing movies
+ - Amazon had it at a great price in one of them lightning deals
+ 
+ I ended up using it myself and, in fact, using it for more than just movie playing - see below.
+ 
+ But, let's do a quick inventory of features:
+ 
+ = It's blue-tooth enabled and, therefore, it's not taking any ports on your PS3. This is probably important for anyone who has a "2-USB ports console".
+ = It's wand-shaped, allowing the non-gamers to control their movie-watching activities while holding a familiar-shaped device in their hand.
+ = It maps ALL the six-axis buttons and performs everything a six-axis would do, except for the joystick features of R3 and L3 (but you do have the push-down or 'click' abilities for them).
+ = 2 AA battery powered (still with the original Sony batteries after 4 months of use)
+ = Includes additional buttons that the movie-only users would expect on a remote such as:
+  + a number pad
+  + eject
+  + red, green, blue, yellow buttons
+  + play, stop, pause
+  + slow(step), scan(left/right), prev/next
+  + display, top menu, pop up menu, return
+  + subtitles, angle, audio
+ 
+ 
+ What is interesting about this remote is that you can use it for much more than movie-playing. Given that it has all the six-axis buttons, guess what? You can use it, and I do use it to:
+ 
+ - surf the web
+ - play music
+ - shop at the PSN store
+ - play certain games such as Sudoku
+ - turn the PS3 on/off when your six-axis controllers are in the charger and I am playing GT5 that is using a racing wheel
+ 
+ And, yes, you CAN turn the PS3 on and off with this remote. Turning it on is easy - you simply press the PlayStation button and the PS3 turns itself on. To turn it off, you either go as far to the left on the X-bar and all the way up and press Enter (the turn-off PlayStation icon will be highlighted) or you simply hold the PlayStation button pressed for a few seconds and then select 'yes' and press the X button a couple of times.
+ 
+ Overall: I am happy with this peripheral. Yes, it's one more remote control but it's a pretty good one, for the reasons I stated above.
+ 
+ _______________________________
+ 
+ Notes - Aug 29, 2009, after 16 months of use
+ 
+ I find that I'm using the remote more and more, not only for playing movies but for navigating the XMB and at the PSN Store, also when playing music or slideshows. Due to its very convenient arrows wheel with an 'enter' button in the middle, navigating the PS3 and doing just about anything other than playing games is a lot easier than using the PS3 game controller. Unlike the controller which normally requires two hands to hold, this is basically a one-hand operation where you hold the remote in one hand and operate the wheel with your thumb. And because it's Bluetooth, not IR (Infrared), you don't even need to point it at the PS3.
+ 
+ And, one word on battery life. After about 15-16 months of operation, this is probably the third set of batteries so I'd estimate battery life to be about 4-6 months. Not too bad.
+</REVIEW>

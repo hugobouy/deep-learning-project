@@ -1,0 +1,29 @@
+<STARS>1.0</STARS>
+<TITLE>Screen is defective (fades in sunlight) Amazon says replacement won't fix</TITLE>
+<DATE>March 13, 2009</DATE>
+<AUTHOR>Woody</AUTHOR>
+<PRODUCT>Kindle Wireless Reading Device (6" Display, U.S. Wireless) (Electronics)</PRODUCT>
+<REVIEW>
+I've had my Kindle 2 since 2/24 and I loved it at first.
+ 
+ Today is the first day when we have had bright sunshine, so I took the Kindle out in the sun and was dismayed to see that the text (particularly near the center of the screen) faded within seconds. Alt-G refresh of the screen restored the text temporarily but further sun exposure resulted in screen fading.  This is not a problem with the Kindle 1.
+ 
+ Ever since I got the Kindle 2, its text has been lighter than my K1, but not so much that I couldn't tolerate it The fading in sunlight makes the text virtually unreadable.
+ 
+ I contacted customer support (and mind you I have the extended warranty that allegedly give you advance replacement) and was told that A REPLACEMENT WOULD NOT FIX EITHER OF THE PROBLEMS and that what I should do if I were dissatisfied is simply return the Kindle 2 and all the accessories I ordered for it.
+ 
+ Needless to say, I am a very unhappy camper. If replacing my current K2 will not fix the problem, then that means that 
+ 
+ a) they have not identified the source of the problem and 
+ b) that any K2 currently purchased will have a similarly defective screen.
+ 
+ My advice: STAY AWAY FROM THE KINDLE 2 at least until Amazon acknowledges there is a problem and provides a fix. For me, I plan to stay away from the Kindle 2 forever. 
+ 
+ Thank heavens I didn't sell my Kindle 1!!
+ 
+ ADDENDUM:  Following the events above, I sent feedback to Amazon about how dissatisfied I was with Customer Support.  The next day I did get a call back from someone else in Kindle support who agreed to send a replacement Kindle 2 out ASAP.  It should arrive Tuesday and I will post followup once I have a chance to check it out in bright sun.  FWIW, however, I have decided to hang onto my K1 just in case.
+ 
+ ADDENDUM 2:  After two replacements, I finally got a K2 that does reasonably well in terms of the darkness of the text and one on which the text does not fade in the sun.  I say "reasonably well" because the text is still noticeably lighter than the text on my K1.  
+ 
+ Despite the lighter text, I prefer the K2 for its thinness and its improved navigation and I use if far more than my K1.
+</REVIEW>

@@ -1,0 +1,39 @@
+<STARS>4.0</STARS>
+<TITLE>My review of the Archos 5</TITLE>
+<DATE>December 26, 2009</DATE>
+<AUTHOR>F. Carretero "Metallica Guitar Newbie"</AUTHOR>
+<PRODUCT>Archos 5 160 GB Internet Tablet with Android (Electronics)</PRODUCT>
+<REVIEW>
+Well Despite all the reviews, I decided to order the Archos 5 160GB version. I was a little worried about what I would encounter, however there worries would soon transition from worried to eased.
+ 
+ The make of this device is very solid and it is a little big for the pocket, but it's manageable. This device would be significantly useful for people on the go as it allows you to bring a large amount of media with you all in a neat little tablet that can handle HD output (Given some videos are going to be laggy, but this is normal for most hand held devices as they do not have the rendering capabilities that of a computer does). However to deal with this, Archos is trying to maintain regular updates. Just recently they released 2 updates for the Archos 5. If you go to the main Archos site, which is at [...] you can look at the updates that have been released for the device. It turns out that with each update they are trying to clean up the HD output given the limitations of the hardware also they are working on another update which is called doughnut, which is version 1.6 android, I believe (which will hopefully include the android market!! :)). This device also has a TON of space.
+ 
+ With all this space it can have other uses as well. I, Personally, have a large collection of books and music, I used this device as a backup of all my files so that in the event that anything happens to my main machine, I will always have the files I prioritized. Another neat little thing that the Archos 5 can do is it can read PDFs and Office Files, which is nice if you ever have to edit your office files on the go.  With the amount of area that is displayed by the screen, it allows for a very nice and ease of reading. At times I can find myself reading a book on it and reading it with ease with the large screen, as well as the capabilities of the software to handle PDFs. One thing to be noted by this is the fact that due to the hardware constraint, it will have to load each page after you read about half of your current page and half of the next page in order to have it load the next page. This is done to save space and maintain its longevity due to its hardware constraints. However, the transitions is very fast, shouldn't be a pain, although a very minor annoyance. One thing I should note is that some people have claimed that some videos are not able to play, although I have yet to encounter this issue.
+ 
+ I feel that I got a huge bargain on this device. Given its updates and overall capabilities as not only an internet tablet but also its media playback along with its touchscreen capabilities (which is acceptable, in practicality -- Make sure that you configure the touchscreen when it seems to not be functioning properly) it almost feels like a steal. To sum up the review I'm going to make a list of pros and cons.
+ 
+ Pros
+ 
+ Large beautiful screen
+ Touch Screen
+ Variety of Media playback capabilities
+ Made with Android OS (very stable)
+ Can be used as a PDF Reader as well as do MORE
+ Has GPS capabilities
+ Lots of applications -- AppsLib (And much more will come when android market is finally released -- although there is a way to get market on it with a little trick-- but it does not include all the times that are in the CURRENT market, its a makeshift to get it to work AND Google applications be installed using this little trick, Google "Android Market on Archos 5 Internet Tablet")
+ Lasts a good amount of time
+ Easy to use
+ 
+ ------------------------
+ 
+ Cons
+ 
+ No android 2.0 (yet..?)
+ Charging is somewhat slow (it will lose charge [when plugged in via DC-IN USB to MiniUSB] when transferring files to it, do it in chunks to deal with this issue, although you'll still lose battery life)
+ Somewhat laggy Video playback (should be remedied somewhat with updates)
+ Locks up sometimes (this was in the past, however with the new update they released I haven't seen it happen..yet?)
+ LONG start up time (use standby)
+ 
+ I hope this review helps you guys decide on buying one :)
+ 
+</REVIEW>

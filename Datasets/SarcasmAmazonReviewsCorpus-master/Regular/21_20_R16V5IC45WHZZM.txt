@@ -1,0 +1,18 @@
+<STARS>1.0</STARS>
+<TITLE>Not a UMS storage device!</TITLE>
+<DATE>August 18, 2007</DATE>
+<AUTHOR>Developer</AUTHOR>
+<PRODUCT>Samsung YP-U3JQB 2GB Touch Control MP3 Player (Black) (Electronics)</PRODUCT>
+<REVIEW>
+"The U3 also functions as a flash drive. You can use it to transfer files from one computer or USB device to another."
+ 
+ This is a false claim. The YP-U3 is not a "USB Mass Storage" (UMS) device, and consequently, will not mount on the desktop of Windows or Macintosh computers as a drive. The device requires that you install software (Windows only) to manage the content of the device. Since I bought this with the intention of using it as a flash drive on my Macintosh computer, it's now useless in that capacity. I can't even use it on the Windows machines at work because it requires the installation of software on any machine you want to use it as a storage device with.
+ 
+ After doing a bit of research on the 'net, I've come to learn that previous generations of this device (U1 and U2) as well as *every other* similar Samsung device had this functionality, with the exception of the U3. Some folks recommend downgrading the ROM to a UMS-compatible version (the ROM download is, in fact, available from Samsung's site) but it seems this particular device is 'smart' and does not allow itself to be modified for UMS functionality.
+ 
+ I'm sorry to have to rate this product 1 star --  but flash drive functionality was the only reason I bought a 2GB device instead of some other player/recorder/radio with less memory. It's actually pretty nice, and I own 2 iPod's and an iPhone. The FM radio sounds very good, and the voice recorder is also nice.* The UI is very clever and only a tad more complex to use than an iPod. All around, a nice, tiny, device. Oh, and you can even turn off the LED effects, since out of the box, the default behavior is to flash bright LEDs every time you press a button.
+ 
+ Anyways, with regards to flash drive functionality: Buyer beware!
+ 
+ *With regards the voice recorder, it picks up the noise of your hands when you handle the device. So if you hold it while recording, it will record every squeak and brush of your fingers as it rubs across the surface. Very annoying. Fortunately, it has a clip that will let you tuck the thing in your pocket. So long as you don't move much, you won't pick up the extra noise.
+</REVIEW>

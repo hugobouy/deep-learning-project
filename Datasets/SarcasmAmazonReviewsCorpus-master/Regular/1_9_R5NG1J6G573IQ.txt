@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>One of the best for the money...</TITLE>
+<DATE>July 3, 2009</DATE>
+<AUTHOR>B. Campbell</AUTHOR>
+<PRODUCT>Panasonic DMP-BD60 Blu-ray Disc Player (Black) (Electronics)</PRODUCT>
+<REVIEW>
+I purchased this player to replace a Samsung BD-P2500 that was giving me major compatibility problems with Blu-ray discs, and so far haven't been disappointed.  Picture quality on Blu-ray is stunning and I've had no compatibility issues thus far; upscaling on standard DVDs is great. VieraCast is a novel feature that could someday find greatness if Panasonic expanded support to include Amazon, Netflix and Hulu. (I understand Amazon support is on the way.)
+ 
+ I have not experienced the freezing issues that some describe here, but I think that's due to how I use the player more than anything else. (I watch a disc or two at a time, then power the unit off between uses - for a technical explanation of why this apparently sidesteps the problem, see the next paragraph.) In any case, I've read online recently that Panasonic has finally figured out the cause of the freezing issue and is now working on a firmware update to fix it.
+ 
+ (For you techies out there, here's a bit more detailed explanation of the freezing issue, based on what I've gleaned online: Blu ray discs make heavy use of Java, and the BD60 apparently has "garbage collection issues" that cause the freezing.  Powering the unit off periodically clears out what's in memory, minimizing the likelihood of another freeze-up. Since I tend to watch one or two Blu-Ray discs at a time and then shut the unit off for between uses, I haven't experienced any freezes.)
+ 
+ The only other quirk I can report is that while the unit does support 24fps playback on DVDs, you have to switch it on manually every time.  Kind of a pain, but only a pain if you're a video purist.
+ 
+ That's it.  No other issues.  Sorry for the boring review, but this player just does everything that it's supposed to without complaints.  I consider it one of the best A/V investments I've made in a long time, and would recommend it to others without hesitation.
+</REVIEW>

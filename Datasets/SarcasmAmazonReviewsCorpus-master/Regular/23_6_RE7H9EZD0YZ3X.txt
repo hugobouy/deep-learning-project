@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Clarity For The Confused!</TITLE>
+<DATE>October 5, 2009</DATE>
+<AUTHOR>S. Hochstetler</AUTHOR>
+<PRODUCT>Mini DVI Male to HDMI Female Video Adapter Cable</PRODUCT>
+<REVIEW>
+Ok, there seems to be some confusion as to what this product will do over the mini-dvi to VGA adapter that Apple sells, so I hope I can shed some light on the matter. The mini-dvi to VGA allows you to display your computer monitor on your television screen with resolutions that your COMPUTER MONITOR is capable of. This is very limiting as most TVs will not support the higher resolutions of the monitor, leaving you with little better than 800x600. In comes the mini-dvi to HDMI adapter, which allows you to display your computer monitor on your television, but the real magic is in the resolutions you are now given. The resolutions are HDTV compatible, allowing for HD viewing( I view mine in 720p). If you're looking for a quick answer, this product is much better than any mini-dvi to VGA that is out, simply for the fact that your resolution will be higher on the TV, resulting in a clearer picture and much more readable text.
+</REVIEW>

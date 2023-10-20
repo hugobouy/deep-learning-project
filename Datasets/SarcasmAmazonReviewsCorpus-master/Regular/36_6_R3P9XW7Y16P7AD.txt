@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Good purchase</TITLE>
+<DATE>September 12, 2009</DATE>
+<AUTHOR>Thane</AUTHOR>
+<PRODUCT>Rebel Flag Pewter Belt Buckle (Apparel)</PRODUCT>
+<REVIEW>
+Very pleased with the product and its quality.  I would recommend this buckle any day.
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Do NOT buy or use this gamepad! (NO STARS!!)</TITLE>
+<DATE>February 23, 2003</DATE>
+<AUTHOR>W.C. Wheels</AUTHOR>
+<PRODUCT>Gravis Eliminator GamePad Pro  (PC/USB Mac) (Electronics)</PRODUCT>
+<REVIEW>
+Although it has 10 workable buttons which come in handy for some games, it has some major flaws. On some games, if you press Up on the gamepad you go Down, and when you press Down you'll go up. The directional pad is totally useless, games where you need to move the D-pad rapidly, forget about it!! The buttons in the back eventually get stuck. You can't use any other Gravis controller while this one is in use. And on top of all that, not even the uninstaller works right. When you goto uninstall the controller, it screws up your computers registry files. It was a nightmare just to get my computer working again. I'll never buy another Gravis gamepad again.
+</REVIEW>

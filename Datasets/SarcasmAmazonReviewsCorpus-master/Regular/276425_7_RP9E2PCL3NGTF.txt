@@ -1,0 +1,9 @@
+<STARS>5.0</STARS>
+<TITLE>Best gadget I ever owned !</TITLE>
+<DATE>June 27, 2010</DATE>
+<AUTHOR>S. Nair "santhosh"</AUTHOR>
+<PRODUCT>HTC DROID INCREDIBLE Android Phone (Verizon Wireless) (Wireless Phone)</PRODUCT>
+<REVIEW>
+This is arguable with the best gadget I ever bought. Completely changed my life style.This phone is a mini-computer, camcoder, phone ,music player and offcourse wireless phone packed in a tiny capsule. HTC Sense UI on top of Android is far better than the one comes with latest iPhone4 . The sad part is , poor apple fan boys don't know that yet. Apart from the UI & usability, the feature I like most is speech recognition . This works amazingly accurate and is much faster than typing.
+ I wish the battery life is bit longer. I have to charge the phone everyday.
+</REVIEW>

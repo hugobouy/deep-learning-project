@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Perhaps the greatest book ever written</TITLE>
+<DATE>July 22, 2005</DATE>
+<AUTHOR>Vinnie</AUTHOR>
+<PRODUCT>Dianetics: The Modern Science Of Mental Health  (English) (Paperback)</PRODUCT>
+<REVIEW>
+L. Ron Hubbard wrote 'Dianetics' while under the influence of amphetamines and alcohol, plus his usual three or four packs of filterless Kools per day. In the book itself, Hubbard recommends Benzedrine. If not for the pharmaceutical company that manufactured Benzedrine, and the distillery that made the Gin, plus a regular supply of mentholated cigarettes, which provided nicotine, we likely would not have had this masterpiece.
+</REVIEW>

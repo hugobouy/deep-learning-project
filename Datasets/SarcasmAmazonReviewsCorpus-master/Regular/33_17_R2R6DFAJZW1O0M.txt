@@ -1,0 +1,18 @@
+<STARS>5.0</STARS>
+<TITLE>The upgrades are worth it</TITLE>
+<DATE>January 31, 2010</DATE>
+<AUTHOR>J. Chan</AUTHOR>
+<PRODUCT>HP Mini 311-1025NR 11.6-Inch Black Netbook - Up to 6.25 Hours of Battery Life (Windows 7 Home Premium) (Personal Computers)</PRODUCT>
+<REVIEW>
+We bought this to replace an early-model netbook and are amazed at the improvements newer models have applied.  We carefully compared several models, including other stock models from HP sold by Amazon, and determined this one was the best bang for the buck.
+ 
+ My wife and I are authors and primarily use this for word processing, but also use it for in-bed media (Hulu/Netflix) and gaming (old school games with minimal requirements).  The keyboard size was an initial concern for us, because we never fully adapted to the really small keys of our previous netbook, but upon receiving the unit, we had no problems adapting to the keys in any way.  
+ 
+ The screen is very bright by default and we have not had the glare or underlit problems we have had on other screens.  We have successfully used the HDMI connector on several different TVs without any issues.  The speakers can get decent volume, but the quality isn't too great.  Most of our media runs just fine.  Flash Player 10.1 is supposed to increase the speed of video playback of certain types, but we didn't experience a significant gain, but it could be user error/browser choice/etc.  Netflix runs just fine and Hulu runs perfectly in its normal size, but full screen it chugs.
+ 
+ I'm not thrilled with the power adapter plugging into the left side of the machine (prefer it in the back), but with the long battery life with minimal performance degradation, I just leave it out, even if a plug is nearby.  My wife, however, is just fine with its placement, mostly the aesthetics of having the sleek back.
+ 
+ Speaking of the aesthetics, the shell casing is very attractive and does not collect as many smudges/fingerprints as we would have thought.  The unit is very light with enough stability that we don't worry about crushing the screen against the keys if we squeeze too hard.  We're able to tote it around the house and on quick trips without feeling any burden physically or time-wise.
+ 
+ Some of these pros are relevant to netbooks as a whole, but this particular build with a REAL version of Windows 7, extra RAM, and upgraded hard drive make it a winner.  The processor is the lesser of the two major Atoms, but I doubt anybody would be able to realistically discern a difference even in a side-by-side test.  We love it!
+</REVIEW>

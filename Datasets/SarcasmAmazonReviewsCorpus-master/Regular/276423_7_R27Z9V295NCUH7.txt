@@ -1,0 +1,36 @@
+<STARS>4.0</STARS>
+<TITLE>Good unit for the price</TITLE>
+<DATE>November 5, 2008</DATE>
+<AUTHOR>John S. Dean "John"</AUTHOR>
+<PRODUCT>Garmin nüvi 265W/265WT 4.3-Inch Widescreen Bluetooth Portable GPS Navigator with Traffic (Electronics)</PRODUCT>
+<REVIEW>
+Spent a weekend reviewing various GPS devices to replace my less than 1 year old Mio C320 (avoid these like the plague) that had its battery die about 4 months after purchase.  Went back and forth along the entire line of Garmin devices, and finally settled on this one for the blue tooth and traffic, neither of which I'll probably hardly ever use, but nice to have when I want them.  
+ 
+ I was disappointed with the map, the "new" 2009 one, because I have some streets in my neighborhood that have been around for over four years and they're not to be found on this unit.  Even the piece of junk cheap Mio had these streets. 
+ 
+ But that's about the only downside there is to it, the only reason I haven't given it 5 stars.
+ 
+ Having been used to the MIO, and the horrible refresh rate, it is a pleasant change to see smooth scrolling as my vehicle moves.  The ability to change the car icon is nice, especially with the plethora of icons available on the garmin website.
+ 
+ Accuracy is very good as well, and even in turns the unit isn't so laggy that it becomes annoying.  And also unlike what I was used to with the MIO, when I come to a stop at the intersection, the map doesn't start rotating randomly on me.
+ 
+ Speaker is about as I expected, won't hear much over a loud stereo but crank it up enough you can at least hear it if you keep the music down a bit.
+ 
+ The option to easily download voices is also appreciated.
+ 
+ It did well with my testing of going point to point, following the instructions, and for the most part you're given the instructions in plenty of time.  only once or twice did it not tell me "turn right on such and such" until I was about 20 feet from the street, but that was when I was coming up on stop signs and had slowed down, so it may be compensating for the speed factor.
+ 
+ Recalculation notice is a bit annoying, my MIO would say it once, sometimes this says it three times before it starts to display the alternate route.
+ 
+ Still has about 900MB free on the internal memory for additional voices, icons, maps, and such, and with the SD slot there's plenty of room to grow.
+ 
+ I have a Verizon XV6900 phone with Windows Mobile 6.1, and while the bluetooth paired well and it can see the phone status, battery power, signal, even dialed and missed call lists, it never does get the phonebook.  it gets a random entry and that's it - so whenever I turn it on, I have just one user to select from, and it's different each time.  Still haven't tracked that one down yet.  But every other bluetooth option worked just fine.
+ 
+ I'm not a fan of the very thick double power cable for it though, and it would be doubly annoying (no pun intended) if I were mounting this somewhere higher up on the window to have that double cable dangling down.
+ 
+ I can see how the ads would get annoying sometimes (the free traffic is because it is advertising driven) but you don't get them at all if you turn off the traffic feature, and since most of my driving isn't around times that traffic is a concern, i can just leave it for when I really have a use for it.
+ 
+ Good response to finger input, and while the unit is overall much better quality than the MIO, I really do miss the MIO's ability to have an info pane down the last third of the screen and the map on the first two thirds of it when desired.  But there's some of that info available in the data bubbles on the bottom and top so I'll survive.
+ 
+ Overall happy with the unit, it works well and was worth the cost.
+</REVIEW>

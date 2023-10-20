@@ -1,0 +1,11 @@
+<STARS>5.0</STARS>
+<TITLE>This quantum tunneling ethernet cable is incredible!</TITLE>
+<DATE>June 16, 2008</DATE>
+<AUTHOR>Mark James</AUTHOR>
+<PRODUCT>Denon AKDL1 Dedicated Link Cable (Electronics)</PRODUCT>
+<REVIEW>
+The Denon AKDL1 cables increase polarized hyperbaric ethernet throughput to over 70 petabytes/second. This cable is the first in a series of nano-molecular para-polarized transparent aluminum cabling, soon to be standard in all Denon audiophile equipment.
+ 
+ Since carefully installing the Denon cables using the provided surgical gloves, my system has stablized in Hilbert space. Apparently the Denon AKDL1 performs polarized nanoscale quantum tunneling by using a custom transparent aluminum cable matrix to push parameterized vorgon particles through a dark fibre phase variant Heisenberg compensator. How they accomplish this for only $500, I don't know. 
+ 
+</REVIEW>

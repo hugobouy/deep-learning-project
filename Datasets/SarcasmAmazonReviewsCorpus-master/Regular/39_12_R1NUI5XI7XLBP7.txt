@@ -1,0 +1,22 @@
+<STARS>5.0</STARS>
+<TITLE>Boy, was I pleasently surprised!</TITLE>
+<DATE>April 22, 2009</DATE>
+<AUTHOR>M. K. Russell "Techy Guy"</AUTHOR>
+<PRODUCT>ViewSonic VT2430 24-Inch 1080p LCD HDTV (Electronics)</PRODUCT>
+<REVIEW>
+I began my search for an LCD HDTV/Monitor over a month ago and purchased 4 other similar items before purchasing this ViewSonic VT2430 and returned the previous 4 for poor performance.  I was actually looking for a unit which included a DVD player for use in training lectures.  But, I couldn't find the right combination so I decided to settle on a unit without the DVD player, since those that are built in are all cheap players.  This way, by keeping the TV and the DVD player separate I can always update the player as needed (BlueRay!).
+ 
+   I looked at a LOT of HDTV/Monitors and chose the VT2430 for its native 1920x1080 pixel resolution.  This works out perfectly with the 1920x1080i signals coming via my cable.  And...the pictures are absolutely stunning!  More so than I even expected, even already knowing the quality of Viewsonic monitors.   And there are plenty of options for modifying and managing the images from all inputs.  One reason for returning a Toshiba unit was that it's native resolution is 1680x1050 pixels, which, when fed a 1920x1080 pixel signal (HDTV) stretches the image vertically...without any way of correcting the distortion.  In fact, the manual states that "image size adjustments are not available with 720i and 1080i signals"!  VERY poor planning as most cable signals are either 790i or 1080i. 
+ 
+   The PC image obtained with the VT2430 is absolutely awesome.  I'm typing this review with this monitor with the resolution set at 1920x1080, a perfect match with my PC.  There are at least 10 other resolution settings that work as well - just lower resolution results.  Regardless of the resolution sent from my PC, the VT2430 automatically adjusts for the best picture with each setting.  Very neat.
+ 
+ The audio was another problem I found with all of the other units I tried.  Most of them were either too low in volume or, when the volume was turned up became very distorted.  Not so with the VT2430.  Plenty of clean sound at all volume settings, including loud enough for filling the rooms where I do my training.
+ 
+ The image I get from my (LG) DVD player, which upgrades to a 1080i output via an HDMI cable, is very good.  I also have a BlueRay player which puts out a 1080p signal, which, again, perfectly matches the resolution of the VT2430, for a beautiful picture.
+ 
+   The overall picture of this monitor is far more accurate, clean, and viewable than any of the other monitors I looked at.  The dynamic range is very wide, including the darker colors and grays and blacks, not quite up to my 52-in Samsung (Over $2,300!), but closer than any other comparable sized monitor.
+ 
+   Physically, I like the fact that the monitor can be tilted back for watching from higher positions.  Also, the flat stand can be quickly removed for transporting in its original box, which I do often when I'm training.
+ 
+ Great monitor.  I would recommend it to anyone.  I would, however, downgrade its rating by 1/2 point for not having a DVD player.  But, that is not what it is!  ViewSonic does sell an LCD HDTV/DVD Combo monitor, but it has a lower pixel rate designed more for 720i resolution, which is OK for most uses at this smaller size.  But, having been a TV studio tech in charge of adjusting and maintaining studio monitors, I became too picky and always need(!) the best.
+</REVIEW>

@@ -1,0 +1,38 @@
+<STARS>4.0</STARS>
+<TITLE>A good introduction to home brewing...</TITLE>
+<DATE>September 1, 2007</DATE>
+<AUTHOR>Otto "Otto"</AUTHOR>
+<PRODUCT>Mr. Beer Premium Edition Home Microbrewery System (Kitchen)</PRODUCT>
+<REVIEW>
+I received the Mr. Beer kit for Xmas, and it's a good system overall. It serves as a very good introduction to home brewing, but it does have some downsides as well.
+ 
+ Good bits:
+ -The system is about as easy as it could be.
+ -The instructions are clear and simple.
+ -The fermenting tank is small (2 gallons), meaning that you don't have to wait around for a long time to taste the final product. With your more normal 5 gallon kits, you have to bottle a LOT of beer, and wait a bit longer for fermentation.
+ -There's dozens of mixes available on their homepage, and they offer a lot of quality products at reasonable prices. Join their club to avoid the expensive shipping charges.
+ 
+ Not so good bits:
+ -The fermenter is almost too simple. A proper airlock design would make it more foolproof as to tell when fermenting is complete, as well as avoiding contamination of the beer.
+ -The included mixes, while of good quality, produce a rather poor beer by comparison to what it is possible to make with the kit. Their website has a lot better product than what they include in the kit, and this gives some people bad impressions of the kit itself. The fault is not with the kit, but with the very basic starter beer in the package. The separate mixes they sell in stores are not much better, being all very basic brews. They're not bad, but they're not great either. Mediocre at best.
+ -Sterilization (which is possibly the most important part of home brewing) is difficult because the fermenter is not dishwasher safe. A higher quality plastic that could stand high temperatures would be a better overall choice for the fermenting keg, since automatic dishwashers are a great way to sterilize your equipment easily.
+ 
+ My suggestions on how to use this kit correctly:
+ -Go to their website and pick up some of the more advanced receipes instead of using the mixes as given initially. If you've used those included mixes, don't be disappointed overall, it's that the mixes are very basic. Using the better receipes and the better ingredients, you can make quite incredible brews.
+ -Keep the fermenter in an enclosed dark space during the fermenting process. I recommend a large cooler. This avoids contamination of the product as well as keeping it at a steady temparature.
+ -Be very, very careful to sterilize completely. The OneStep cleanser they include is very good, but you do have to use it properly. Read the instructions and be sure that everything gets cleaned extremely well.
+ -No matter what the instructions say, bottle conditioning takes longer than a week. Really. Wait 2 weeks, preferably 4, before you crack the first bottle. The beer only gets better the longer you let it mature in the bottles.
+ -Go easy on the sugar. Too much sugar in the bottles and they will explode, or taste like cider.
+ 
+ If you use the kit as intended and with a careful eye for cleanliness, then you can produce some excellent quality brews in a very short time. But follow those instructions precisely. Anything less will result in poor quality brews.
+ 
+ ----
+ After using it for over a year, I have some more things to add:
+ 
+ - DO NOT OVERTIGHTEN THE LID. The lid must allow the gases produced MUST escape. This is especially true with their higher alcohol mixes and stouts. If you overtighten, the end result will be spilled beer and a ruined keg. I brewed a dopplebock using the keg, and overtightened it. Result: The keg overpressurized and almost burst. Some foam came out of the top of the keg, and spilled into my cooler. The residue, once it dried, provided food for.. well.. not so nice creatures. The keg was naturally unusable afterwards. However, this was my own fault, and a new keg only cost me $10 through the Mr. Beer website, so it was not a total loss. And the beer (since it was not contaminated due to the pressure differential, I bottled it anyway) turned out to be absolutely spectacular. So whatever you do, don't tighten it too much. A little hand pressure for tightening is enough.
+ 
+ - Again, go easy on the sugar when bottling! Somebody told me that they had one of the plastic bottles burst on them and the remainder tasted like cider. This is the result of excessive sugar in the bottling process. I highly recommend you get the sugar measure that they sell, if you are bottling in the 12oz, 22oz, or 1 liter sizes. The sugar measure is very easy to use and exact in nature. Takes out the measurements and guesswork.
+ 
+ - Finally, I do not recommend normal bottles with a capper. These are difficult to use and contrary to popular belief, do not produce better beer. The screw top bottles are simplest because they hold the pressure in properly and are trivially simple to use. Alternatively, Mr. Beer sells 16 oz "Grolsch style" bottles on their site, which are the rubber grommeted wired cappers, and they work very well. If you must bottle with glass, get those. Or go find similarly capped bottles of beer and use those bottles (after dishwashing, of course). Glass is much easier to sterilize because it's disahwasher safe. Just take the rubber caps off first.
+ 
+</REVIEW>

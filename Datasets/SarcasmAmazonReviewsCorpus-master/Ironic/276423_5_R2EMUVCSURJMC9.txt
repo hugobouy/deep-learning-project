@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Beck's finest novel</TITLE>
+<DATE>June 30, 2010</DATE>
+<AUTHOR>Kirk Davis</AUTHOR>
+<PRODUCT>The Overton Window (Hardcover)</PRODUCT>
+<REVIEW>
+I'm not what most people would call "political." I'm more into things like backpacking. But sometimes when I read something I just think, "Yep. This is pretty killer." I kind of thought that when I read this book.
+</REVIEW>

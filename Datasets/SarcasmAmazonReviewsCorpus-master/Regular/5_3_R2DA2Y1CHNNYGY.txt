@@ -1,0 +1,26 @@
+<STARS>4.0</STARS>
+<TITLE>Good fun for the creative folks out there...</TITLE>
+<DATE>September 21, 2008</DATE>
+<AUTHOR>Rick</AUTHOR>
+<PRODUCT>Polaroid CZA-10011B PoGo Instant Mobile Printer (Black) (Electronics)</PRODUCT>
+<REVIEW>
+I purchased the Polaroid PoGo today and have done a fair bit of "playing" with this compact little printer over the past couple of hours. In fact, I have already used the first package of 10 sheets of Zink (Zero Ink) paper that come with the printer. So my first recommendation is; if you are planning on buying a PoGo, I highly recommend getting extra paper so you can get through your "testing" phase without having to purchase more paper. However, don't go crazy and buy too much, there are expiration dates on the paper which may affect your picture quality if you take to long to "expose" (print) them.
+ 
+ Connectivity:
+ I have tested the Bluetooth capabilities with my Motorola Q, Laptop Computer (Bluetooth enabled), my desk-top Windows Vista computer (with Radio Shack "Bluespoon" Bluetooth 2.0 adaptor added) and my PictBridge capable Canon Powershot A 640 camera (directly connected to PoGo via USB cable) and the printer worked like a charm in all of the above tests!
+ 
+ Speed of Printing:
+ Print time is about 1 minute per photo. There was no noticeable change in print speed with any of the tests I performed. Using the Bluetooth (wireless) connection or plugging in your USB cable directly from your camera did not seem to make any difference as to how fast the image printed. 
+ 
+ Image Quality:
+ Not great...but not the worst I have seen either...The pictures I printed from my camera (via USB connection) looked better than my pictures from my cell phone, but this was likely due to the higher megapixel image created by my camera versus the 1 megapixel image from my cell phone. However, the "white balance" of both my camera and cell phone images were a little "off". The whites were extremely white (almost washed-out) and the dark (shadow areas) were very dark. So if you stay away from printing bright "beach / snow" images or dark "night" photographs you will be OK. Photos with lots of color (flowers, for example) looked pretty good when printed with the PoGo.
+ 
+ Cool things to do:
+ The adhesive on the back of the photo paper is a nice feature of this product. This makes it possible to add pictures to your hand written journals. You can stick them to business card magnets and put photos all over your refrigerator. You can make photo luggage tags, cards and much, much more. 
+ 
+ If you don't need the highest quality image, but want to do some fun, creative stuff with photographs I would definitely recommend the PoGo. If you are a photographer hoping that the PoGo would give you a quick "proof" of what your printed images will look like, then this printer is probably not for you, since the image quality is not as good as you could get with some standard ink jet printers. 
+ 
+ Have fun...
+ 
+ 
+</REVIEW>

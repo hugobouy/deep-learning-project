@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>Great starter for novice</TITLE>
+<DATE>April 29, 2003</DATE>
+<AUTHOR>David Petty</AUTHOR>
+<PRODUCT>The Elements of User Experience: User-Centered Design for the Web (Paperback)</PRODUCT>
+<REVIEW>
+Not to diminish the value of this great book, but, it is very basic. Establishes a good basic overall process to efficiently manage user interface development. Takes you through step by step. Essential to have this approach before looking at other aspects in more depth. Not technical, so you don't need to be a developer to understand concepts. Good value and a quick read.
+</REVIEW>

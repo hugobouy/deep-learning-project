@@ -1,0 +1,29 @@
+<STARS>5.0</STARS>
+<TITLE>Excellent, easy to set up, really nice unit</TITLE>
+<DATE>October 20, 2009</DATE>
+<AUTHOR>Goldengate "Goldengate"</AUTHOR>
+<PRODUCT>Western Digital WD TV Live Network-ready HD Media Player WDBAAN0000NBK-NESN (Electronics)</PRODUCT>
+<REVIEW>
+There are already some very well-written informative reviews on this player, so I'll try to focus on the "out of the box experience" since mine is literally just out of the box today.  Because my order on Amazon for this product was backordered for a month or more, I called all the local Best Buys until I found a WD TV Live that was not showing up on their "store availability" page and purchased it for $119 plus tax (oh how I missed Amazon when the tax was added on at my local store!).  The price on Amazon has gone all over the place the last few days, from $119 to $149.  I'm assuming we'll see it at $99 after the initial release period is over since several media players are now priced at that point.
+ 
+ I went home, unpacked the box and in my haste I didn't even see the installation CD that came with the unit.  (I just ran it now so I could tell you about it - it includes a utility which allows your computer to "see" the WD TV, as well as the manual and some other fluff).
+ 
+ I plugged the WDTV into an ethernet jack on my router, used the supplied cables to attach to my TV, plugged in the power cable and literally minutes later I was watching videos stored on my computer!  The WD TV immediately logged onto our computer network and saw both of our computers (Windows XP), and I was able to watch media stored on both.  Wow.  Very easy.  Then I navigated to Pandora, punched in my account information, and 30 seconds later was listening to my Pandora music stations.  Next stop was YouTube (another menu option), I plugged in my YouTube name and password, and was able to see my YouTube subscriptions.  
+ 
+ I then went into the settings menu and clicked on "update firmware" just to make sure I had the latest firmware installed.  After about 5 seconds of the unit checking with Western Digital, it confirmed my firmware is up to date.  Again, very easy.  I was also able to register the unit from the onscreen display, and received a confirmation email.  I found the onscreen menus very logically laid out and easy to use.
+ 
+ Watching movies stored on my computer and accessing YouTube/Pandora was great - but I wanted to see if I could access Hulu.  So, I navigated to the "media server" menu and it saw my Tversity software program running on one computer.  I clicked on that and minutes later I was watching "Glee" (a program on ABC).  The only issue I ran into was that fast forward would sometimes cause the program to freeze and I would need to re-start.  Given that this media player is brand new and basically in what feels like a beta release, sold out just about everywhere, I'm assuming that a firmware upgrade in the coming weeks will fix that bug as well as any others I come across.  I tried a few other programs and was only able to replicate the issue intermittently.  However, pause caused no problems.  And, I don't expect Western Digital to support Tversity, which may be the root of the problem (vs the WD player) so I'm not taking off marks for that one issue.  I'm just happy I can watch a variety of shows streamed from Tversity on the WD TV.  (A google search on Tversity will take you to the download site for that wonderful free to try program).
+ 
+ My previous media server, the D-Link DSM-320 D-Link DSM-320 Wireless Media Player, Audio/Photo/Video, 802.11g , is not nearly as nice... I spent hours and hours and hours (days) configuring it and getting it to "see" my home network.  I also found the user menus to be very cumbersome with navigation almost an afterthought.  In contrast, the WD TV is a dream come true and definitely feels like the "next generation" of media servers.
+ 
+ I've tried a number of video and music formats, and they've all played with no problem (except for the fast forward issue above).  I watched a slide show of pictures stored on one of my computers.  All of this without reading a single manual or going to a single internet help forum.  Literally, plug and play.
+ 
+ So, overall, I'd say this is a strong unit, and I'm very happy with it.  Since I am reviewing the unit much sooner than I normally would, I do commit to the Amazon community that if I experience issues with the WD TV I'll return to update this review.  But based on my experience with other media servers and other hardware setups, I think this is a winner.  Highly recommended.
+ 
+ Hope this helps!
+ 
+ 
+ UPDATE 11/12/2009:  Almost a month later and I'm 1000% happy with this player... no issues.  Works great... fast..great interface... I'm going to give one or two of these as holiday presents this year.  I've replaced my DVR on my second TV and no longer pay the cable company $14 per month for a DVR... this little gizmo is going to pay for itself!
+ 
+ LAST UPDATE 12/5/2009: I was experiencing video freezing with Hulu using the Tversity software on my computer... I switched to Playon and am really glad I did!  Flawless performance on Hulu streaming and TONS of content (i.e. you can watch tons of old TV shows like Dynasty and Mary Tyler Moore).  Still very happy with this unit.  I do agree with other  reviewers - it would be nice if remote had a volume control, and some of the navigation screens are a bit "clunky" but overall very happy.
+</REVIEW>

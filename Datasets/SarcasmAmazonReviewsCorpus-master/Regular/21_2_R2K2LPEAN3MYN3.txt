@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>Buy the points card- Don't give Microsoft your credit card!</TITLE>
+<DATE>November 15, 2006</DATE>
+<AUTHOR>Frank</AUTHOR>
+<PRODUCT>Xbox 360 Live 1600 Points (Video Game)</PRODUCT>
+<REVIEW>
+First off, I'm an otherwise very happy Xbox Live Gold member. Instead of buying a points card from a retailer, I made the mistake of buying the points online from Microsoft through the Xbox. I used my gamer tag account and entered my credit card on the TV and I bought 500 points. I got the email confirmation that I bought the points. I then used the points. So far so good. 
+ 
+ Over the next two days, four other Xbox charges totaling $30 mysteriously appeared on my credit card. Someone bought more points and a game subscription using my credit card info. I called Xbox Live support- their answer was "we don't give refunds." I explained that it's not a REFUND if my account is used fradulently. They still said no. 
+ 
+ Note that clearly the security leak was with them, as no other fraudulent charges appeared on my credit card...just Xbox charges.
+ 
+ I then asked them to delete my credit card info from my Xbox Live account. They said they could not do this. I could not believe this! Given that someone had access to my credit card and they were unwilling to remove my credit card info, I had no choice but to cancel my credit card.
+ 
+ My advice- buy the points from a trusted source like Amazon. Don't ever give Microsoft direct access to your credit card info. I hope this helps.
+</REVIEW>

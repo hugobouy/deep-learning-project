@@ -1,0 +1,27 @@
+<STARS>5.0</STARS>
+<TITLE>A whole lot of polishing make it an efficient, worhtwhile upgrade</TITLE>
+<DATE>June 16, 2010</DATE>
+<AUTHOR>Surgery100 "ADJ"</AUTHOR>
+<PRODUCT>Microsoft Office 2010 Home & Student (Disc Version) (DVD-ROM)</PRODUCT>
+<REVIEW>
+I've had an opportunity to use Office 2010 Beta edition for a couple of months now and now that I see the full, final, edition I can say that this is a very worthwhile upgrade. First things first, I am not a techie. I am someone who uses Word, Excel and PowerPoint on a very regular basis, who really liked some of the changes in Office 2007 but who thought some things needed tweaking, so when given the opportunity for the beta edition I jumped on it and have not been disappointed. Office 2010 is to Office 2007 what Windows 7 was to Vista; that is, there are not many breakthrough, drastically different features, but a whole lot of polishing and cleanup to make it easier and more efficient.  Overall, the program seems to run faster, incorporates many of the most commonly used options and makes them more accessible (eliminating many dialog boxes and tabs) and allows for more customization.
+ 
+ At first glance it looks very much like its predecessor, the ribbon is back and it is now also found on OneNote.  There are plenty of sites that will give you a play-by-play on all the features available in this new version, so I'm just going to mention some of the biggest improvements that I've seen.   
+      1)	The biggest change is the addition of the web apps.  It may not be a true direct competitor to google docs, but it   allows for easier sharing of documents, as well as making your documents more accessible.  
+      2)	The ribbon is back and it now includes the "File" option and a new feature called "Backstage view."  Backstage view incorporates the most commonly used actions in one place (yay! no more dialog boxes with tabs).  You get the usual open, save and print, but you also get several templates for new documents, print layouts and ways to share your work, all without dialog boxes and tabs, everything is much more easily accessible. 
+      3)	Another new feature is that the ribbon is now customizable so you can organize it according to your needs.  
+      4)	There is a Paste Preview which lets you switch between paste options so you can make sure that your work will be formatted correctly.
+ 
+ Changes in PowerPoint.
+ You can now edit video directly on PowerPoint. You can trim a video, add effects, fades and even triggers for animations for the presentation.  Another new feature is that you can add effects and edit images without the need for third party software.
+ 
+ Changes in Word.
+ One nifty new feature in Word is called "Navigation pane," which replaces the old document map. It incorporates minor changes in design that make big changes in productivity and ease of use. It allows you to quickly rearrange the document. Take for example a document with several headings/sections.  The Navigation pane provides a list of all the headings.  The headings are live, so you can drag them up or down, thus rearranging the document.  It also incorporates most of the functions that used to be available in the "Find" dialog box but now they are all visible so you don't have to go digging through several menus to find the option that you need.
+ 
+ Changes in Excel.
+ Most of the changes in Excel deal with very large datasets. There is a new PowerPivot add-in which works great if you are dealing with a very large dataset that does not fit in one Excel spreadsheet. PowerPivot pulls the data from multiple sources (several Excel spreadsheets for instance) to analyze it.
+ 
+ Summary:
+ Overall this is one well planned and executed upgrade that essentially takes all the promises of Office 2007 and makes them a reality. Yes, some things are different, and it will take some getting used to; but, once you realize the improvement in efficiency you'll agree that the changes are mostly for the positive.   The only thing that I truly wish had changed but didn't is that this version does not include Outlook. That is available in the Home and Business version.
+ 
+</REVIEW>

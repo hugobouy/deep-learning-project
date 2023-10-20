@@ -1,0 +1,19 @@
+<STARS>5.0</STARS>
+<TITLE>Does exactly what it should do</TITLE>
+<DATE>May 4, 2010</DATE>
+<AUTHOR>Mitch B. "Geek Extraordinaire"</AUTHOR>
+<PRODUCT>New Trent IMP130 Slim-Fit Extended Rechargeable Battery Juice Case Air for IPHONE 3G and 3Gs</PRODUCT>
+<REVIEW>
+Does exactly what it should do, fits the iphone snugly and definitely improves battery life DRAMATICALLY.
+ 
+ To answer some of the common questions:
+ 1. The on/off switch turns the battery back on or off - not sure why you'd want to turn it off, but if you do, the iphone will run on its own battery.  When on, the iphone will first drain the pack, then its own battery.
+ 2. Charging - it charges via standard micro USB, and yes, you charge the phone just by connecting the case (no need to charge separately).  The one time you may want to separate them is if the pack is dead and you iphone is close to dead, since the pack needs to get a bit of a charge before it will charge the iphone...
+ 
+ Which brings me to how the thing ACTUALLY works: yes, it's a battery, however your iphone will simply treat it as though it is plugged into a wall outlet/usb cable: you'll see the plugged in symbol, and charging symbol on the iphone screen.  Once the battery pack dies, that turns off.  It's pretty ingenious actually.
+ 
+ On the back of the device are 3 LED lights showing if it's fully charged: when all 3 are lit, it's full...when 1 is lit, its 1/3 etc.  Any way you slice it, this is a TREMENDOUS improvement over the battery life of my rapidly failing 3G battery.
+ 
+ Pros: Extends battery life dramatically, fits securely around iphone 3G, charges with standard micro USB cable
+ Cons: Adds a substantial amount of weight to the device, takes a decent amount of time to get a good charge, will not fit into any iphone docks (ipod dock connector does not stock out of case) -  this includes ANYTHING you connect to in the past (car kits too) - so if you still want to use those, you will need to remove the bottom of the case.  While it feels fairly sturdy, I'm not sure how much of that kind of abuse it can take.
+</REVIEW>

@@ -1,0 +1,10 @@
+<STARS>1.0</STARS>
+<TITLE>An Ironic Topic</TITLE>
+<DATE>June 21, 2009</DATE>
+<AUTHOR>John Byson</AUTHOR>
+<PRODUCT>Giving: How Each of Us Can Change the World (Hardcover)</PRODUCT>
+<REVIEW>
+Here is a man that could not "give" a solid response to save 800,000 Rwandans writing a book about giving.
+ 
+ The irony is nauseating. No one who sits by and watches 800,000 people die and not take action should never be assumed to have the least bit wisdom in the area of giving.
+</REVIEW>

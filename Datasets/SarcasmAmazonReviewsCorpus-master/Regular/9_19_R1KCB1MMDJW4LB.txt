@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Plays tracks in alphanumeric order</TITLE>
+<DATE>October 29, 2003</DATE>
+<AUTHOR>A Customer</AUTHOR>
+<PRODUCT>Creative Labs NOMAD MuVo NX 128 MB Flash Drive MP3 Player (Electronics)</PRODUCT>
+<REVIEW>
+This is a great MP3/WMA player with one glaring deficiency: It insists on playing the songs in alphanumerical order by track title. The manual states this, customer support verified it and I couldn't find a reasonable work-around, so it went back. Sure you can manually move from one song to another as they play, but if you want to load an entire CD and listen to the songs in the order in which you're accustomed, it won't do it without interaction. In my opinion, this is a colossal design flaw. The original MuVo 64 and 128 will play the tracks in the order which you load them but not this one. If that won't bother you, the MuVo NX is the one to get.
+</REVIEW>

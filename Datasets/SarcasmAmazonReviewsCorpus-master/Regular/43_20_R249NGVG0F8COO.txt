@@ -1,0 +1,9 @@
+<STARS>5.0</STARS>
+<TITLE>excellent tool</TITLE>
+<DATE>June 14, 2010</DATE>
+<AUTHOR>S. J. Church</AUTHOR>
+<PRODUCT>The Ghost Meter EMF Sensor (Tools & Hardware)</PRODUCT>
+<REVIEW>
+This is tool is sensitive enough to detect higher than normal EMF's.
+ I took it around my house just to make sure it's working and it hit everywhere I knew there were high emfs, without fail. the light is bright enough to see yet not so bright that you lose your night vision. if you need more precise readings I would suggest getting something digital but this works great for me.
+</REVIEW>

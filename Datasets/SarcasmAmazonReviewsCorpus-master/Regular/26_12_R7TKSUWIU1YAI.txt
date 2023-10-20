@@ -1,0 +1,66 @@
+<STARS>5.0</STARS>
+<TITLE>Some new twists on PSE 7.0 make this a worthy upgrade</TITLE>
+<DATE>October 14, 2009</DATE>
+<AUTHOR>Joanna Daneman</AUTHOR>
+<PRODUCT>Adobe Photoshop Elements 8 (DVD-ROM)</PRODUCT>
+<REVIEW>
+Ok, let's start with the top question: Do you or I really need another upgrade of Photoshop Elements? Is it vastly different than (6.0 or 7.0) and should this be my digital photo editing and organizing software of choice? I will cover the main points of the changes from Version 6.0 and 7.0 in this review. I have also reviewed Photoshop Premiere Elements 8  which is the video editor, and comes as a package option with Photoshop Elements 8. 
+ 	
+ Photoshop Elements has two components-- an editor, where you do your digital picture manipulation, and a file organizer or album where you store and retrieve your images. The interface for the editor is the same whether or not you use Mac or Windows, so if you are switching from one OS (say, MAC's at school, Windows at home) you will be very comfortable with Photoshop Elements. Where the systems differ, however, is in the file organizer and this is understandable; the Organizer function involves organizing and retrieving files, so this is going to be different depending on your computer operating system. 
+ 
+ Since I don't have access to a MAC, and since I don't know much about them, I'm going to be reviewing the Windows version only from here on in this review. For your information, I'm currently using Windows Vista 64 Home Premium Edition. 
+ 
+ My computer system used for this test is an HP Pavilion with an AMD Athlon 64X2 2.70 Dual Core CPU 5200+. I have 4 GB of RAM. The Video card is NVIDIA GeForce 6150SE nForce 430 wtih 128 MB of video memory.  This is an on-board video card (on the motherboard) and if you are doing heavy image work, and video, you might want a separate, more capable video card.
+ 
+ Minimum PC Requirements:
+ 
+ Windows XP, Windows Vista, or Windows 7 
+ 1.6GHz or faster processor
+ 1GB RAM  (MINIMUM means MINIMUM; you really will need 2GB of ram to be comfy)
+ 2GB available hard disk space
+ Microsoft DirectX 9
+ Color monitor with 16-bit color video card  
+ Internet Access for online features and help
+ 
+ 
+ One immediate, small but great change from Version 7.0 is that when the software is initially booted up, the Welcome Screen is rearranged; on the left side: simple buttons EDIT or ORGANIZE. On the right, access to tutorials and underneath, info on your Photoshop online account (space available, links to your personal URL and online organizer.)  Version 7.0 had tab buttons along the top of the welcome screen and was visually more confusing. THIS IS A GREAT IMPROVEMENT. THANK YOU. 
+ 
+ A big change from Version 6.0 is the workspace, which is now dark gray in color (I actually don't like this--the gray is depressing, but I understand visually it is far less distracting and lets you focus on your editing job.)  The workspace is now adjustable. However, if you are a change-o-phobic or just habit-bound, you can return the settings to look and feel like previous versions, for example, the fixed-window workspace of Version 6.0 can be retrieved in the Application Frame in the preferences window.  There are other big changes, mainly the organizer, the online content, the personal online space and some editing tools; more about these further on in this review. 
+ 
+ In addition to the change to the Welcome Screen, there are changes to the interface where you access your tools. The palettes have been renamed as "panels" so I got confused a bit again. I've been using Palettes for years with editing software; palettes of filters, layers, colors. So, now, they are PANELS, and you can do this right in the panel itself at the bottom. This is also a significant change from Version 6.0 (7.0 does have it.) The big change to 7.0 however, is that the layer controls are now their own panel below the Layers panel. The old dialog boxes are being replaced by these drop-down panels. 
+ 
+ 	
+ Getting down to brass tacks; the biggest change from 6.0 to either version 7.0 or now 8.0 by far, is the Organizer. Not only is there an automatic "organize my images for me" feature, but there is an optional online storage feature that has many uses.  The main change from 7.0 to 8.0 has to do with an improved ability to add key word tags and to manage your  media.  If media management is an issue for you, this upgrade will be worth your while. 
+ 
+ Another big change in Version 8.0: do you open multiple files at a single session? (I often download a photo session from say, a parade or one event.) Beforehand, you'd have to go to the file list in "Open Files"  and pick which ones or all the ones you want, and try to scroll through them at the bottom to find the photo you want. Now you can open multiple files and use tabs to switch between them. This is huge. If you don't like point-and-click, you can employ a keyboard shortcut of Command-~ (tilde) to page through the open files.
+ 
+ The main change to Version 8.0 is the Organizer. When you boot up the software and have those choices, Edit or Organize, initially you are asked to set up an online account at Photoshop.com. You don't HAVE to do this. And you are then asked if you want to organize your photos, and this is the real advantage; the system combs through your hard drive and pulls up your images, and organizes them (like Picasa and other organizing programs) into a set of albums. The last six months are available with a single click, or you can organize by other means. 
+ 
+ If you key-word tag your photos when saving them, and use the Smart Tags (everything from photo quality (good, bad, over, underexposed, face, etc) to event tags, you can create albums and quickly export them to DVD,CD, online albums, or hard drive. If you do a lot of image work and don't want your main hard drive cluttered with images, or if you want to back up your images onto an external drive, this is very handy.  The organizer is one major reason to move from 6.0 to 8.0. Organizing a large number of photographs is made seamless and easy with the organizer that appeared in Version 7.0. I didnt think Id need it, but I do need it and I use it. In fact, I need to get better at using the tag feature. This is very good for the increasingly difficult task of finding and retrieving older photos. 
+ 
+  
+ You get 2GB free storage online at Adobe Photoshop.com's site, so if you sign up (as is suggested in the Welcome Screen), you can have an offsite, online backup. If 2GB is not enough storage for you, you can pay for Plus membership. Plus Membership starts at around twenty bucks (at this time) and you can go from 20GBmb (about 4 hours of video storage) to 40, 100, 250 or 500GB of storage, with prices rising accordingly. There are other perks such as advanced tutorials, and some bonus art and video effects, but the main reason for upgrading from free is to obtain much more online storage.  I used some of the themes for the slide show and there are a few included, so the temptation is very strong to spring for the extra twenty bucks, get the ten-fold increase in storage (easy to fill it up) as well as the larger selection of themes. If you use Premiere, the adjunct video editing, you get increased storage for videos, and movie theme materials for "instant movies." I will be reviewing Premiere 8.0 separately, but you can see that if you intend to use the complete image-plus-video package, you probably will want a Plus membership. I was surprised to find out (me, the minimalist) that I did also want the upgrade. Film buffs and Youtube fanatics will want the extra storage; video takes a lot of space, and you are permitted to upload a video of up to 2GB with basic membership.
+ 
+ 
+ In version 7.0, Adobe introduced a much-improved Photomerge funtion. I use this function a lot to make composite photos as well as panoramas and other interesting landscape creations and group photos. I was not happy with the previous Photomerge in versions 6.0 and prior, but I used it a lot as a shortcut to cut-and-paste multiple images to make a composite. Version 8.0 improves Photomerge and adds a very interesting and useful feature: you can combine several exposures to create the "perfect" digital exposure. Take one shot with flash and one without. (Yes, the no-flash shot is too dark; the flash shot is sometimes washed-out or the shadows look funny.) Using PhotomMerge Exposure, you can get a new, improved "best-of-both-worlds" photograph. Here's my take: if you have Version 7.0 and you do a lot of photography, this is worth the upgrade alone. 
+ 
+ Two new editing tools, Recompose and Smart Brush, tools also are slick ways to merge and fix photos with a lot less fiddling around, or by using some smarts built into the software. For example, you can reformat a wide photograph, remove a lot of blank space and recompose it to have the figures closer together, but not distorted. I used to do this by a very involved cut-and-paste procedure, copying figures I wanted to move and covering over unsightly elements like road signs or utility poles; this is a lot faster though I still need to do some clever editing myself if a pole appears "growing" out of the top of a subject's head (a huge photographic boo-boo) or if there is some goofy kid mooning you or mugging a funny face in the background of the shot (I shouldn't be telling you this, but a fun way to ruin someone's vacation photograph is to sneak into the background as they compose their award-winning photo of the Eifel Tower or Mount Rushmore and cross your eyes and stick out your tongue. Kind of a human version of that intruding squirrel of internet fame.)  Using Recompose, you can remove these offensive things more easily. 
+ 
+ There are templates to make cards, calendars, frames and other artwork. I am not into that kind of thing, but it's there for those of you who do scrapbooking, especially digital scrapbooking or who make your own birthday cards or Christmas newsletters. I used the slideshow template and I loved it. I wanted more...but the themes as I mentioned previously, are limited in the basic, included online edition. You have to spring for Plus membership to expand those selections of themes. 
+ 
+ No major changes to the filters. Pretty much the same as Version 6.0, with the changes to controlling the interface as I mentioned before. The biggest change to filters is in the smart brushes for photographs. I have been using the filters a great deal ever since Elements was introduced, to pre-compose paintings from my digital photos. They seem pretty much the same as in earlier versions though the adjustments are now easier to manipulate in the Filter Gallery.  
+ 
+ This question comes up all the time: is 8.0 FASTER??? I didn't notice any difference loading 8.0 and 7.0. Definitely, versions 7.0 and 8.0 are much faster to load than 6.0, at least with my computer.  
+ 
+ Re tutorials, manuals and help; as usual, help is online content though a pamphlet on Getting Started comes with the box of software. In addition to the online content for help, there is a "Tips and Tricks" hyperlink in the Welcome Screen (lower right). This takes you online to a web page with tutorials. The tutorials include what's new in Version 8.0, various help for video editing (this will be covered in my review of Premiere Version 8.0.) You can search for other tutorials, and even submit your own. Tutorials have a rating on the right (one to five stars.) When you click on a particular tutorial, you will see the author, a way to favorite it for future reference, and on the right, you can add your own rating of it. 
+ 
+ Summary:
+ 
+ Version 8.0 has a few great new improvements over Version 7.0. It is not vastly different than 7.0 but the Recompose, PhotomMerge Exposure and some of the adjustments to the panels are advanced enough to make this a significant improvement if you like to do digital photography. It is quite different from Version 6.0 so if you have not upgraded and these features appeal to you, I think it would be well worth it to get the improved organizer and the improved tools. 	
+ 
+ Recommendation: If you are on 6.0 or earlier versions and your PC meets the minimum requirements, do upgrade to 8.0. If you are on Version 7.0 and employ the media organization, upgrade to 8.0 
+ 			
+  Joanna Daneman
+ 
+ 
+</REVIEW>

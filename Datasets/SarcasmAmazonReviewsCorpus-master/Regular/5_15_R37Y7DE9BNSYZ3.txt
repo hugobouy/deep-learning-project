@@ -1,0 +1,10 @@
+<STARS>5.0</STARS>
+<TITLE>A lot of Camera for the Size!!!</TITLE>
+<DATE>June 10, 2008</DATE>
+<AUTHOR>K. Thomas</AUTHOR>
+<PRODUCT>Canon FS11 Flash Memory Camcorder with 16GB Internal Flash Memory and 48x Advanced Zoom (Electronics)</PRODUCT>
+<REVIEW>
+It is a tiny camcorder.  It will easily fit inside cargo, jacket or baggy pockets.  Of course with the extremely small size comes some limitations.  This camera is not going to have the same picture quality as professional HD camcorders. But that said it is a very nice camera for shooting standard definition home movies.  It has an excellent zoom. The battery and built in memory are going to give you about 3 1/2 hours of recording time.  As for all the people who are complaining about trying to edit the footage (that is because they are not using Macs.)  If you have an up to date Mac it is a breeze.    
+ 
+ I have an Intel Mac.  I convert the footage with MPEG Streamclip (Which you can download for free at the Apple Web site.)  And then it works fine with Final Cut Pro 6.  I convert it to Quicktime and then choose the DV setting.  It works great.  It also works just fine without MPEG Streamclip if you are using iMovie 08'.    The whole process is quick and painless.  No going through the whole tape to log and capture the footage.  So If you are looking for a tiny SD camcorder that you can take anywhere and edit it with newer Intel Macs, this is a great choice.  I think you will enjoy this camera.
+</REVIEW>

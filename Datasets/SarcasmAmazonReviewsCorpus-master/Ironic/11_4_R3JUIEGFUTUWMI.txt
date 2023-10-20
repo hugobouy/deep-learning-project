@@ -1,0 +1,8 @@
+<STARS>3.0</STARS>
+<TITLE>Great Product, Poor Packaging</TITLE>
+<DATE>May 14, 2009</DATE>
+<AUTHOR>Patrick J. McGovern "Procrastinating Evil Scientist"</AUTHOR>
+<PRODUCT>Uranium Ore</PRODUCT>
+<REVIEW>
+I purchased this product 4.47 Billion Years ago and when I opened it today, it was half empty.
+</REVIEW>

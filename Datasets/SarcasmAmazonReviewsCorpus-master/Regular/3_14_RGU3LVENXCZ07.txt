@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Polk Audio PSW10 Powered Subwoofer</TITLE>
+<DATE>June 1, 2007</DATE>
+<AUTHOR>zinm "Zin"</AUTHOR>
+<PRODUCT>Polk Audio PSW10 10-Inch Monitor Series Powered Subwoofer (Single, Black) (Electronics)</PRODUCT>
+<REVIEW>
+While I was looking for sub-woofer I was comparing PSW10 and PSW404. PSW404 sounds better but for the price $110 vs. $250 at J&R I opted for PSW10. The sale representative dropped the price for me even though they still selling PSW10 for $200 here. Those of you who worry about no LFE input, that shouldn't be a problem. All you have to do is connect the sub-woofer output of the receiver to either the right or left input on the sub-woofer. And then set the variable low pass filter on the sub-woofer to the highest setting. This will set the internal low pass filter above the low pass filter frequency given by your receiver and create an LFE input. Or you may use a RCA cable to provide a connection to both inputs on the sub-woofer from the LR pre-out from the receiver. Then adjust the cross over frequency from the woofer as desired. It sounds a little louder and better for me. I bought Monster sub-woofer cable and it sounds no better than RCA cable. Try not to waste your money on this. It has 7.4 out of 10 in CNet rating and it is #6 in editor's top list for sub-woofers. I matched PSW10 with R300, RTi4, R150, CSi3 and Denon 1906 receiver. Mainly used for HDTV over the air, DVD movies and some FM. It sounds a lot better than the sub-woofer from RM6750. It carries 5 years warranty but make sure you buy from Authorize dealer. For the price I paid I am more than happy with it. I hope this helps to your decision.
+</REVIEW>

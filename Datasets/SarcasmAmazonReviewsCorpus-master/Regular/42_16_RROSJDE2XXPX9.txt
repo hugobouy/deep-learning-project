@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>2 strikes not going for a third</TITLE>
+<DATE>November 4, 2002</DATE>
+<AUTHOR>A Customer</AUTHOR>
+<PRODUCT>Gravis Eliminator AfterShock Rumble Game Pad  USB (G48031) (Electronics)</PRODUCT>
+<REVIEW>
+Did not work out of the box. One joystick was stuck permanently moving left. Returned and second one survived a few months before it quit working.
+</REVIEW>

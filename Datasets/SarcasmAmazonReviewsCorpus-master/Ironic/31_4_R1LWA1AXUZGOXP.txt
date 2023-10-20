@@ -1,0 +1,45 @@
+<STARS>3.0</STARS>
+<TITLE>We fixed it! (ok, THEY fixed it!)</TITLE>
+<DATE>September 4, 2008</DATE>
+<AUTHOR>E. Page</AUTHOR>
+<PRODUCT>Dual XHD6425 4X50 Watt Bluetooth-Ready HD Radio and MP3 Player (Electronics)</PRODUCT>
+<REVIEW>
+I am (as you will read) completely ignorant about car stereo stuff.  I wanted to put this story in here just in case it helps someone else to get their unit working!
+ 
+ I got this for my birthday (off my wish list).  It does pretty much what it says it will do. :)  I wanted HD Radio (I live in Houston) and a way to play ANY OTHER DEVICE through an aux port on the front.  The USB hookup was gravy.
+ 
+ 
+ 
+ So, I had it installed a couple of days ago.  Worked great, but when my RPM's increased from my engine, a DEFINITE WHINE also came out of the speakers.
+ 
+ I took it back to the shop that installed it.  They came out and hemmed and hawed and said some things about DUAL being a crappy radio and there was nothing they could do.
+ 
+ ... well, they could try a COUPLE of things, maybe. :)
+ 
+ So first they tried these $24 noise filter thingies ($24 for 2).  Those didn't work.
+ 
+ So the main installer guy just kept looking sad for me and I kept looking hopeful.
+ 
+ He tried grounding the radio to the chassis.  That didn't work.
+ 
+ (more sad looking guy, more determinedly hopeful me)
+ 
+ Then he said, "Well, I can try one more thing, but I'm sure this won't work.  It's a &lt;stereoguyterm>... DUAL's too cheap to put them on their radios and I have to cut them off of other radios occasionally... so I've got some of them in the back."
+ 
+ He installed whatever it was on the power supply side (?) and it worked FANTASTIC(ly).
+ 
+ It looked like a little black box and I think was a filter of some sort on the power side.
+ 
+ They didn't charge me anything for the adventure, but obviously should have.
+ 
+ I drive a Toyota Sienna minivan with JBL stuff on my speakers.  Apparently that was important.  
+ 
+ Now it works great.  Reception in Houston has been great.  It plays through the line-in Aux port great (I use it with my ipod and creative zen) and USB keys work.  I'm not sure it ever shows the file names it's playing off the USB, which is weird but not worth $100 to upgrade to a better stereo.
+ 
+ So, it works but had quite a bit of fiddling to make it go.
+ 
+ It's great for the $.  I have fairly low standards... I only listen to audiobooks, podcasts, NPR, etc.  So I have no idea what the audiophiles would think.  
+ 
+ 
+ (and, for the snarky, YES, there was a sale on the word "great" today.)
+</REVIEW>

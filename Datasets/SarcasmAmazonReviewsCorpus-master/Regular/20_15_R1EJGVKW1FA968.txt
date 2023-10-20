@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>PLEASE BEWARE!</TITLE>
+<DATE>July 11, 2008</DATE>
+<AUTHOR>BleedBLSForever "BLSFan"</AUTHOR>
+<PRODUCT>SanDisk Sansa Clip 1 GB MP3 Player (Black) (Electronics)</PRODUCT>
+<REVIEW>
+I felt I needed to write a review to warn others about this tremendously awful product.  I'll keep this short and sweet.  This product stinks.  I had the EXACT same problem as many others seem to be having: the battery simply will not charge.  The recharging process is easy, though--you simply plug the device into the USB port on your computer.  The only problem was that, no matter how long I kept the device plugged in, I continued to get a "battery low" warning.  I plugged it in one evening and kept it plugged in overnight (for a minimum of 12 hours) but I could never manage to use it because the battery just would not take a charge.  But hey--the thing looked really nice though.
+</REVIEW>

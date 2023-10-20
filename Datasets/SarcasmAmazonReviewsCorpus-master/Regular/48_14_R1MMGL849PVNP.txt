@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Excellent Product!</TITLE>
+<DATE>February 13, 2009</DATE>
+<AUTHOR>I. Perry</AUTHOR>
+<PRODUCT>Miss Jessie's Original Baby Buttercreme - 8 oz (Health and Beauty)</PRODUCT>
+<REVIEW>
+Baby Buttercreme is fantastic. In our house, we have four different hair textures. My husband has slightly coarse, wavy hair, my eldest son has loose soft curls, I have soft and tightly coily hair, and my baby has very tightly coiled and coarse hair. Baby Buttercreme is an effective moisturizer for all of us. Believe me, I have tried a ton of less expensive alternatives and none come close.
+</REVIEW>

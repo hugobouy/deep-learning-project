@@ -1,0 +1,14 @@
+<STARS>5.0</STARS>
+<TITLE>An Excellent Product!</TITLE>
+<DATE>July 16, 2010</DATE>
+<AUTHOR>History Buff "Sam"</AUTHOR>
+<PRODUCT>Waterpik Ultra Water Flosser (Health and Beauty)</PRODUCT>
+<REVIEW>
+.
+ Having purchased this Waterpik about 2 months ago, I must say that it exceeds my expectations. 
+ 
+ The powerful stream of water gets between the teeth and deep beneath the gum line. The reservoir is plenty large, I actually fill it a second time for additional cleansing, usually adding a splash of Listerine. 
+ 
+ It's recommended that you use luke-warm water, but for a real good time, I'll occasionally use cold water..give it a try! It's like an electric shock!
+ .
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Funny!</TITLE>
+<DATE>February 9, 2009</DATE>
+<AUTHOR>Cheryl</AUTHOR>
+<PRODUCT>LEGO Batman (Video Game)</PRODUCT>
+<REVIEW>
+We borrowed it from the library to try it out, and it was a big hit.  My son, who is 4 1/2, loves this game, almost too much.  This is all he thinks about and wants to do!  He wants to keep it forever.  There are lots of funny moments during the game, which make me laugh, but go right over his head.
+</REVIEW>

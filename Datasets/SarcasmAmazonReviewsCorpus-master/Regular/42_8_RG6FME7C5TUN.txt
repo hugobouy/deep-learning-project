@@ -1,0 +1,14 @@
+<STARS>5.0</STARS>
+<TITLE>Awesome HTPC</TITLE>
+<DATE>February 19, 2010</DATE>
+<AUTHOR>D. Winterfeldt</AUTHOR>
+<PRODUCT>ASUS Eee Box EB1501-B0167 Nettop PC - Black (Personal Computers)</PRODUCT>
+<REVIEW>
+Now that I've had the EB1501 integrated into my home theater for a few weeks, I thought I would update my review of it.
+ 
+ I have this connected via HDMI to receiver, surround sound and a 52" HDTV. Due to the limitations of my setup (not the EB1501), I do not use HDMI for sound, so I will not say anything about the box's ability to carry both signals properly.  If you use S/PDIF for audio, you are going to appreciate the included adapter (works great).  I was going to use Boxee or XBMC, but I don't like the hassle of setting up and integrating Tv tuners into those, so I am using Windows 7's Media Center.
+ 
+ The EB1501 is EVERYTHING I have been looking for in a HTPC.  It runs (very) cool and (very) quiet.  It's barely noticeable yet attractive enough to not have to hide - which makes it easier to get to the DVD drive, power, ports, etc...   The computer is stable and a workhorse for this task.  
+ 
+ With the Atom processor, I wouldn't recommend trying to do too much gaming or heavy multitasking.  As a component in a home theater, this thing runs circles around the almost useless Media Center Extender I was using before.
+</REVIEW>

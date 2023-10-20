@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Great book</TITLE>
+<DATE>May 3, 2010</DATE>
+<AUTHOR>Sergio H. Nigri "david_nigri"</AUTHOR>
+<PRODUCT>The Picture of Dorian Gray (Penguin Classics) (Hardcover)</PRODUCT>
+<REVIEW>
+This book is simply amazing. It is the first one that I read from Oscar Wilde and I have to admit I was amazed by how good he was in choosing the right words to form sentences. Dorian Gray is an amazing character and I think that it appeals to everyone in a certain way. It is a must-read.
+</REVIEW>

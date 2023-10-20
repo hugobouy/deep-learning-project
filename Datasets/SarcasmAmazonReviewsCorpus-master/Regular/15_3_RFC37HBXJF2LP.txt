@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Cool tunes!</TITLE>
+<DATE>July 22, 2009</DATE>
+<AUTHOR>Deborah Lawrence "Honest reviewer!"</AUTHOR>
+<PRODUCT>True Blood (Audio CD)</PRODUCT>
+<REVIEW>
+This is a very cool CD.  I love the music.  It is so different and interesting.  Every song is good.  I love it!
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>Exceeds my Expectations</TITLE>
+<DATE>July 16, 2010</DATE>
+<AUTHOR>PhotoRock</AUTHOR>
+<PRODUCT>Panasonic Lumix DMC-G1 12.1MP Digital Camera with Lumix G Vario 14-45 mm f/3.5-5.6 ASPH Mega OIS Lens (Red) (Electronics)</PRODUCT>
+<REVIEW>
+This camera packs a powerful punch in a small package.  I like the mirrorless viewfinder better than SLR versions as it allows me to preview the impact of my exposure settings.  Underexposed images preview as dark and overexposed preview as washed out.  Ergonomically, this camera is well engineered.
+</REVIEW>

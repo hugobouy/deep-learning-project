@@ -1,0 +1,14 @@
+<STARS>5.0</STARS>
+<TITLE>A great new toy</TITLE>
+<DATE>November 19, 2009</DATE>
+<AUTHOR>AK</AUTHOR>
+<PRODUCT>Roku HD-XR Player (Electronics)</PRODUCT>
+<REVIEW>
+I am really enjoying my new Roku XR.  The setup was extremely easy and intuitive.  I am running the ROKU XR wirelessly off of an N-Router (Trendnet 633) located on the other side of the house.  I am getting "4 dots and HD" (best quality) with no interuptions in play.
+ 
+ My only complaint is that I have to go to Netflix and enter movies I want to watch on the Netflix Instant Queue before the Roku XR will play the movie.  So basically, I have to go to my computer, find my TV shows or movies, enter them into the Instant Queue on the computer then goto the ROKU and my selections will be available to watch.  I really wish I could scan for movies and shows thru the ROKU.  
+ 
+ Other than that, the setup and playback quality is excellent using HDMI. Recommended :)
+ 
+ UPDATE 6/10/10 :  ROKU and Netflix have fixed the annoying need to select your movies on your computer and then go to the ROKU to see your queue.  Now you can search for movies on Netflix from inside the ROKU.  BRAVO!!!
+</REVIEW>

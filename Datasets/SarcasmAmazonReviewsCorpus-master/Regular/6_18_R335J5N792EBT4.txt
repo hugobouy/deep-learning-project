@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Very good product</TITLE>
+<DATE>July 14, 2010</DATE>
+<AUTHOR>SUSAN1101</AUTHOR>
+<PRODUCT>Omron HJ-112 Digital Pocket Pedometer (Health and Beauty)</PRODUCT>
+<REVIEW>
+I love this pedometer! It is the most accurate pedometer that I have ever had. I tested it on my treadmill and when I walk. I have put it on my belt loop and also in my pants pocket and it works great! I like the feature at 12:00pm it resets itself back to zero. I would highly reccommend it, worth the money!
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Amazing product</TITLE>
+<DATE>July 13, 2010</DATE>
+<AUTHOR>Juan Luis Bonnin</AUTHOR>
+<PRODUCT>Apple iPod classic 160 GB Black (7th Generation) NEWEST MODEL (Electronics)</PRODUCT>
+<REVIEW>
+What can I say, it's an iPod. This is an amazing product. I had been using a different media player whose memory (60 gb) got filled up with my music. No fear of that with this one (160 gb). Once you get used to using iTunes (yeah, you have to), it is quite easy to set up your music any which way you want. It is quite simple to build playlists by album, genre, or artists. I have been listening to some of my music I had not heard in a long time. And if you use the shuffle feature, you will never get bored, it becomes like a "box of chocolate"; you never know what you are going to get. Very satisfied with this product.
+</REVIEW>

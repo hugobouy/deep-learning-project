@@ -1,0 +1,43 @@
+<STARS>5.0</STARS>
+<TITLE>Fast, Gorgeous, but Heavy</TITLE>
+<DATE>April 4, 2010</DATE>
+<AUTHOR>Daniel G. Lebryk</AUTHOR>
+<PRODUCT>No name in the review header</PRODUCT>
+<REVIEW>
+From the first announcement of this device, I was prepared to dislike the iPad, on paper it has way too many flaws. With one in hand and actually using the device, I can honestly say it is an excellent, gorgeous, piece of hardware. The biggest flaw, it weighs a ton. The weight doesn't sound like a bad thing, but after I held this device in both hands while laying down, my arms got sore. It's a small thing, but you should be aware that it is heavy.
+ 
+ Set up was super simple. Connect the unit to your computer, run iTunes, follow the wizard. About 5 minutes later the iPad is set up and activated. The wizard does call it an iPhone for some strange reason. If you have an iPhone already, the set up is a bit easier. It will inherit most of your settings.
+ 
+ Once activated, you have to unplug the unit and then go through the settings application to set up your wireless network and a variety of other settings. All pretty obvious, top to bottom, essentially all the same as the iPhone. 
+ 
+ Do note that the charger is a 10W charger - much larger and different from the iPhone's 5W charger. So you'll have to use that charger. There is a big negative, you'll have to cart around that charger, most USB ports will not charge this device. My beast of a PC has plently of power on all the USB ports, and it will not charge my iPad. External battery packs will work with no trouble charging, or extending the use.
+ 
+ Battery life - I ran video, downloaded a ton of apps, and played with this thing for a solid 2 hours - 10% of the battery life was used. I would guess that reported battery life is right accurate. 
+ 
+ Typing is easier than on an iPhone, but still not keyboard easy. There's a big problem with how to hold the device and type at the same time. I was a master at Blackberry typing with my thumbs. I can't seem to get it with the iPad. The other problem, the device has a rounded back, so if you place it on a table and try to type, the thing rocks back and forth annoyingly. I don't think I will spend a lot of time typing long emails on this device. 
+  
+ Apps that are built for or converted to the iPad format are simply gorgeous. They are full of detail and easy to read. Old iPhone apps that have not been upgraded are all blocky and not so great (useable but not great). You have the option to click the app back to native size if the jaggies bother you.
+ 
+ Safari works really well on this device. The browser is a real live browser that displays WebPages beautifully. Bookmarks snap up in an instant. Pages load at almost lightning speed, actually faster than on my desktop computer (quad core 3GHz, gigabit wired connection). There is almost no need to have multiple pages open, since load times are so fast and the favorites menu is so easy to access. There is just no comparison to the iPhone's horrible display of WebPages.  
+ 
+ Email takes on a whole new look. Embedded pictures display beautifully. There is a pop up ribbon to select email from your inbox. Navigation is just a pleasure. Account switching is a little different from the iPhone, but still very intuitive. Apple seems to have figured out how to make the email experience more intuitive and remove the unnecessary from view. 
+ 
+ Video is stunning. Netflix over high speed WiFi (my connection is 22Mbps) delivers full screen, highly detailed, smooth video with good sound. Any video created for the iPhone plays, but they are significantly pixilated or blocky, basically you've blown up a video designed for a three inch screen to three times that size. Those videos are viewable, but I will be reconverting my source video to the larger size. 
+ 
+ Some of the free apps I've tried. ABC is simple and stunning for watching video, but lacks a lot of programs. Craigslist adds the ability to view pictures in the preview of a listing, something not available on any other computer - very handy feature. USA Today has done an awful job, the interface is horribly confusing and pretty well useless. Weatherbug is incredible, simple and to the point, but with a ton of forecast information (including webcams for different weatherbug stations). NASA is silly, an enlarged version of their iPhone app. Pandora works perfectly as expected. 
+ 
+ The iPod / music side plays like I expected. Nothing really new there. The oddity though, iPod / music is on the home base menu, but video is a separate application. Everyone would expect that Apple got the music player right. 
+ 
+ I've had an iPhone 3G for almost two years and have disliked almost every minute of use. I got it for work email and it sort of delivers on that promise. The iPad is what the iPhone should have been all along - fast, simple to use, and a gorgeous screen. I also own a netbook. The iPad is a much better device. 
+ 
+ I love this device. Is it a revolution in computing? Only time will tell. For the moment, this is the best video, audio, email, web browsing device I've ever seen. 
+ 
+ Go try it at a store. I think you will fall in love.
+ 
+ April 11 Update - Kindle versus iPad - I own them both. The Kindle is the better e-reader by a long long margin for avid readers. e-Ink is easy on the eyes, it looks just like a book. Where ever you can read a book, you can read a Kindle. The Kindle is light weight, about on par with a real book, maybe a bit lighter. And the plastic has a really fine satin feel. After about ten minutes reading on a Kindle, I don't think of the device anymore. The iPad - pages look gorgeous. Winnie the Pooh is absolutely stunning, with the color images, the perfect page layout, sharp beautiful type, fun page turning animation, and a kind of 3D look that mimics a book. But, it weighs a lot more than a book, more like a big old heavy text book. The hand feel - aluminum and glass - not as wonderful as the Kindle. I keep thinking, this is such a cool device that I don't lose myself in the reading. 
+ Buying books with the Kindle is a super snap, under a minute and I've got my book. Buying them with the iPad? Sorry I'll never buy a book through iTunes, just like I've never bought a song at iTunes. Amazon has the review world covered and they know how to sell books. 
+ 
+ But, and here's the big but, the majority of the public is going to love the iPad reader software. They will marvel at the color pages and love the book buying experience, just like they love buying music through iTunes. It will be a success. The avid reader will stick with paper or a Kindle, or a Sony reader, or a Nook. There just is no substitute for e-Ink. And, yes my eyes hurt reading the iPad screen; and no you can't read a book easily in the sun (especially not the beach). 
+ 
+ And if you think I'm silly saying the device is heavy - there's three pretty savvy tech people that agree, Patrick Norton (a big strong guy) and Veronica Belmont of Tekzilla (an intense WOW gamer, so she has strong hands), and Molly Wood of CNet. Molly has returned her iPad because it is too heavy among other reasons.
+</REVIEW>

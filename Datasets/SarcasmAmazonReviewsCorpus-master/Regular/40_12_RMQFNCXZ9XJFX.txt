@@ -1,0 +1,12 @@
+<STARS>5.0</STARS>
+<TITLE>I like it.</TITLE>
+<DATE>April 25, 2010</DATE>
+<AUTHOR>Jason M.</AUTHOR>
+<PRODUCT>Toshiba 4 GB USB 2.0 Flash Drive (Electronics)</PRODUCT>
+<REVIEW>
+I bought this drive when Amazon offered it in the Gold Box for $8 and it is definitely worth it. I know that there has been some criticism of this drive for not having a cap or it's clean design. Neither of these points bother me and they certainly do not impact the performance of the drive. Put simply, if you're reading customer reviews because you want to know how well the drive performs, keep reading. If you're more concerned about a "pretty" drive, this isn't the review for you.
+ 
+ So far the drive has lived up to its selling points. I have three machines on Windows 7, one on Vista Premium and a netbook on Windows XP. I didn't have any problems using the drive with any of my machines. I am an avid photographer and I used several large photo files as well as some home videos to test this drive. File transfers to and from the drive were as fast as I've seen with other flash drives costing more. It really is a speedy little drive. This is also a good drive for ReadyBoost.
+ 
+ I've only had this drive for a couple of days and cannot make any claims as to long term reliability just yet but I've had good luck with other Toshiba products.
+</REVIEW>

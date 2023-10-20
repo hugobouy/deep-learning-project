@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>Quiet, cool and unobtrusive</TITLE>
+<DATE>22 Nov 2009</DATE>
+<AUTHOR>A. Hopkinson</AUTHOR>
+<PRODUCT>Western Digital Elements 1TB USB 2.0 Desktop External Hard Drive - Black (Electronics)</PRODUCT>
+<REVIEW>
+I bought this hard disk primarily for use with Apple Time Machine from two Mac laptops - a Macbook and a Macbook Pro. The drive comes formatted for Windows but a reformat only took a few seconds. Usable space on the drive is 931.5GB -  I have the drive partitioned, 600GB for Time Machine and 330GB for general usage.
+ 
+ The drive is very smart, with a textured top and glossy sides and has rubber feet. Both connectors (power and usb) are at the back, next to a white activity light, so there's nothing flashing at the front. The power lead is fairly compact (compared to my Lacie FA Porsche drive), with the transformer built in to the plug rather than halfway along the lead. Even the USB cable is well designed, with moulded easy-grip ends.
+ 
+ The drive is almost completely silent and runs very cool despite having no fan. I've probably moved about 1TB on and off it over the last 24 hours and it's never even been warm. Transfer speeds seem to be around 1GB/minute for both large files (a 200GB SuperDuper sparseimage) and many small files (my 50GB iTunes library), which is about standard for a USB hard disk as far as other reviews say. This equates to about 130Mb/s - USB is apparently capable of 480Mb/s, but I've never seen those speeds.
+ 
+ The drive has a two year warranty in the UK/Europe, which I think is the same as other drives in the WD range (although the My Book Elite has 3 years).
+ 
+ All in, for a budget external drive this is a great buy with solid build and performance to match any decent USB drive.
+</REVIEW>

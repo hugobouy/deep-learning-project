@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Intel Core 2 Quad Q8200 retail processor</TITLE>
+<DATE>February 26, 2009</DATE>
+<AUTHOR>Cory Dzbinski</AUTHOR>
+<PRODUCT>Intel Core 2 Quad Q8200 2.33GHz 4M L2 Cache 1333MHz LGA775 Desktop Processor (Electronics)</PRODUCT>
+<REVIEW>
+Got one of these from Fry's in a MB/CPU combo deal.  The processor is smoking fast with software that takes advantage of all 4 cores efficiently.  Examples would be Photoshop, Vegas, Winrar, Lightwave, Nero etc.  I got it specifically for crunching high definition video in Sony Vegas and editing high res graphics in Photoshop.  The processor really makes short work of previously long processing tasks.
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>2.0</STARS>
+<TITLE>portable  depth finder needs to be in water.</TITLE>
+<DATE>March 28, 2008</DATE>
+<AUTHOR>G. Nixon</AUTHOR>
+<PRODUCT>Norcross Hawkeye H22PX Sonar System (Electronics)</PRODUCT>
+<REVIEW>
+The product description does not indicate that the product must be in the water to function, ie; if it is used in a boat it is recomended that the depth finder be placed in a plastic bag filled with water then placed against the hull for a "through the hull reading" it appears this product would work fine if your vessel was sinking. This product might work fine if you boat is built close to the water so you can drag it along by hand. It appears this product is an underwater transducer attached to the readout. To be fair, this product would probably work fine for swiming and diving but living in Michigan that is a few months away. It appears to be well built for it's intended use as an underwater instrument.
+</REVIEW>

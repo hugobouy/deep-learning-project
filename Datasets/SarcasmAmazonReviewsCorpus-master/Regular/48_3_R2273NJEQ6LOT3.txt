@@ -1,0 +1,58 @@
+<STARS>5.0</STARS>
+<TITLE>Windows Phones Make a Comeback</TITLE>
+<DATE>April 2, 2010</DATE>
+<AUTHOR>diljs</AUTHOR>
+<PRODUCT>HTC HD2 Windows Phone (T-Mobile) (Wireless Phone)</PRODUCT>
+<REVIEW>
+As an avid user of smartphones, for years I've completely ignored a series of dull, uncreative phones running windows. While a variety of hardware form factors, some even technically superior to the competition, have come out, the software continued to look incredibly boring compared to the iPhone, Android, and even Blackberry. The main selling points consisted of "It runs windows and has a start button like you're used to on a computer" and "We have Office and sync with Outlook!". While these may have appealed to some business customers, the consistently shrinking market share of Windows phones demonstrated their lack of appeal to consumers as the recent smartphone boom hit. 
+ 
+ With the HD2 this trend may finally be coming to an end. In conjunction with HTCs beautiful Sense interface, some aggressive hardware, and some genuine innovations, the HD2 is a Windows phone I can actually use and recommend. Let's start with the pros and follow up with a few drawbacks. 
+ 
+ **Hardware**
+ 
+ -The 1ghz Snapdragon processor coupled with 448mb of ram is blazing fast. This is the fastest speed in a phone currently available. The HD2 loads everything quickly, and can run multiple apps at the same time. You can feel how fast the phone runs by playing with it for a few minutes. Gone are the sluggish Windows Phones of old, constantly running out of memory and crashing. The HD2 is fast and has top notch hardware and you can feel it. 
+ 
+ -The screen is huge: 4.3 inches and stretching from corner to corner. The Resolution at 800x480 pixels means you'll see much more on that big screen than average. That means more room for icons and that sexy weather display on the main screen. 
+ 
+ -The HD2 supports 3g on T-mobile, including the upcoming higher speed 3g. This means the fastest downloads and best call quality available. Note: the phone does NOT have ATTs 3g bands and the 3g will not work if you're using it unlocked on ATT. 
+ 
+ -5mp camera with auto focus and 2 LEDs. 5mp is the highest we see on most phones, and the camera looks great. Having not 1 but 2 LEDs for flash seems a bit silly but works well. The phone even comes standard with a little flashlight app for a blindingly bright way to see in the dark. 
+ 
+ -Included 3.5mm jack - this is becoming standard on most phones, and it's great to see it on the HD2. This allows you to use standard headphones without an adapter when playing music or listening to the built in FM Radio.
+ 
+ -Included wifi, bluetooth, and a hardware (real) GPS for turn by turn directions round out all the bells and whistles included in the phone. 
+ 
+ -Battery life is similar to most smartphones. You will easily get a day's use without having to charge, but most likely you'll have to plug it in at night. 
+ 
+ **Interface**
+ 
+ -HTC Sense is what really makes the phone shine here. This part of the software is done by HTC, not Windows, and runs on top of standard Windows Mobile 6.5 professional. HTC Sense expands on the previous TouchFLO 3d interface and enhances the way customers interact with the phone. Sense creates the beautiful Today screen, animations for messages, social networking features. It also lets you interact with the phone in unique ways, such as pinching to zoom. Some of these features are so close to the iPhone that Apple has recently filed lawsuits against HTC. 
+ 
+ -The home screen is customizable, though not quite to the extent of Android phones. It lets you place a few apps on the screen, along with a beautiful standard weather app that detects your phone's location and shows the current time and weather in your city. 
+ 
+ -Touch is a much better experience on this phone than previous windows mobile phones. The screen is capacitive, meaning it uses touch instead of pressure. No awkward stylus or pushing is needed for the touch to work. The phone responds quickly and smoothly to any motions. 
+ 
+ -Basic phone features like placing a call or sending a text remain simple, with big buttons on the main screen to do so. 
+ 
+ -Typing on the touchscreen is a breeze due to the size of the screen allowing for a bigger keyboard. As someone who has often stuck to phones with hardware keyboards due to inaccurate screen keyboards, I found typing on the HD2 much easier than previous touchscreen keyboards, although still not as easy as using a hardware keyboard. The HD2 also includes the new SWYPE interface, which lets you type by dragging your fingers through all the letters of a word instead of tapping each one. SWYPE was surprisingly accurate in typing the correct word and will even learn new words once you type them manually. 
+ 
+ **Included Apps and Accessories**
+ 
+ -This phone is being marketed as a media phone, and includes several media apps to demonstrate that. MobiTV lets you watch what is essentially Cable TV on your phone free for 30 days and then ten dollars a month after that. Blockbuster lets you rent or buy movies for your phone. Barnes and Noble eReader lets you purchase ebooks. 
+ 
+ -The phone comes with a huge 16gb MicroSD card out of the box. This is the biggest memory card available currently, and gives you plenty of room for pictures, videos, music, and apps. The best memory card pairs perfectly with the best processor and screen, and it's great that HTC did not hold back on this extra. 
+ 
+ -Full videos of Transformers 1 and 2 are preloaded on the memory card. These videos look great and show off the beautiful screen. Note the movies do take about 4gb of space on the memory card. 
+ 
+ -The phone comes with a gel skin in the box to protect the phone, which you would have to buy separately on most phones. 
+ 
+ **Drawbacks**
+ 
+ -Price is the number one concern here. The phone is priced higher than competing smartphones. This price seems justified, however, due to the cutting edge hardware in the HD2. It also comes with some nice accessories you'd have to buy separately from other phones. Upgrade and new customer deals will certainly lower the cost for those buying from T-mobile. 
+ 
+ -The app store is another drawback. The good news is that the phone has one, the bad news is it's the smallest of ANY smartphone operating system. As of this review the Windows Marketplace carried less than 1,000 applications, compared to Android at 20,000 apps and iPhone at a staggering 150,000 apps. Even Blackberry, Palm, and Nokia carry more apps than Windows. You are also going to find significantly more paid than free applications for Windows Mobile apps. The Marketplace is simply far behind that of competing phones, which for a heavy app user will diminish the enjoyment of the HD2 by quite a bit. 
+ 
+ -Windows Mobile 7 upgradeability is still up in the air, but it currently looks like this phone will NOT be getting an upgrade when the new OS is released. The phone does not support some key hardware feature (front buttons) that WM7 requires, and therefore it is unlikely to be upgraded. The upcoming OS promises to be very exciting, and the fact that this beautiful phone will probably not receive the upgrade is disappointing. 
+ 
+ Overall this phone is fast, pretty, and offers top of the line features. The phone feels solid (and huge) in your hand, while the software is fast, works well and is fun to use. If the HD2 is any indicator, Windows Mobile may become a legitimate competitor in the smartphone market again. The phone seems to be selling very well, with T-mobile selling out almost everywhere the day the HD2 was released.  I'd recommend this phone as a viable alternative to Android and the iPhone.
+</REVIEW>

@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>can power on</TITLE>
+<DATE>May 16, 2008</DATE>
+<AUTHOR>T. Li</AUTHOR>
+<PRODUCT>SanDisk Sansa m250 2 GB MP3 Player (Black) (Electronics)</PRODUCT>
+<REVIEW>
+Can't power on. Freezed at beginning. Computer can't recognize it any more. Recorded voice is very low. If you buy it, prepare to throw it soon.
+</REVIEW>

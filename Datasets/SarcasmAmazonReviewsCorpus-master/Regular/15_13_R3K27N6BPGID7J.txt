@@ -1,0 +1,8 @@
+<STARS>2.0</STARS>
+<TITLE>Error #69</TITLE>
+<DATE>June 13, 2010</DATE>
+<AUTHOR>Erik J. Freed "Bass Boy"</AUTHOR>
+<PRODUCT>Denon AKDL1 Dedicated Link Cable (Electronics)</PRODUCT>
+<REVIEW>
+I hooked up a laptop to my router using this cable and I get this 'error 69 unable to couple with peer' message. I seem to remember that from my days programming DEC mini-computers but I don't remember what caused it or what to do about it.
+</REVIEW>

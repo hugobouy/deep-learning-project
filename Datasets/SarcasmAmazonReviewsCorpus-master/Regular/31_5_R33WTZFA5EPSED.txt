@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>Good Price for a Good Motherboard</TITLE>
+<DATE>January 25, 2010</DATE>
+<AUTHOR>A. Nima "Kreator"</AUTHOR>
+<PRODUCT>Intel DG41TY Classic Series G41 micro-ATX Intel Graphics DVI+VGA 1333MHz LGA775 Desktop Motherboard (Electronics)</PRODUCT>
+<REVIEW>
+I bought this motherboard to build a descent mid-end system replacing a very old computer.  It was very easy to install and the manual was very well explained about the MB's parts.  Although I could not find the audio jumper configuration in the motherboard to choose between AC'97 and HD audio, I believe there was no need for it since the manual said HD audio was the default configuration and you would obviously prefer HD audio.  Overall, very good price for a very good motherboard.  Great for a mid-end system.
+</REVIEW>

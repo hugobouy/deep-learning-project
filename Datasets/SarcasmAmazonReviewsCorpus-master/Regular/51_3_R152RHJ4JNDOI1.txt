@@ -1,0 +1,44 @@
+<STARS>5.0</STARS>
+<TITLE>No more iPhone envy...</TITLE>
+<DATE>November 30, 2009</DATE>
+<AUTHOR>G. Argov</AUTHOR>
+<PRODUCT>Motorola DROID A855 Android Phone (Verizon Wireless) (Wireless Phone)</PRODUCT>
+<REVIEW>
+Ever since getting the iPod Touch, I've had an extreme case of iPhone envy; the Touch's intuitive interface, sleek design, and overall pleasant experience made me wish I could use it on the go, and not be tied down to Wi-Fi networks. As a happy Verizon customer, however, I was not going to switch providers just to get a new phone (although the thought crossed my mind more than once!). After a long wait, I finally got my hands on an iPhone competitor, the Motorola Droid. While it might not be the "iPhone Killer" that people have claimed it to be, it's a great phone in its own right.
+ 
+ CALL QUALITY
+ For some reason, I get fewer service bars/seemingly weaker reception compared to my LG Dare. In the same spot, holding both phones, I get 5 bars on my Dare (which I've since given ), while I only get 2 bars on my Droid. Weird, but fortunately I haven't actually noticed any decline in call quality or reliability; it's been superb!
+ 
+ SPEAKER
+ Loud, and good quality! This is important, because whether you're listening for driving directions using the built-in GPS, streaming music through Pandora, or talking, the speaker is very loud and clear.
+ 
+ BATTERY LIFE
+ Decent. Yes, the battery can run out quickly, but that's just because you'll find yourself using the phone so much! Some of the biggest battery drainers I've noticed have been screen brightness, GPS, and streaming radio. These problems can be resolved by turning down screen brightness (even at its lowest setting, still bright and crisp), turning off the GPS when it's not in use (through the Power Control widget), and not relying exclusively on streaming radio for music (with the included 16GB card you can store plenty!)
+ 
+ DISPLAY
+ Gorgeous, crisp, and very bright display that makes other phones pale in comparison. I love it, and highly recommend those considering this phone to take a look at one in their local Verizon store. Even at its darkest setting, its very good. The high-resolution display also allows for text to appear much more detailed and crisp, a plus for those with glasses.
+ 
+ CAMERA
+ The Droid packs a 5 Megapixel camera, as well as video-recording at roughly DVD-quality. The camera is a bit slow to auto-focus, but pictures come out fine. Not great, but decent for a cell phone, especially at night using the flash. While its still pictures don't come out great, the Droid's videos come out really well. The audio recorded on videos is also really good.
+ 
+ LOOK AND FEEL
+ The phone isn't light, but it also isn't as heavy as I feared based on initial reviews. The only criticism is that there are no dedicated call/end buttons...instead, you have to rely on the phone application, which means you can't feel around for the call/end buttons, say you get a phone call in the middle of the night. Still, that's just a minor gripe. The phone feels sturdy, not cheap, and is pretty slim considering it packs a full slide-out QWERTY keyboard.
+ 
+ KEYBOARD
+ One of the major selling points of this phone was that it has a physical keyboard. The keyboard isn't perfect - keys are shallow, too close to one another, and there isn't a dedicated row for numbers. Also, the top row of keys is inconveniently located too high to the top of the phone. Still, despite these shortcomings, I would not use this phone without the physical keyboard. After a year with the touchscreen-only LG Dare, I still had difficulty with typing, and even after 2 years with an iPod Touch - which has a much better touchscreen keyboard than the Dare - I have difficulty with typing on that, as well. While the touchscreen keyboard on the Droid is very good, I still make many fewer mistakes with the physical keyboard than with the touchscreen one. While I'd say this is largely a matter of personal preference, I'd like to emphasize that the physical keyboard isn't nearly as bad as some reviewers online made it out to be.
+ 
+ Android Market
+ As it stands now, the Android Market has over 10,000 apps, while the Apple App store has over 100,000. As a result, some reviewers have said - wrongly, I believe - that the Droid is somehow more limited. One should remember that while the iPhone/Touch had a headstart in developing its application market, many new developers have flocked to Android as more phones have come to market. There already is a strong selection of apps, and this will only grow over time.
+ 
+ SHORTCOMINGS
+ The two major shortcomings of this phone - especially when compared to the iPhone - are that:
+ 1. Not as intuitive as the iPhone. I think this phone is great for many users, but others might find it to be a little complicated. This phone is very capable, but sometimes to find things you have to dig around a bit more than might be convenient (I don't mind this too much).
+ 2. No widespread and easily available alternative to iTunes. I use DoubleTwist, but without a doubt iTunes is a much easier way to transfer media to the phone than dragging and dropping or using iTunes alternatives, for most people at least. While I don't buy MP3s online, others have also pointed to the iTunes store offering much more selection than Amazon's MP3 store.
+ 
+ CONCLUSIONS
+ Who should get this phone? If this is your first smartphone, you might find things to be a little difficult at first, but well worth the patience. While this phone isn't for everybody, if you are already on/hope to switch to Verizon, this is without a doubt one of the strongest offerings. I don't know if I would necessarily dump my iPhone if I were an AT&T Customer, but I think that this phone will be a very useful tool for many people who have considered an iPhone but wanted a physical keyboard, more customizability, or more Google integration. While there are a few shortcomings in design and media integration, I can now say I've found the cure to my iPhone envy!
+ 
+ 
+ **UPDATE 2.22.10** 
+ I wanted to say that while I'm still very happy with my Droid, one problem has arisen. For some reason, text messages I compose are not always going through...after minutes of trying, the phone simply notifies me saying that the text message was not sent. I have no clue why this is happening, but must say it is a bit frustrating. Fortunately, it doesn't happen too often, but it has happened enough to notice. This has happened to text messages I've sent to people on different carriers, so I'm assuming the problem is from my end on not the recipients'. Either way, a small price to pay for an otherwise amazing phone.
+</REVIEW>

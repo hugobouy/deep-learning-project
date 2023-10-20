@@ -1,0 +1,12 @@
+<STARS>4.0</STARS>
+<TITLE>One of my best decisions this year</TITLE>
+<DATE>June 16, 2010</DATE>
+<AUTHOR>L. W. Lu "William"</AUTHOR>
+<PRODUCT>Apple MacBook Pro MC374LL/A 13.3-Inch Laptop (Personal Computers)</PRODUCT>
+<REVIEW>
+Aside from the ingenious design of the track pad that allows the users to have more freedom and flexibility to navigate, macbook pro13 is extremely portable and reliable. I have been an avid PC user. I own 4 laptops and 2 of them are still PC. However, I am glad that I have bought a mac. The apps such as FInal Cut, iLife, and iWork seem to run very smoothly on this macbook. The LED screen is fantastic. It produces brilliant and rich images. iChat video capability is probably way better than any other video chatting capabilities that my PCs can deliver. With all the upgrades that Apple has done with their macbooks, I think I finally feel that it's worth the spending to buy my first mac.
+ 
+ My only complain is that it's still a lot more expensive than PC laptops with similar specs. The accessories are not cheap either. Some games are still more compatible to PC than to a mac. 
+ 
+ Other than that, the track pad capability to do two-finger tapping (same as right click on a PC) has helped me a lot in transitioning from PC to mac. In fact, now it's harder for me to use a PC without the two-finger scrolling, three-finger and four-finger navigations macbooks provide.
+</REVIEW>

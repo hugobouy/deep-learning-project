@@ -1,0 +1,17 @@
+<STARS>5.0</STARS>
+<TITLE>Great netbook, absolutely love it, touch pad not good</TITLE>
+<DATE>June 18, 2009</DATE>
+<AUTHOR>H. Divakaran</AUTHOR>
+<PRODUCT>Acer Aspire One AOD250-1151 10.1-Inch Black Netbook - 3+ Hour Battery Life (Personal Computers)</PRODUCT>
+<REVIEW>
+Got it from Wal Mart for 298 $. This is a great netbook
+ 
+ pros
+ - After uninstalling Google Toolbar and McAfee and other useless software came with the netbook, it is really fast. 1 GB is enough, if you do that cleanup. 
+ - Thinner than D150 model, very light weight. 
+ - keyboard is small still usable
+ 
+ cons
+ - touchpad isn't that good, gesture for scroll doesn't work always. 
+ - screen is glossy, but usable. I prefer glossy screen, some people won't like it.
+</REVIEW>

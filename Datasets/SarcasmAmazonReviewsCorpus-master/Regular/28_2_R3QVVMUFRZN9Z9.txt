@@ -1,0 +1,20 @@
+<STARS>5.0</STARS>
+<TITLE>A thinking man's console RPG?</TITLE>
+<DATE>August 16, 2007</DATE>
+<AUTHOR>Matthew Graybosch "programmer_cat"</AUTHOR>
+<PRODUCT>Shin Megami Tensei: Persona 3 (Video Game)</PRODUCT>
+<REVIEW>
+Gamers who buy games developed or published by Atlus know that Atlus games tend to be somewhat different from other developers' offerings. After several hours of play, I think it's fair to say that "Shin Megami Tensei: Persona 3" continues this trend.
+ 
+ The gameplay is fairly realistic, given that P3 is a Japanese RPG. In battle, they may stumble when attacking and leave themselves vulnerable to the enemies' attacks. If you try to push them too hard, they will get tired, which will affect their performance. Ignore their fatigue, and they will get sick, which further hampers them. This principle applies to the main character, whom the player directly controls. Try to do everything, and you won't be able to do anything particularly well.
+ 
+ Since part of the game involves the character's day-to-day life as a high school student, one cannot expect major plot turns every day. However, the choices the player makes in school do have an effect on the player's options as a Persona user. The more connections the player forges with other students, the more power he will bring to bear as a Persona user, so expect consequences if you decide to play as a loner.
+ 
+ Some players may find some of the imagery in this game disturbing, or even offensive. The characters summon their Personae by using a gun-like device called an Evoker. Unlike another reviewer, I do not think that they are mimicking suicide. Instead, given that in-game dialogue suggests that one can summon a Persona without an Evoker, I think that the Evoker is used to break down a character's inner barriers so that his Persona can manifest. While I understand why the summoning animations may be offensive to some, I do think that Atlus did it this way for a legitimate reason. However, parents thinking of getting this game for their teenage children should be aware that this game contains imagery that may be inappropriate.
+ 
+ As for the title of this review, I think this might be a thinking man's RPG because of the themes I've encountered thus far. I haven't completed the game yet, so I can't say I've seen everything it has to offer. However, given the introductory movie that plays when you load the game, I think that Persona 3 will give an attentive player a few things to think about. For example, the player is asked to sign a contract at the beginning of the game. The terms seem simple enough, but when is responsibility ever simple?
+ 
+ As for technical details; the graphics are somewhat minimalist, but very stylish. I think that the character and Persona portraits were well done, but I don't think that Kazuma Kaneko (who handled character design for the other SMT games on the PS2) was involved. Shoji Meguro, however, handled the soundtrack. I suspect that some of the hip-hop influenced tracks may begin to grate on me after further play, but I am a long-haired metalhead. Your mileage may vary. You may also dislike the voice acting, but the Config menu includes an option to turn off voiced dialogue for players who just want text.
+ 
+ I heartily recommend SMT: Persona 3, and think it's worth the fifty bucks I paid for it. Buy it instead of renting it, and you'll get a nice little art book and soundtrack disc in the package.
+</REVIEW>

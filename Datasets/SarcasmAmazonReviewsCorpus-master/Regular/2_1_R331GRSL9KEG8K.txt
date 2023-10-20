@@ -1,0 +1,10 @@
+<STARS>5.0</STARS>
+<TITLE>nice product, nicer price</TITLE>
+<DATE>August 29, 2009</DATE>
+<AUTHOR>Student "Student"</AUTHOR>
+<PRODUCT>(9-cell) Laptop Battery for Dell Inspiron 1520 1521 1720 1721 Vostro 1500 1700 Series Pn 312-0504 312-0513 312-0518 312-0520</PRODUCT>
+<REVIEW>
+I have a Dell Inspiron 1520.  My old battery only held about 30 minutes of charge so I decided it was time to get a new one.  I was wary about purchasing the battery from pyrus electronics since it was so cheap.  Nonetheless, the battery arrived on time and it works perfectly fine. When the battery is fully charged, I get about five to seven hours of power (depending on screen brightness, active programs, etc.).
+ 
+ Also, my battery fit perfectly into the slot.  There was no force necessary as stated in a previous review.
+</REVIEW>

@@ -1,0 +1,22 @@
+<STARS>5.0</STARS>
+<TITLE>Perfect for Asus Eee PC 1000/Linux</TITLE>
+<DATE>March 24, 2009</DATE>
+<AUTHOR>Lawrence H. Bulk "Lawrence H. Bulk"</AUTHOR>
+<PRODUCT>Crucial 2GB 256Mx64PC2-5300 CT25664AC667 DDR2 200-Pin SODIMM Laptop Memory (Electronics)</PRODUCT>
+<REVIEW>
+I own the ASUS Eee PC 1000 10-Inch Netbook (1.6 GHz Intel Atom N270 Processor, 1 GB RAM, 40 GB Solid State Drive, 20 GB Eee Storage, Linux, 6 Cell Battery) Pearl White .
+ 
+ About a half-hour ago this Crucial 2GB 667 Mhz CT25664AC667 DDR2 200-Pin SODIMM Laptop Memory  card arrived in the mail. I opened up and removed the small plastic cover on the bottom of my computer, released the clips holding the original supplied 1 GB memory card in place (when you release the clips, the card pops up for easy removal), replaced the original card with this one, replaced the cover, inserted the battery, and turned on the computer.
+ 
+ This new memory card was instantly recognized.
+ 
+ I did NOT have to press the F2 or F10 key. I do not know why some others had to do this (and I do not doubt their experiences) but, immediately after I installed the card and turned on the computer in the normal fashion, I checked the memory available - and there was my 2 GB of RAM showing.
+ 
+ The entire mechanical installation process is quite simple and straightforward. The only tool necessary is a small Phillips-head screwdriver (mine came in a screwdriver set from Dollar Tree!) to remove the screws. Please note that, for the Asus Eee PC 1000 line, there are several YouTube videos which show in detail the whole process which takes no more than two or three minutes. The hardest part? Carefully removing the plastic cover on the back of the computer. The screws remove easily but there are several internal plastic clips on the sides of the cover (not visible) which must be released gently so as not to break them (they do seem robust, however).
+ 
+ Once the cover is removed, actually removing and replacing the memory is simple.
+ 
+ I have used Crucial memory cards in other laptop computers over the years and I have always found them to be completely reliable.
+ 
+ Therefore I highly recommend this memory card, especially for Asus Eee PC 1000 owners.
+</REVIEW>

@@ -1,0 +1,54 @@
+<STARS>5.0</STARS>
+<TITLE>Great Action/Rpg</TITLE>
+<DATE>October 6, 2009</DATE>
+<AUTHOR>Dark Dreams</AUTHOR>
+<PRODUCT>Demon's Souls (Video Game)</PRODUCT>
+<REVIEW>
+I had imported Demon's Souls in April, and finished it 3 times since then. I have a long review below but if you want a few sentences here it is: 
+ 
+ The game has an excellent atmosphere, great character customization, enjoyable combat, some unique online elements, but very little story and minimal npc interaction. It is also very unforgiving, but it is strangely addictive if you don't get frustrated easily. It takes about 40 hours in your first play through. It's not because the game is huge... It's because you'll die a lot and repeat a lot, which results in playing very cautiously (which also adds to the atmosphere). 
+ 
+ ***Review***
+ 
+ Demon's Souls is an action RPG game with some unique online elements. I loved the game but I can also see why some people (even RPG lovers) might hate it. Although I gave it 5 stars, I cannot say the game is for everyone. Just read the paragraph at the end where I explain some game mechanics, and if it sounds frustrating to you then might want to try the game first before buying.
+ For me 3 things are very important for an RPG. A good story and well-developed characters, deep character customization, tactical and fun combat.
+ 
+ Story
+ 
+ In DS, the people in different realms/worlds are possessed by demonic souls and you are to get rid of them. When you kill them you collect their souls and get more powerful and eventually fight against the final demon. That's basically it. The game has very little story and minimal amount of non player characters (NPCs). There are about 15-20 NPCs in total (including the merchants and blacksmiths), and most of them are located in a hub called Nexus. Furthermore, you can talk to them but there are no dialogue trees. They'll say 2-3 new sentences after each time you kill a demon boss, giving you some background about the setting. Sometimes they'll initiate a sidequest, by asking you to find/do something. That's all. 
+ 
+ If you are expecting something like Mass Effect or JRPGs in terms of story or dialogue this is not it. However, the game has a very dark and immersive atmosphere. It just sucks you in and makes up for its lack of story. Also, sometimes new characters/enemies appear depending on World Tendency (world tendency is something like an alignment that can change toward black or white), which provides replay value. 
+ 
+ In sum, unlike most other RPGs, this is not a game that you play for the story. There is minimal story and dialogue, but the game has an excellent atmosphere which gives you the feeling of being alone and overwhelmed.
+ 
+ Character Customization
+ 
+ Character customization is probably the most important aspect of an RPG and this is where the game shines. You start the game with a certain class you picked, but it doesn't restrict you. You can develop your stats in anyway you like and completely turn it into something else (kind of like Oblivion). For example, weapons/armors have different stats requirements, but they are not restricted to classes. As long as your character meets the stats requirement you can use it. So you can mix and mash classes anyway you like. There are 8 different attributes, and when you level up you can raise one of those attributes by one point (there is room for up to 99 for each attribute). 
+ 
+ Weapon upgrades are done by using the ores you find. You can do regular upgrades (e.g. long sword +2) or you can change it into a different weapon (e.g. dragon long sword) depending on the ores you found. There are several different types of ores that opens a different upgrade branch. There are also some special upgrades, if you choose to use a demon's soul that you obtained from a boss, which will give you a unique weapon. 
+ 
+ Combat
+ 
+ The customization also affects your gameplay. For instance, you can wield double swords, sword and shield, sword and crossbow, sword and a wand, two shields (if you want to be fancy) etc. Moreover, any sword can be wielded two handed or one handed. Of course, if you choose to wield a two handed sword with one hand, you character becomes clumsy. If you choose to wield a one handed sword with two hands, then you make stronger attacks with different animations. 
+ 
+ The combat is in real time and it is like an action game. In the controller, L1-L2 is assigned to the left hand, and R1-R2 is assigned to the right hand. L1 is used for guarding, L2 is either for parry (when wielding a shield) or attacking (weapon on left hand)). On the other hand, R1 is regular attack, and R2 is strong attack. You can also roll, run, but you cannot jump. So you end up having different combat gameplay and tactics depending on what you choose to equip. 
+ 
+ Online Gameplay
+ 
+ If your PS3 is connected to the internet, you'll automatically play the game online. That lets you do different things. First, you'll see some messages left by other players. They can provide some clues, warnings etc. You can also leave messages but you can only create them by combining preset words and phrases. You cannot type whatever you want. And if someone finds your message helpful and rates it, then your health replenishes. Second, you'll see pools of blood and if you touch them it will show you a ghost of some other player and how he/she died. It's just another clue to help you in the game. 
+ 
+ Third, and the most important one, is playing with/against others. If you are in body form, you'll see blue signs on the ground left by other players. By touching those signs you can summon up to two more people to your game and they'll fight along with you in your game helping you out. On the other hand, when you are in body form some other player can invade your game and try to kill you. If you are in soul form, then you can put a blue sign on the ground in order to be summoned by others or you can use an item to invade another player's game.  However, you cannot just invite your friends to your game. If you and your friends are on different servers (which you have no control over) you won't see the signs they left and will not be able to summon them. If you happen to be on the same server, you can arrange a location in the game to put the sign (via XMB message) and then summon the other person.
+ 
+ Conclusion
+ 
+ In sum, Demon's Souls is one of the best games on PS3. It has a great atmosphere and addictive gameplay that makes you come back, even after you died for the tenth time in the same boss battle. Unfortunately it is not a game for the impatient. Just take a look at the cover art (the regular cover art which happens to be the Deluxe Edition cover in US release) of the game. You see a lone, battered knight, who is about to give up. That's Demon's Souls for you. If you are willing to take the challenge, victory will be very satisfying.
+ 
+ ***About the difficulty and potential frustration***
+ 
+ First of all, the game is very unforgiving. Even regular enemies can kill you with 1-2 blows, and they will kill you many times. However that's not the main issue. The real difficulty comes from not being able to save in the middle of a stage/map. The stages don't have checkpoints either. Also dying is very costly. When you die, first you will drop your souls at the location you died (You gain souls by killing enemies, and souls are used as both experience points to improve your stats and also as money). Then you will lose your body (which means losing half of your life bar, making the game even harder) and you will respawn in soul form at the start of the stage. However all the enemies will also respawn. Furthermore, if you die again before reaching the location you died, you will lose all the souls you have dropped previously for good. That means no experience/no money from all that playing. Also reaching your corpse does not give your body back, it only gives back your collected souls. You can gain your body (half of your life bar) if you beat a boss, or invade another player's game and kill him/her, or use a special item. 
+ 
+ In brief, you will be playing the same stage from the beginning over and over again, until you beat the boss at the end of the stage. In a lot of cases, you will not gain any experience/level during this process, because you'll die a second time before reaching your corpse. However, the stages are not very big. It generally takes about 5 to 10 minutes to get to the boss if you know the way and IF you don't die. A new respawn point appears at the end of the stage, after a boss is defeated. (The game has 5 worlds and each world has 4 stages/bosses). So, after you beat a boss you can spawn from that location if you want. 
+ 
+ Still, a lot of people would probably hate this no save/checkpoint mechanic combined with the games unforgiving difficulty. It's like 80s arcade games which takes you back to the beginning of the stage when you die.
+ 
+</REVIEW>

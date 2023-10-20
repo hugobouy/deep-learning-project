@@ -1,0 +1,15 @@
+<STARS>5.0</STARS>
+<TITLE>Great Motherboard</TITLE>
+<DATE>March 13, 2009</DATE>
+<AUTHOR>L. LE</AUTHOR>
+<PRODUCT>Intel DP45SG Extreme Series P45 ATX DDR3 1333 2xPCIe 2.0x16 3xPCI 1333MHz FSB LGA775 Desktop Board - Retail (Electronics)</PRODUCT>
+<REVIEW>
+So far no problems like the ones listed by previous reviewers. Everything works great. I love the drivers getting installed so easily with the included CD. Also when I tried to overclock the memory, after the reboot the motherboard didn't like the settings, so it rebooted itself again after that, and basically reset the memory settings to the old settings. Nice feature!
+ 
+ System specs:
+ - OCZ DDR3 PC3-10666 1333MHz Intel Extreme Edition XMP Ready Series 6GB Triple Channel Kit
+ - Razer Lachesis Mouse
+ - Samsung 22X SpeedPlus Serial ATA Internal DVD Writer
+ - EVGA 512-P3-N879-AR GeForce 9800 GTX +
+ - Western Digital 500GB Caviar
+</REVIEW>

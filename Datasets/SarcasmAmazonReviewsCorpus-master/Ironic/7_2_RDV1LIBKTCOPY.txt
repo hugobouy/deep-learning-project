@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>The title is the best part of the book</TITLE>
+<DATE>July 25, 1998</DATE>
+<AUTHOR>A Customer</AUTHOR>
+<PRODUCT>The God of Small Things (Paperback)</PRODUCT>
+<REVIEW>
+If you enjoy repeated phrases (e.g., &quot;fountain in a Love-In-Tokyo&quot;), overused metaphors, and capitalized words in the Middle Of Sentences For Effect, then this is the book for you.  Otherwise, rest assured that the title really is the best part of the book.
+</REVIEW>

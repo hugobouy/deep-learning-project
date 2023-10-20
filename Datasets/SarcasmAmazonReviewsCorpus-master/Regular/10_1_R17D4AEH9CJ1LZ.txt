@@ -1,0 +1,9 @@
+<STARS>5.0</STARS>
+<TITLE>Excellent magazine for novices and advanced users alike</TITLE>
+<DATE>March 12, 2005</DATE>
+<AUTHOR>Michael Shulman "FMB"</AUTHOR>
+<PRODUCT>PC World (Magazine)</PRODUCT>
+<REVIEW>
+When I bought PC World at a store, the cover looked appealing. It had an advice on how to surf the Internet trouble free. So I brought it home and started reading it. I was amazed! I have never read a magazine cover to cover before, but I read this one word for word. This mag is filled with tons of reviews of best software and new gadgets. It also has unbiased articles written in a balanced simple English and technical language on computing in general. Perhaps the best part about the magazine is the CD they include with it. iT is filled with PC World recommended software that will make your life much easier.
+  IF you never heard of PC World, you don't know what you're missing. Go to the nearest store and ask for the copy. You'll be glad you did
+</REVIEW>

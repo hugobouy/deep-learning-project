@@ -1,0 +1,62 @@
+<STARS>5.0</STARS>
+<TITLE>Great Phone Minor Flaws - Former iPhone and Blackberry User</TITLE>
+<DATE>November 2, 2009</DATE>
+<AUTHOR>Always Samsung "ravereviews"</AUTHOR>
+<PRODUCT>Motorola CLIQ Android Phone, Titanium (T-Mobile) (Wireless Phone)</PRODUCT>
+<REVIEW>
+The best review from a former iPhone and Blackberry user.
+ 
+ I have been in love with the G1 since it came out a year ago, but I couldn't get over that ugly chin sticking out! I was beyond ecstatic when the MyTouch 3G was released, but after playing with the device for 3 hours I realized what a piece of crap it was and returned it. The screen wasn't that big and it made texting and instant messaging a living nightmare. In addition to that, the phone was not multi-touch capable, so if you're a fast texter and really quick with the emails then the MyTouch 3G is not for you. The virtual keyboard could only handle one letter at a time and I found myself hitting the wrong letters on so many occasions. I would hit a letter and the phone would pick up the surroundings letter. This really is ashame because the thirty-five dollar data plan is mandatory and its travesty that one can't even use it to the best of their ability. The lack of a keyboard also made the MyTouch 3G a big downer. Anyway, I digress. 
+ 
+ Now, let's get to the Motorola Cliq. This phone is everything that the G1 and MyTouch 3G should have been, but better. This device doesn't come with Eclair (Android OS 2.0), but it functions just fine. Hopefully a mandatory upgrade will be made available to all Android users soon. This is a great PDA smart phone for anyone who is heavy into texting, emailing, and surfing the web. It's a full featured phone, but at the same time it's nothing groundbreaking. There is definitely some acclimation when it comes to the Cliq because I am so use to my Blackberry 8900 and I think its one of the best built devices with a very responsive well built OS. 
+ 
+ If you're looking for a device that is very similar to the iPhone on the T-Mobile network then this is probably the closest that you will ever get. My initial impression of the phone was not a good one because it kept asking me to create a user name and password. I thought it was asking for an email address (Yahoo, AOL, Gmail), but it wasn't. It was asking you to create a MotoBlur account. I did, but kept getting an error message. T-Mobile customer service didn't know what to do and [...] has an area to sign into MotoBlur & an option to create a motoblur account, but when you click it there's nothing on screen that lets you create a name/password. 
+ 
+ Android OS - Many people have said that the Android OS is a game changer since its release back in the fall of 2008. It seemed like the only thing at the time to combat with the forces of the iPhone. To some extent it is and to some extent it's just not quite there yet. To be honest it's a bit on the clunky side. It does take a few seconds to exit out of certain applications, or to even get to the main home screen menu when exiting out of email and texting. When you become so use to using your cell phone for just about everything - speed is everything. That also includes how responsive and quick your phones OS is. My only gripe is that I wish there wasn't that few second lag in-between operations.
+ 
+ Motoblur - The Cliq includes MotoBlur which lets you connect your Facebook, MySpace, and twitter accounts directly to the advice, so whenever your friend writes a new comment it immediately goes to the homepage of the phone. This is a great idea and saves you time from going into the web browser and having to log in each account in order to check for updates. However, this feature is a battery killer. I have mine turns off, besides if you lend your phone to someone else to use (To make a call or use web browser) they will all be up in your business. I could careless about this feature. 
+ 
+ 
+ Email - This is also not an Android device that has Google branding with it. It's just a Motorola phone using the Android OS. There is NO G1 branding logo anywhere. However, you can still sync up your Google email address, but the Gmail feature is such a disappointment. Synchronization has to be turned on for the Gmail to function to the best of its ability & that's a BIG battery draining feature. You can also sync your Yahoo & AOL email addresses. The AOL and Yahoo email feature is way better then Gmail and doesn't require synchronization to be turned on. This helps save tremendous battery power. When you send an email from your desktop it doesn't come to the phone right away, but you can set the phone to check for new emails every 15 mins, 30 mins, or manually, etc. It doesn't work the same with Gmail which is a big let down. I am a big fan of the Blackberry and it's the only device on the market that gets an email within 2 seconds of sending it. The same can't be said for the Android OS. Much work needs to be done. 
+ 
+ Web Browser - One of the best features on any android device including the Cliq is the web browser. Surprisingly, it doesn't launch [...] as the main homepae when you click browser. The Android Browser is probably one of the best browsers on the market right now and is up there with the Safari Browser and the Palm Pre's browser. You cant pinch and zoom to enlarge the way you can on the iPhone, but there are zoom in controls which are easy to use. You also get a dedicated YouTube app that lets you watch Youtube videos. Though the video clips aren't as sharp as the iPhone - There is a setting and option when you are watching the YouTube clip where you can see the videos in "Higher Quality" so its crystal sharp and less blurry. 
+ There is a big difference that one will notice when switching from standard to HIGHER QUALITY.
+ 
+ 3G - TMobile recently launched their 3G network about a little over a year ago, so they are still building from the ground up while the other networks are already moving into 4G. It's great that the CLIQ has 3G, but it does get spotty and unresponsive sometimes. There were many times that the 3G would switch between 3G and EDGE. I didn't have that big of a problem with it, but I am sure over time it will get better. Wi-Fi is also included, so this is a great alternative for someone who might be at home and only has EDGE access.
+ 
+ Instant Messaging - The CLIQ comes with Yahoo Messenger, Google Talk, and AIM pre-installed. My Blackberry 8900 came with all 3 and included ICQ & Windows Live. Another thing about the IM that was such a disappointment is that synchronization had to be activated in order for you to sign into the messaging client, which in turn drains the battery power like crazy. This was such a disappointment. My BB never had this issue. You sign in and start chatting. There was no extra setting that had to be activated in order to chat, but on the CLIQ it's a requirement. The extra requirement only means that you have to charge you phone twice in one day because of heavy unnecessary usage.
+ 
+ Motorola really could have done a better job with the CLIQ, especially for the price. But I think most of the minor flaws have to do with the Android OS. I was originally an iPhone user that became a Blackberry user and I have to hand it to the Blackberry because it's quick, responsive, and built in such a way that its function is superb. Everything from Email to text to instant messaging is just so quick. There is hardly any lag and it's easy to learn how to use. The Blackberry so far is the best PDA I have ever used, but its web browser needs work. Pick up the CLIQ phone because it's a winner. There are some minor flaws, but the pros outweigh the negative. 
+ 
+ Pros: 
+ Android OS (Can be a pro & a con)
+ Full HTML Web Browser 
+ Threaded Text message 
+ Email sync 
+ Android Marketplace 
+ Full qwerty keyboard 
+ YouTube Application
+ 5.0 camera/camcorder 
+ Big vibrant screen 
+ 3.5 MM headjack 
+ Decent call quality (No issues yet) 
+ Mini SD up to 32GB 
+ Use your songs as ringers 
+ Wi-Fi 
+ Personal Email (Up to 10 accounts can be added) 
+ IM
+ My Favs 
+ Excellent Multimedia Player 
+ Includes 2 chargers (Wall Charger & USB charger) 
+ T-Mobile offers the best minute and data plans on this planet 
+ 
+ Cons: 
+ Poor Battery Life (Lower light setting and turn off Motoblur to save power) 
+ Gmail is a disaster (Not push capable) 
+ Needs better notification options when next text/emails come through 
+ No PUSH email capability 
+ Trackball (I miss you) 
+ Occasional lag time when entering/exiting a screen/app
+ Micro USB (No more Mini USB) 
+ No ear phone or free carry case
+</REVIEW>

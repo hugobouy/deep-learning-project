@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>Good Product</TITLE>
+<DATE>July 9, 2010</DATE>
+<AUTHOR>Danny</AUTHOR>
+<PRODUCT>Weider Total Body Works 5000 Gym (Sports)</PRODUCT>
+<REVIEW>
+Great product but can be a little noisy around the pulleys, but a little DW-40 took care of it. Would recommend for anyone thats looking for an easy to use home gym and get great results...well worth the money!!!
+</REVIEW>

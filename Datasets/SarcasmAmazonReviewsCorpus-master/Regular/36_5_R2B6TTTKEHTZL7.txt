@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>Best of its kind</TITLE>
+<DATE>July 7, 2009</DATE>
+<AUTHOR>R. Reece</AUTHOR>
+<PRODUCT>VIZIO VSB210WS Universal HD Sound Bar with Wireless Subwoofer (Electronics)</PRODUCT>
+<REVIEW>
+I've tested sound bars from Sony, Yamaha, Philips, Samsung and Polk Audio. Was not able to find the Marantz and Denon models. These products encompass a wide range of price points. The one I bought was the Vizio: great sound and convenience at a price near the bottom of the range.
+ 
+ The wireless subwoofer is an amazing convenience. Its range is at least 20 feet, and it sounds terrific in a variety of placements.
+ 
+ I connected the soundbar to my HDTV console with an optical cable, which works extremely well with one caveat--to activate the audio, the TV must be set on a digital channel. After that, analog audio (including from a DVD player) comes through as normal. If you use the included conventional cable, no issues.
+ 
+ You have limited control options to tailor the sound, but that's to be expected at the price.  Vizio uses SRS Labs' surround virtualization chip and also throws in its volume stabilizer to knock down loud commercial breaks.  This is a cost sacrifice, as the Dolby and DTS HD audio codecs are much more expensive.  No problem; the others sound thin, while the Vizio washes you with clear, powerful sound.
+ 
+ It's not true surround sound, but unlike some rivals, the audio experience isn't overly directional (sounds good throughout the room) and is much better than basic stereo.  If you can't run wire through your walls to deploy full surround, this is a fine compromise.
+</REVIEW>

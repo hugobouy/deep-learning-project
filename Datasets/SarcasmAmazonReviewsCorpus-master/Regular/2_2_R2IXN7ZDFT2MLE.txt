@@ -1,0 +1,12 @@
+<STARS>5.0</STARS>
+<TITLE>Does The Job</TITLE>
+<DATE>September 22, 2007</DATE>
+<AUTHOR>mayfayre "mayfayre"</AUTHOR>
+<PRODUCT>Thermaltake Mobile Fan II External USB Cooling Fan - Us (Electronics)</PRODUCT>
+<REVIEW>
+I have an external hard drive that is "air-cooled" but it is in a location where air circulation is somewhat blocked. This little fan takes care of that problem and keeps it running cool. I had tried battery-powered fans, but the batteries would die too quickly. If I'm not using the external HD, I just reposition the fan to provide extra circulation for the tower. 
+ 
+ This fan is extremely quiet and works unobtrusively. I don't even hear it running.  Since I normally shut off my computer when I'm done, I'm not really bothered by the lack of an on-off switch.
+ 
+ This fan is a great solution to one of life's annoying little problems. :-)
+</REVIEW>

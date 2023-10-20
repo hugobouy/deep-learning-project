@@ -1,0 +1,11 @@
+<STARS>5.0</STARS>
+<TITLE>It's perfect to what i paid for</TITLE>
+<DATE>May 7, 2010</DATE>
+<AUTHOR>B. Diep "Tech QA"</AUTHOR>
+<PRODUCT>Nokia Nuron 5230 Phone, Frost White (T-Mobile) (Wireless Phone)</PRODUCT>
+<REVIEW>
+$10/month for 3G Data plan, decent internet speed, GPS, this phone rocks!
+ 
+ You can simple install the PCSuite that can be downloaded from Nokia site and use it as modem.
+ I use this to hook up to my laptop for unlimited data download and upload. It work extremely well with my cisco VPN client to remote desktop my work computer at the office. I don't have to paid $10/24hr to the hotel in Vegas anymore!
+</REVIEW>

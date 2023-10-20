@@ -1,0 +1,12 @@
+<STARS>2.0</STARS>
+<TITLE>Don't waste your money</TITLE>
+<DATE>February 22, 2010</DATE>
+<AUTHOR>Guillermo</AUTHOR>
+<PRODUCT>Intel DG41TY Classic Series G41 micro-ATX Intel Graphics DVI+VGA 1333MHz LGA775 Desktop Motherboard (Electronics)</PRODUCT>
+<REVIEW>
+I bought this mobo from Amazon, afte buying the same month the DG31PR Classic for my wife. I spected to be a little more advance, bad choice. After I install my new PC, the 2do. day of use, the LAN failed. So I had to buy another network card to be able to connect to internet and post this review to alert others! 
+ 
+ The second issue I hate is (and I'm really trying to understand Intel), Why does this mobo has to beep twice at startup? So one can see it's all ok? Who gives a damn. BEEP when something IT'S Wrong!! The DG31PR doesn't do it and works great!
+ 
+ For last, don't waste your money, buy a DG31PR is less cost and better performance. AND IT DOESN'T BEEP!
+</REVIEW>

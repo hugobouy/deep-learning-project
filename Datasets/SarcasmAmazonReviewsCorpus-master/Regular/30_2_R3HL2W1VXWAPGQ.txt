@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>Pretty good</TITLE>
+<DATE>June 13, 2010</DATE>
+<AUTHOR>Gary J. Edwards</AUTHOR>
+<PRODUCT>Slap Chop (Kitchen)</PRODUCT>
+<REVIEW>
+Works fairly well, just a little dangerous to clean. But, it was fun to pound on the knob and see the results.
+</REVIEW>

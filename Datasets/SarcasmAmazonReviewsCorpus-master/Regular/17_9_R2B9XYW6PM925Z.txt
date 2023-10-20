@@ -1,0 +1,24 @@
+<STARS>5.0</STARS>
+<TITLE>Very Big</TITLE>
+<DATE>September 8, 2008</DATE>
+<AUTHOR>Robert S. Ambrose "Rob"</AUTHOR>
+<PRODUCT>Kingston 32 GB Class 4 SDHC Flash Memory Card SD4/32GB (Electronics)</PRODUCT>
+<REVIEW>
+PREFACE:
+ 
+ I bought this card for extra disk space on my Asus EeePC netbook. I needed as much space as possible to supplement the very small SSD hard drive. I needed something with large capacity and relatively fast file transfer time.
+ 
+ PROS:
+ 
+ It shares the largest SD capacity on the market today with few others (Panasonic, Sandisk, and PNY) and is a quality name that I have had a good history with in the past. Its file transfer time is similar to the SSD drive in my machine so it basically acts as a second SSD for me at less than a quarter of the price!
+ 
+ CONS: 
+ 
+ Its not the cheapest 32gb SD card(PNY) nor the fastest(Panasonic) but its good quality with a decent transfer rate.
+ 
+ CONCLUSION:
+ 
+ I'm very happy with its performance and capacity. I would like to see the price come down a bit, but that's the price of getting electronics of this caliber.
+ 
+ That's my input, take it or leave it :)
+</REVIEW>

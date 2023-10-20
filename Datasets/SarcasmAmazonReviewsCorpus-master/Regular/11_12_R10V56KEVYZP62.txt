@@ -1,0 +1,8 @@
+<STARS>4.0</STARS>
+<TITLE>Nice GPS</TITLE>
+<DATE>July 11, 2010</DATE>
+<AUTHOR>Zhe Cui "zuchie"</AUTHOR>
+<PRODUCT>Garmin nüvi 255W 4.3-Inch Widescreen Portable GPS Navigator (Electronics)</PRODUCT>
+<REVIEW>
+Nice GPS, easy to use, quick responses, accurate direction and maps, but don't know how to locate a point outside the presetted city so far.
+</REVIEW>

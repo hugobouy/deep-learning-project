@@ -1,0 +1,60 @@
+<STARS>1.0</STARS>
+<TITLE>An irritating, glitch-filled waste of time and money</TITLE>
+<DATE>May 20, 2010</DATE>
+<AUTHOR>Gary L. Willford</AUTHOR>
+<PRODUCT>Red Dead Redemption (Video Game)</PRODUCT>
+<REVIEW>
+First of all, I HATE 3rd person games where shooting is involved.  Someone talked me into getting this game.  I should have known better.  You get ONE walk through on how to do a duel.  I have no idea how the heck I made it through the first one.  
+ 
+ Another thing I hate is games with a lot of cut scenes.  Oh my God but you have to wait a friggin' hour before this game finally gets through all of its opening cut scenes and lets you finally play the game.  (I exagerate here only slightly)
+  
+ Fast forward to tonight.  I played the game for two hours.  I go through cut scene hell, pushing cows (lots of excitement in that), roping horses, and figuring out how to stay on them to break them.  It says "stay centered" but the screen jumps around so much you can't figure out what is centered.  I finally get through all of that and take my new horse to town.
+ 
+ Now, when you first load the game, it tells you it has an auto save and gives you the option to turn it off.  So, of course, I left the auto save on.  Rockstar's definition of autosave is apparently not the same as mine.
+ 
+ After getting my new horse to town, I run into a guy who wants to duel. OK.  I saw that it gave me a walk through last time, I'll get one this time just like you do with poker, right?  Wrong.  Nothing.  I hit one button and I'm dead.  Guess what else?  No friggin' auto save.  I'm right back to where I was 2 hours ago.  I will have to go through all that stupid cow herding and horse breaking again, with all of its associated and asinine cut scenes.  I snatched the game out of the xbox, put it back on the shelf, and it will likely stay there for quite some time.
+ 
+ This game sucks.  Period.
+ 
+ Edit: I found a how to dueling thread on [apparently, Amazon won't let you post a link, but it is on reddeadDOTnet -- see the comments for the actual link] for those who are going to buy this game anyway and those who already have it that may be as frustrated with the lack of instructions as I am. It helped me figure out the dueling system.  Whatever you do, don't ask for help there without searching the threads or the fanboys will be on you faster than they are here on Amazon.
+ 
+ Second Edit: I am forcing myself to finish this game.  This space will catalogue the various glitches, bugs, and annoyances that I find with the game as I go along.  Will these get fixed in a patch?  I hope so, but I doubt it.
+ 
+ 1.  Despite what is claimed in the comments to my review, not every cut scene can be skipped.  The larger ones can be skipped by pressing "a".  However, the more constant and smaller cut scenes such as looting, skinning and picking flowers/herbs cannot be skipped by pressing "a".  What I have found, at least with skinning is that if you stop your horse just to the right of the animal and dismount on top of it, it will SOMETIMES skip the cut scene.
+ 
+ 2.  Broken camera angles.  This is the major failure of ALL third person shooters.  In this particular game, it means that in a confined space (in a building, mine, or some such area) you can be looking at whatever it is you want to shoot and have the dot on the target, but when you pull the trigger the round hits whatever object you are standing next to.  This can get you killed in a hurry because while you can't hit the target, the target CAN hit you.
+ 
+ 3.  The instructions, both in-game and the manual, are pathetic.  As some of the fanboys have said (with a perverse sense of pride that I cannot fathom), the game leaves you figuring out a lot of its controls through trial and error.  Error in this game means you die and go back to your last saved area.  Sometimes this means completely across the map.  That's a heckuva price to pay for trial and error.
+ 
+ 4.  Senseless mission fails.  There are ways to fail missions that make no sense and cannot be avoided unless you know about them.  In the first horse roping mission, for example, if you get too far away from Bonnie, you fail -- even if you are pursuing one of the horses you are supposed to catch.  You can fail the barn burning mission by bumping into Bonnie (you "assaulted" her), or jumping the fence on your horse (you "terrorized the townsfolk").  
+ 
+ 5.  Crashes.  After learning my lesson the hard way about autosave (it has now failed me twice), I am living by the mantra, "save early, save often".  After completing the main story line mission that involves assaulting a fort, I immediately ran from the fort (because the game will not let you camp/save in a town, on a road, near water, on slanted ground, or any hideout), got to an open area, hit my improved campfire and the game froze.  Hard lock.  I had to reboot the xbox.  And guess what?  I had to do the entire mission again.  I think this technically counts as the third failure of autosave because it did not save the game after completing the mission.
+ 
+ 6.  Following the chatty NPC.  Many of the mainline missions require you to either walk with the NPC or go on a ride with him while he talks about all kinds of crap.  Some of these rides are ridiculously long and involve you just sitting there, holding down "a", and correcting the steering every now and again because the autofollow is even less reliable than the autosave.
+ 
+ 7.  Teleporting bear packs. Someone needs to give Rockstar's programmers a biology lesson. With the exception of mating season, bears - particularly grizzlies - are solitary animals. They do not hunt in packs. There is an open area in Tall Trees where the bears not only hunt in packs of five at a time, but their reinforcements teleport from God knows where to appear right behind you if you try to skin one of their comrades. After getting killed twice by bears appearing out of nowhere, I had the camera angle up high and looking nearly straight down so I could see what was happening. A bear popped out of the ether right behind me and proceeded to maul me before I could do anything. If hunting here, do NOT try to skin a bear until you have killed at least four of them. 
+ 
+ UPDATE:  It appears that I was wrong on my numbers.  I shot a bear near Tanners in Tall Trees that started an endless loop of bears.  They popped out of thin air in ones and twos, and kept coming until there were no less than 25 bears dead on the ground.  In one place, I had four of them piled up dead on top of my dead horse.  The spawns came about 2 seconds after the previous wave died.  I found that the only way to skin was to wait for one to pop far enough away from the ones you had already killed, leave the live bear alone, and try to skin before he noticed you (using the no cut scene trick helps).  They kept coming until a random encounter popped up in the middle of it.  They stopped right after that.
+ 
+ I also hit this same loop further down the road from Tanners in an open area across the trail from the area where Jack goes to hunt bear.  I died before they stopped coming because the random encounter that popped in the middle of that one involved a bunch of guys shooting at me while I was trying to fend off two bears.
+ 
+ 8.  Inexplicable horse deaths. Another skinning issue I guess. I got off my horse to skin a deer on the edge of a messa. There was nothing in the area except me, the horse, and the dearly departed deer. As the skinning cut scene started, the horse whinnied and fell stone dead, passing right through me as it did so. I guess it couldn't stand the sight of blood.
+ 
+ 9.  Aiming.  The LT locking feature is about the only way to get through this game, but its got some serious problems.  As an example, I had a bear coming at me.  I pull LT.  Guess what our hero, John does?  Aim at the bear you say?  Wrong, says I.  He points his gun straight up in the air and aims at some harmless passing bird.  I had to hit dead eye quickly, bring the aim down manually, and dispatch the bear before I got turned into lunch.  That's not the only aiming problem.  Get a gun with a scope.  Pull LT.  You can have a target dead center on the screen and the scope aims at the ground a few yards in front of you.  This bit of stupidity makes using scoped weapons all but useless in combat.  About the only place you can use it and hope to survive is the first couple of shots in a long range battle.
+ 
+ 10.  The ending.  Lame.  Completely and totally horrid.  I don't want to post a spoiler, but they have Marston do the most asinine thing I have ever seen in a video game.  I mean, really.  Good grief.  You guys couldn't think of a better ending?  Oh, and if you do play this game through to completion and want to keep playing it, make sure you let the ENTIRE credits roll.  
+ 
+ 11.  The 100% completion achievement.  I'm sitting at 95.5%.  Guess what the .5% is?  Bounty missions.  You have to successfully complete a bounty at every bounty location on the map.  The problem?  The assignment of a bounty area is completely random.  I've been trying all day to get the last three I need in Mexico, and all I am getting are the same sites over and over again.  3 more missions and I can trade this stupid game in.
+ 
+ FINAL NOTES.  I'm still trying to get those last 3 bounty missions so I can get the 100% completion achievement.  While it is entirely possible, I do not believe I'm going to see anything new that warrants editing this review again.  Having completed 95.5% of the game, I can make my final observations.
+ 
+ I will plagarize the first one.  RENT this game before you buy it -- particularly if you don't ordinarily like 3rd person shooters.  Don't buy the hype, this game is not that great in my opinion.  If you rent it, and you conclude that I'm wrong, you can always go buy it.  If, however, you agree with my opinion, you have saved yourself about $50, and the time I will have spent doing battle with the fanboys will have been worth it.
+ 
+ Second, to say something nice about the game, the graphics for the world are outstanding.  This could have been a great world to play in.  Kudos to the people who designed the sandbox.
+ 
+ Third, the game still sucks.  Maybe not "period" (because of the gorgeous sandbox), but it still sucks for all of the reasons I listed above.  A pathetic 1 out of 5 stars.
+ 
+ OK, ONE MORE FINAL EDIT.  I am now at 99.7% completion and have been for a week.  I need three more bounty missions in Mexico.  The way it works, the name of the bounty doesn't matter, it is the location where he is holed up.  You have to get all the LOCATIONS.  The problem?  It keeps spawning the SAME THREE MISSION LOCATIONS.  It has done this for a solid WEEK of real time.  It will not give me anything but three of the same locations over and over again.  It doesn't matter how I complete the missions it gives me (kill or capture).  It does not matter where I get the missions from (there are three locations in Mexico to pick up bounty missions and I've done all three).  This achievement is COMPLETELY BROKEN because the game is stuck in an endless loop of the same three bounty locations.
+ 
+ I really wish I could give this game a zero.
+</REVIEW>

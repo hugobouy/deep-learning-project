@@ -1,0 +1,17 @@
+<STARS>4.0</STARS>
+<TITLE>great scanner, especially for the price</TITLE>
+<DATE>December 22, 2005</DATE>
+<AUTHOR>Ann Lewis</AUTHOR>
+<PRODUCT>Canon CanoScan LiDE 25 Color Image Scanner (0307B001) (Electronics)</PRODUCT>
+<REVIEW>
+I bought this scanner to scan in about 150 old black and white family photos, and they all came out very nicely. I scanned only a handful of color pictures, and they were fine as well.
+ 
+ Some experiences I had using the scanner:
+ - smaller pictures end up getting a better final resolution
+ - the quality is great for pictures, but only average for text; for example newspaper articles don't scan well enough to allow you to read smaller text
+ - I was able to scan aout 30 pictures in an hour
+ - scanning multiple photos is usually easy: you don't have to crop a big image into the individual photos because the scanning software figures out the picture boundaries. However, occasionally the picture boundary detection stuff messes up and the scanner detects 1 fewer picture than was in the scanner, forcing you to rescan 
+ 
+ For some old polaroids, the scanned picture was clearer and brighter than the polaroid. it brought out the picture in
+ an amazing way.
+</REVIEW>

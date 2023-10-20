@@ -1,0 +1,20 @@
+<STARS>5.0</STARS>
+<TITLE>A Bargain Android Powerhouse - Initial Impressions</TITLE>
+<DATE>June 26, 2010</DATE>
+<AUTHOR>C. Chambers</AUTHOR>
+<PRODUCT>HTC Aria Android Phone (AT&T) (Wireless Phone)</PRODUCT>
+<REVIEW>
+Just received my new Aria last night. This is my first ever Android phone - Full Disclosure: I am coming from an old Blackberry & Moto Slvr so I am not exactly on the bleeding edge of smartphone development. My initial impression after about 4 hours of use is - fantastic phone!
+ 
+ Things did not get off to a good start however when I couldn't get the phone apart to put the battery and SIM card in. I found the trick was to put my fingernail into the slot where you are supposed to split the phone apart and slide it to the left and right to get the top catches to release - others have said pushing the front out by pressing on the speakerphone in back while also using the slot works but I was hesitant to do that.
+ 
+ The size and weight are perfect for my needs as I didn't want something the size of the Spring Evo 4G, etc. Although the big displays on that phone and similar phones are great I just felt they were too big for my daily use (and I had to stay on AT&T). The upside is with the resolution on this screen on a physically smaller screen than say my son's iPhone 3G the "crispness" of the display (especially text) is super.
+ 
+ Physically the phone feels fantastic in hand and the build quality is excellent.
+ 
+ Regarding the two primary AT&T induced drawbacks...no sideloading and AT&T bloatware: for the average user those are probably minor to non-issues. There are workarounds for both issues - the phone has already been rooted (check any of the Android developer forms) and custom ROMs are even available with the AT&T "features" removed. I was going to wait a few more weeks to let the hardware gurus fully explore the phone before making any modifications - but I really want that Swype keyboard.
+ 
+ After a look at some of the AT&T software I think I might have to agree with some of the conspiracy crowd that AT&T would rather not be forced to deal with Android. Initial opening of the AT&T Hotspot app and the page is not centered?? Come on AT&T - at least make it look like you are trying! Sorry - I have been ticked off with AT&T from day one with regard to Android as I never understood how it was in their interest to NOT sell a phone that their customers want given the REAL revenue is in the two year data agreement - not the hardware.
+ 
+ Lots more to explore but I don't think you will be disappointed with the Aria (especially at Amazon's price) if you decide to purchase one.
+</REVIEW>

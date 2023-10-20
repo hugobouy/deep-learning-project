@@ -1,0 +1,21 @@
+<STARS>5.0</STARS>
+<TITLE>Small, solid unit with a brilliant image</TITLE>
+<DATE>August 19, 2008</DATE>
+<AUTHOR>C. Curtis</AUTHOR>
+<PRODUCT>Optoma EP727 XGA 2200-Lumens DLP Multimedia Data Projector (Electronics)</PRODUCT>
+<REVIEW>
+The Optoma EP727 projector was much smaller than we expected, and very lightweight, but it didn't feel flimsy at all, just solid and well-built.
+ 
+ We bought this to use for a theatre show. The set largely consisted of slides projected onto a backdrop, and we were worried about having the slides bright and sharp, despite the long throw and the bright stage lights illuminating the actors. No trouble - this was great! We fastened the projector up on the lighting bar, and strung a 50' VGA cable up, over, and down to the controlling computer (an old G3 Apple iBook). It worked flawlessly. We were not certain the remote would work from that distance (the projector was 20' in the air) but we had no problem turning the machine on and off remotely. The keystoning feature was very useful, since we were projecting from well above the stage. 
+ 
+ The projector had no trouble with long 'on' times. It was on continuously for about 5 hours during the dress rehersal, and for about 2 hours for each performance. I was really impressed when it recovered without a hiccup when we triggered a circuit breaker and the power went out. That happened twice; once during rehersal and once during a performance. 
+ 
+ In fact, the only complaint I have at all is that the projector boots while projecting the name "Optoma", then hunts for the computer signal. If it weren't for that, I'm sure the audience would not have noticed when the circuit blew during the performance (it was during a transition in the play, and a blackout might have been appropriate). As it was, it only took a minute or so to get fully operational again. 
+ 
+ We did not use the DVI input for this show, but I tried it with my home computer (which has a DVI video out) and the projector image looked especially sharp. 
+ 
+ Basically, I love it.
+ 
+ 
+ 
+</REVIEW>

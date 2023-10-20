@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Ideazon Zboard Gaming Keyboard not working</TITLE>
+<DATE>October 24, 2008</DATE>
+<AUTHOR>Ulises "Uli"</AUTHOR>
+<PRODUCT>Ideazon Zboard Gaming Keyboard (Electronics)</PRODUCT>
+<REVIEW>
+I bought this product, the keyboard, along with a keyset to play Warhammer online. When I got the Keyboard, the key set was not available, was out of stock. So I had to wait 2-3 weeks to get the keyset. Now everytime I turn my computer on, I get a Windows message saying that ZEngine has stopped working. And my keyset does not work. The keyboard just works as a regular keyboard. Ideazon sent me 2 possible solutions to my problem, but none of them worked. They say they are working on a fix, that should be ready in a week. No news yet. I'm very dissapointed.
+</REVIEW>

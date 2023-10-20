@@ -1,0 +1,8 @@
+<STARS>5.0</STARS>
+<TITLE>awesome!!</TITLE>
+<DATE>December 7, 2004</DATE>
+<AUTHOR>snowdove</AUTHOR>
+<PRODUCT>Speak (Audio CD)</PRODUCT>
+<REVIEW>
+This album rocks!! Lindsay Lohan successfully makes the jump from film to music with this cool CD filled with club beats and hiphop/rock that makes you wanna dance!
+</REVIEW>

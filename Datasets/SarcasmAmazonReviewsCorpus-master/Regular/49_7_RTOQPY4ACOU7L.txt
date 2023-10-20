@@ -1,0 +1,30 @@
+<STARS>5.0</STARS>
+<TITLE>A best buy</TITLE>
+<DATE>May 19, 2009</DATE>
+<AUTHOR>Gordon H. Hughes "sunshine"</AUTHOR>
+<PRODUCT>Kodak Zx1 HD Pocket Video Camera (Black) (Electronics)</PRODUCT>
+<REVIEW>
+For starters Amazon delivers on their promise of a 3-day delivery. This is a company you can count on. 
+ 
+ The Zx1 is right on target. Right out of the box it does exactly what you would expect from a small pocket video camera - decent quality and simple operation. Even indoors the quality was acceptable - which is more than you can say about most cameras in this class.
+ 
+ This is clearly a second-generation pocket video camera - with improved controls and support for large capacity SD cards. The AA batteries are just what you need to make sure you will never run out. I was surprised to see that a charger was included.
+ 
+ My big concern about buying a Flash Drive HD camera was the issue of file format. This is a thorny issue with all HD video cameras. I could care lass about HD - I just wanted decent quality and the ability to edit video. 
+ 
+ The plan is simple - archive the 'HD' content and keep it for future editing when software and hardware are readily available. And meanwhile
+ convert the files to AVI or another usable DVD formtat for immediate use.
+ 
+ The supplied ArcSoft program does primitive conversion of the 720p format to 640 DVD format - but in Quicktime - which Windows Media player version 9 still refuses to recognize in Windows XP ( I hate Vista)
+ 
+ There are many third party programs which do a better job of conversion - the one I use is AVS Video Converter 6. It took the raw MOV file from the SD card and converted it to AVI format with the 720 lines preserved and good sound quality. As with all such conversions it is slow but the quality is excellent. This is not a trivial conversion. Of course AVS will convert it to any of a dozen other formats - some with smaller file size - but none with higher quality.
+ 
+ Since this camera is so new, the Kodak web site has very limited documentation for the Zx1. They avoid entirely the issue of file formats and that is because it is a thorny issue. Along these lines I should mention that without loading any software, you can slip the SD card in your computer slot and you will get a MOV file. It comes up as a Quicktime file. My version of Quicktime played the movie O.K but there was no sound. I'm sure an update is available - but it may not be free.
+ Of course my Quicktime player did play the MOV file after it was converted by ArcSoft. 
+ 
+ Hey for $150 - this is a great buy and it seems to be durable also.
+ 
+  
+ 
+ 
+</REVIEW>

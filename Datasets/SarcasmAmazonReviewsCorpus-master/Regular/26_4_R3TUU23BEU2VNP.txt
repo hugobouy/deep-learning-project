@@ -1,0 +1,33 @@
+<STARS>5.0</STARS>
+<TITLE>Very good hard drive!</TITLE>
+<DATE>November 23, 2009</DATE>
+<AUTHOR>Sree V. Remella "Sree"</AUTHOR>
+<PRODUCT>Western Digital WD Elements 1 TB USB 2.0 Desktop External Hard Drive WDBAAU0010HBK-NESN (Electronics)</PRODUCT>
+<REVIEW>
+I work for Computing support at Arizona State University, and I have enough technical knowledge to be certified as a TECH JUNKIE :).
+ 
+      I am a photographer too, so I have tons of Photos (about 160GB), Videos, Software, Movies and Documentaries. I was looking for a simple external hard drive without any backup software included, I am smart enough to do manual incremental backups with file tree structure intact (I use GOODSYNC to backup, its very simple and easy to use and free).
+ 
+      I have looked at many many external HDDs and narrowed down to two models "Samsung Story 1TB - very good one too" and this one (I wanted it to be cheap too - got this for $85 on [...]). I did not go with other WD models because of their annoying Backup Software.
+ 
+      Coming to the WD Elements 1TB: Its much smaller than I expected. It is dead silent, I had to touch it to convince myself that it was running, when I first turned it on. Its not too heavy either. The indicator light is placed at the rear, which is a very good thing (I find these LED's annoying, especially at night).
+ 
+      After I did the first setup, I copied 383GB of data (931GB was total space). It took about 4hr 47min, speed varied between 20MBps to 37MBps. This is pretty good speed for USB 2.0. It was just a bit warm (my old segate hard drive would be very very hot for this amount of data transfer).
+ 
+      I would recommend it to beginners or pros alike. I am very happy with this purchase!
+ 
+ 
+ UPDATE:
+ 
+ After about three months of heavy usage, it never gave up on me. Its still dead silent and works flawlessly. It never got even warm!!
+ 
+ Follow these steps to get GOODSYNC for FREE:
+ 
+ In the beginning GOODSYNC was free, later they made a paid version as it gained popularity..
+ 
+ but there is a way to get PRO version for free...
+ 
+ 1. go to good sync website
+ 2. signup for a trial offer and you get PRO serial for free (I signed up for eMusic trial)
+ 3. Once you get the serial, end the subscription before the trial expires...
+</REVIEW>

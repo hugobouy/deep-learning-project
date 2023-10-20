@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Nice Idea, bad result</TITLE>
+<DATE>February 14, 2003</DATE>
+<AUTHOR>A Customer</AUTHOR>
+<PRODUCT>Gravis Eliminator GamePad Pro  (PC/USB Mac) (Electronics)</PRODUCT>
+<REVIEW>
+I love the feel of this thing.  But yes, it is true that it wont callibrate well.  I took the first one back and replaced it thinking it was defective.  Unfortunately the next one was worse.  The direction pad pulls to the left.  You also have to download software from the Gravis site, and though this improves things somewhat, the D-PAD remains faulty.
+</REVIEW>

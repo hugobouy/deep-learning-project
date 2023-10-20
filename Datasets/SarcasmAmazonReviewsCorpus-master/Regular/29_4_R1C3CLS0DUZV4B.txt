@@ -1,0 +1,14 @@
+<STARS>5.0</STARS>
+<TITLE>Smooth, Quiet, Fast... Better Than My Other Passports</TITLE>
+<DATE>January 3, 2010</DATE>
+<AUTHOR>Sheldon Chang "freelance web developer"</AUTHOR>
+<PRODUCT>Western Digital My Passport Essential SE 1 TB USB 2.0 Portable External Hard Drive WDBABM0010BBK-NESN (Midnight Black) (Electronics)</PRODUCT>
+<REVIEW>
+First of all, the cable is fine and it's a lot better than the other cables that came with WD passports. The old USB cables did have a serious problem with jiggling loose and I could never use them on my laptop if there was any chance the laptop might move even a little for fear of disturbing the cable. I do not have that problem anymore with this passport. 
+ 
+ The USB cable is a micro USB cable that is the same as on my BlackBerry 8900. Everyone crying about the "proprietary" cable... get a grip. It's not and it fits way more securely than the cable type it replaced. 
+ 
+ I'm favorable to the software too. I want something hardware based that will password protect my drive because I use WD Passports exclusively as portable backup drives that are secondary backups in case of disaster. I own a bunch of them. This also means that I don't need to interact with the drive all that often so perhaps if I had to use this drive a dozen times a day and had to deal with the auto-mounting partition, it might get annoying, but it hardly seems like a big deal to me. I don't need the backup software on it so I can't comment on if that's any good at all but it's not getting in the way either. I use Apple's Time Machine programs to backup directly to this disk at least once a week and it has no conflicts with the permanent backup software on the drive. 
+ 
+ As for the drive itself, all I can say is that it's so far so good. I've only had mine a few weeks. It's worked fine, it's fast, it's quiet, and it doesn't accidentally disconnect all the time like some of my older WD Passports. I normally wouldn't write a review so soon as the real test is if the drive is healthy after a few months of real use, but I just couldn't believe all the  bellyaching going on here. Until further notice, I wish all of my WD Passports were like this version.
+</REVIEW>

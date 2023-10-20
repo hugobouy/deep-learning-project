@@ -1,0 +1,8 @@
+<STARS>1.0</STARS>
+<TITLE>Spore Breaks Windows Media Center</TITLE>
+<DATE>September 10, 2008</DATE>
+<AUTHOR>Karl A. Hintz "K"</AUTHOR>
+<PRODUCT>Spore (DVD-ROM)</PRODUCT>
+<REVIEW>
+Spore breaks Windows Media Center.  Once Securom was installed, I haven't been able to record any television with my computer.
+</REVIEW>

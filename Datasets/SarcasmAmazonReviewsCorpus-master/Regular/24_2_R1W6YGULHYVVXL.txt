@@ -1,0 +1,12 @@
+<STARS>4.0</STARS>
+<TITLE>If it's not broke...</TITLE>
+<DATE>January 31, 2010</DATE>
+<AUTHOR>Patrick J. Leahy "17-A"</AUTHOR>
+<PRODUCT>Mass Effect 2 (Video Game)</PRODUCT>
+<REVIEW>
+The original Mass Effect had a few flaws, but I consider it to be a solid game.  When Bioware developed this sequel, it seems like they tried to "fix" a little too much.
+ 
+ Mass Effect 2 game feels more like a shooter than its predecessor and the combat is less forgiving even on the "casual" setting, which is disappointing for anyone who liked the more relaxed pace of the first game.  However, it retains several RPG elements to maintain the series' feeling of depth, which might annoy gamers who want to get straight to the action.  It's a classic case of trying to please everyone and sacrificing the overall quality in the process.
+ 
+ That being said, there's still plenty to like in this game.  Heavy weapons are a welcome addition, the Mako vehicle is a thankful omission, and the game is just as polished overall as the original was.  If you're a shooter fan who's a little burned out on Halo 3: ODST and Modern Warfare 2, or are planning on picking up Bioshock 2, you may want to skip this title.  Fans of the first game will be a little disappointed, but they should enjoy the return of Commander Shepherd.
+</REVIEW>

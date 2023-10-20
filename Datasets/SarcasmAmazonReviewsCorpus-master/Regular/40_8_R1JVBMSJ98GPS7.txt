@@ -1,0 +1,16 @@
+<STARS>5.0</STARS>
+<TITLE>Windows 7: The Next-Generation XP</TITLE>
+<DATE>November 11, 2009</DATE>
+<AUTHOR>Jordan C. Brice</AUTHOR>
+<PRODUCT>Microsoft Windows 7 Home Premium (DVD-ROM)</PRODUCT>
+<REVIEW>
+I have used every Microsoft OS since DOS 5.0 and Windows 3.1. Until now my favorite was Windows 2000. XP was pretty solid (after service pack 2) except for all of the security holes. Every time I would need to fix an XP machine it wasn't because of something wrong with the OS itself, but because the machine had virus/spyware/trojans etc. Enter Vista. MS fixed most of the security problems but did so at the expense of performance and stability. Now with Windows 7 you get the best of both worlds. XP was released in 2001 and hardware has come a long way since then, but the OS itself remained relatively static and could only take advantage of newer hardware at a basic level. Vista was an improvement and Windows 7 handles it better still. 
+ 
+ I think Vista, although I had few problems with it, will go down as ME 2.0. At the same time Windows 7 will be XP 2.0. People will cling to it and MS will have to kill it off before people will move on to it's next offering, whatever that may be. 
+ 
+ With that said I would highly recommend that both XP and Vista users upgrade. Unlike previous upgrades you will actually get better performance and use less resources post-upgrade. A first for MS. Security is rock solid. If XP is swiss cheese, then Win 7 is the wall of China. You no longer have to download the "patch of the day" from Windows Update. I haven't played around with Media Player, but Media Center is great for watching DVDs and remains pretty much unchanged from Vista. My favorite features are Jump Lists, AERO Snap (for working in two windows side by side). Networking is a bit easier (especially compared to XP). Performance is much improved from Vista and is comparable to or even faster than XP. Calculator, Paint, and Wordpad have been updated. If you are upgrading from Vista you do lose a couple of progams, namely Windows Mail and Photo Gallery. Updated versions can be downloaded from Windows Update for free. The only downside is that upgrading from XP requires a clean install. 
+ 
+ As far as the upgrade process itself goes, it's painless. Just be sure to run the upgrade advisor before you do. All that's required of you is a product key (at the end of the installation) and activation. So all you have to do is pop the disc in, grab a good book, and before you know it you're in computing heaven. 
+ 
+ 
+</REVIEW>

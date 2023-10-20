@@ -1,0 +1,30 @@
+<STARS>5.0</STARS>
+<TITLE>An Excellent GPS device.</TITLE>
+<DATE>October 23, 2008</DATE>
+<AUTHOR>Dodongo Dislikes Smoke</AUTHOR>
+<PRODUCT>Garmin nüvi 765/765T 4.3-Inch Bluetooth Portable GPS Navigator with Traffic (Electronics)</PRODUCT>
+<REVIEW>
+This Nuvi does several things very well, and I've yet to discover any serious shortcomings.  My thoughts:
+ 
+ Navigation: Excellent, as is typical with Garmin units. On a couple of occasions the voice (right now I'm using Australian Karen) told me my destination was on the wrong side of the street.
+ 
+ Map: The map is clear, the refresh rate is fast, and all of the right information is provided on-screen, including details for upcoming turns and junctions, speed limit, and traffic alerts. It's annoying that I can't choose to switch the display of my current speed to some other piece of info. I already have a speedometer. The 3D buildings feature seems pretty gimmicky, and is implemented sporadically, even in downtown Boston. When there is coverage, most buildings are monochromatic blocks, and not the photo-realistic buildings seen in screenshots.
+ 
+ Lane Assist: This feature has been spot-on so far. It's nice driving in a new area and not getting flustered about being in the wrong lane. I have yet to see the full-screen 3D Lane Assist Junction View shown in the many 765t screenshots -- however, I've done very little highway driving, and I believe this screen requires that the user press the top-left (upcoming turn icon).
+ 
+ >>>>>UPDATE: After some highway driving, it turns out that the full-screen 3D Lane Assist Junction View shows up automatically before potentially tricky highway junctions. Very nice.
+ 
+ Traffic: As far as I know, I have not been re-routed because of traffic. However, it's very easy to bring up a list of major roads and their current traffic conditions, and to avoid them at will. The pop-up advertising associated with the "free" traffic is pretty subtle, and never distracting.
+ 
+ Bluetooth: I'm impressed with this feature so far. It mated with my phone (old Motorola RAZR V3) easily, importing all of my contacts in the process. The ability to instantly dial any point of interest (e.g., to check on store hours) is brilliant. The volume from the speaker is reasonably loud. I also tried sending the audio to my car stereo using an audio cable, and the output seemed a bit low (I had to turn my car stereo way up). I have not yet tried sending the audio to my car stereo using the FM transmitter. I called my voicemail, and the built-in microphone picks up my voice reasonably well with the engine running. I'm not sure how well it would work with highway speeds. I'm told that the cheap Garmin microphone (which plugs into the cradle, not the unit) improves voice quality.
+ 
+ >>>>>UPDATE: This is true -- the microphone is an improvement, though it adds yet another long cord to your long cord collection. Also, I've tried the FM transmitter. It works, albeit with a certain amount of static. I imagine this feature would intolerable if you are driving a long way.
+ 
+ Other features: I haven't used the SD card slot for anything. I haven't tried the photo viewer or the mp3 player, and I probably won't.
+ 
+ Build Quality: Seems solid. The unit has a certain heft to it, and it's covered in a soft, rubbery coating. I've also dropped it already (because I'm an idiot) -- still working beautifully.
+ 
+ Suggested improvements: Garmin doesn't make it easy to look up the actual coordinates (latitude and longitude) for favorites or points of interest. This information should be available at the press of a button.
+ 
+ Needless to say, I'm pleased with my purchase. The 756t is not cheap right now, and if you can live without the new features, you might be better off with an older unit. That said, if you're looking for a gps device with all of the latest features and compatibility, this seems to be a solid pick.
+</REVIEW>

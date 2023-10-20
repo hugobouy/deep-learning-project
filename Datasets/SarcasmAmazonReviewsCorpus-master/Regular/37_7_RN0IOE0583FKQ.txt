@@ -1,0 +1,23 @@
+<STARS>4.0</STARS>
+<TITLE>Very Nice</TITLE>
+<DATE>March 26, 2010</DATE>
+<AUTHOR>gino62 "gino62"</AUTHOR>
+<PRODUCT>Sony DCR-SR68 80GB Hard Disk Drive Handycam Camcorder (Electronics)</PRODUCT>
+<REVIEW>
+Very Nice camera.
+ 
+ Pros:
+ 
+ Controls are intuitive.  
+ Battery charge time is minimal.
+ Video and sound quality is good.  It's not HD, what do you expect?
+ Software works seemlessly with Windows 7.
+ Portability. (Fits in your pocket)
+ Zoom, focus and adjustments to different lighting conditions are fast.
+ 
+ Cons:
+ 
+ Software could include a couple more options, like alternate soundtrack capability, and the e-mail function is a little vague.
+ 
+ Summation:  Well worth the price.  If you want HD quality, this may not be for you.  If you want ease of operation and portability, look no further.
+</REVIEW>
