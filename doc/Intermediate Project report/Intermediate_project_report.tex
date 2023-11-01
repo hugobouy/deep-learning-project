@@ -79,21 +79,33 @@ Illinois Tech\\
 %%%%%%%%% BODY TEXT
 \section{Problem description}
 \label{sec:intro}
-In an increasingly e-commerce driven world, the analysis of review, comments and questions written by consumers online has become a field of interests. Understanding opinions and emotions expressed in product feedback/related questions is essential to enhance the user’s experience. One aspect that might be overlooked in this area is sarcastic and humor detection that can lead to a misinterpretation of these texts.
+In an increasingly e-commerce driven world, the analysis of review, comments and questions written by consumers online has become a field of interests.
+Understanding opinions and emotions expressed in product feedback/related questions is essential to enhance the user’s experience.
+One aspect that might be overlooked in this area is sarcastic and humor detection that can lead to a misinterpretation of these texts.
 
-Humor remains a complex human phenomenon that is far from having a clear definition. While humor and sarcastic mechanisms are integral to human interaction, its subjective nature makes it a challenging target for computational analysis. Recent work has been able to open up this area using deep learning and natural language processing advances. With this project, we will attempt to improve e-commerce review processing using deep learning models for humor disambiguation.
+Humor remains a complex human phenomenon that is far from having a clear definition.
+While humor and sarcastic mechanisms are integral to human interaction, its subjective nature makes it a challenging target for computational analysis.
+Recent work has been able to open up this area using deep learning and natural language processing advances.
+With this project, we will attempt to improve e-commerce review processing using deep learning models for humor disambiguation.
 
 
 %-------------------------------------------------------------------------
 \section{Datasets}
 \subsection{Combined dataset for sarcasm detection}
 
-To train this model, we used a collection of dataset of sentences. The main datasets used in the scope of this project is given below.
+To train our future models, we built a collection of datasets containing several sarcastic and non-sarcastic text. 
+The main datasets used in the scope of this project are listed below.
 \begin{itemize}
-    \item {\bfseries Headlines dataset}: Contains a list of 28,619 headlines collected from two news website. On one hand, TheOnions aims at producing sarcastic versions of real news events. On the other hand, real and non sarcastic news headloines are collected form HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
-    \item {\bfseries MUStARD++ dataset}: Mustard++ is a multimodal sarcasm dataset that has been anotated whith 9 emotions. It was compiled form popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
-    \item {\bfseries Sarcasm Corpus V2 dataset}: This dataset contains both sarcastic and non-sarcastic utterances. They are additionally classified in three different types: generic (6,520 samples), hyperbole (1.164 samples) and rhetorical (1,702 samples).
-    \item {\bfseries Sarcasm Amazon reviews dataset}: Contains a large number of both regular and ironic Amazon reviews. Each review is also associated with informations about the product for which the review was written, the number of stars assigned by the author, etc. This dataset will be the most usefull in the secind part of our project when we link the sarcastic review with the information regarding the product.
+    \item {\bfseries Headlines dataset}: Contains a list of 28,619 headlines collected from two news websites.
+    On one hand, TheOnions aims to produce sarcastic versions of real news events.
+    On the other hand, real and non-sarcastic news headlines are collected form HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
+    \item {\bfseries MUStARD++ dataset}: Mustard++ is a multimodal sarcasm dataset that has been annotated with 9 emotions.
+    It was compiled form popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
+    \item {\bfseries Sarcasm Corpus V2 dataset}: This dataset contains both sarcastic and non-sarcastic utterances.
+    They are additionally classified in three different types: generic (6,520 samples), hyperbole (1.164 samples) and rhetorical (1,702 samples).
+    \item {\bfseries Sarcasm Amazon reviews dataset}: Contains a large number of both regular and ironic Amazon reviews.
+    Each review is also associated with information about the product for which the review was written, the number of stars assigned by the author, etc.
+    This dataset will be the most useful in the second part of our project when we link the sarcastic review with the information regarding the product.
 \end{itemize}
 As an initial data processing step, we first concatenated those datasets together in order to use them to implement an initial sarcasm detection model. The final combined dataset then has the full sentence or review and a sarcastic indicator (0 or 1). The final combined dataset contains 40,461 samples from different sources and types. We then have a quite complex dataset with sentences of very variable length as displayed in figure \ref*{sentence_fig}.
 \begin{figure}[]
@@ -109,10 +121,14 @@ As an initial data processing step, we first concatenated those datasets togethe
 %-------------------------------------------------------------------------
 \section{Results}
 \subsection{Simple Sarcasm detection model}
-As a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm. At this stage, the model only takes into account the sentence and no additional factors. We were able to later on add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered. 
+As a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm.
+At this stage, the model only takes into account the sentence and no additional factors. We were able to later on add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered. 
 
-Our best results were obtained using the BERT pre-trained model. BERT or "Bidirectional Encoder Representations from Transformers", is a widely used pretrained natural language processing model developed in 2018. This model is built on a transformer architecture which enables efficient handling of sequential data. Additionally, it has already been trained on a massive amout of text data making an ideal choice for any specific NLP task after fine-tuning. Additionally, BERT uses a bidirectional approach making it possible to consider the entire context of a word in any given sentence making it better at capturing the nuance and complexity of laguage.
-Those few characteristics makes this state-of-the-art deep neural network ideal to capture the intricacies of a complex human behaviour such as sarcasm.
+Our best results were obtained using the BERT pre-trained model.
+BERT or "Bidirectional Encoder Representations from Transformers", is a widely used pre-trained natural language processing model developed in 2018.
+This model is built on a transformer architecture which enables efficient handling of sequential data. Additionally, it has already been trained on a massive amount of text data making an ideal choice for any specific NLP task after fine-tuning.
+Furthermore, BERT uses a bidirectional approach making it possible to consider the entire context of a word in any given sentence making it better at capturing the nuance and complexity of language.
+Those few characteristics make this state-of-the-art deep neural network ideal to capture the intricacies of a complex human behavior such as sarcasm.
 
 
 \subsection{Sarcasm detection with additional factors}
