@@ -141,7 +141,7 @@ As an initial data processing step, we first concatenated those datasets togethe
 
 In order to explore more in depth our problematic around e-commerce, the sarcasm Amazon reviews dataset remains the most useful one in the scope of our project.
 As described previously, it contains reviews of products on Amazon that are labelled either as sarcastic or regular. 
-Additionally, this dataset reports other information associated to the review such as the product about which it was written, the number of stars assigned by the author, etc. 
+Additionally, this dataset reports other information associated to the review such as the product associated with it, the number of stars assigned by the author, etc. 
 One of the sampled sarcastic reviews extracted from this dataset is given in table \ref*{tab:mytable} as an example.
 
 \begin{table}[H]
@@ -164,8 +164,8 @@ REVIEW & I purchased this product 4.47 Billion Years ago and when I opened it to
 \label{tab:mytable}
 \end{table}
 
-The additional information offered by this dataset will enable us to take additional parameters into account rather than basing our prediction solely on the review.
-We hope that taking some of those features into account will enable us to implement a more robust model.
+The additional information offered by this dataset will allow us to take additional parameters into account rather than basing our prediction solely on the review.
+We consider that adding these features may help the model to better identify the underlying patterns of sarcasm.
 
 
 
@@ -185,7 +185,7 @@ Jain et al. previously conducted an experiment on this dataset~\cite{jain2019}.
 Their idea was to build a feature vector for each Amazon review using various features such as the positive/negative sentiment score, punctuation, part of speech and bigram analysis.
 Their results shown very good accuracy with Naïve Bayes (77.50\%), a multi-layer perceptron classifier (81\%), and SVM (81.5\%), with similar precision, recall and f1.
 To verify the necessity of this feature selection, we created 2 models, one SVM and one LSTM and train them on plain data, without feature selection.
-SVM used count vectorization and the LSTM word embedding.
+SVM used count vectorization and the LSTM used word embedding.
 Our results showed that SVM performed well with 82\% accuracy on the Amazon review dataset.
 However, digging into the results revealed that the model was more likely to misclassify a sarcasm text with both precision and recall being much under the ones for Regular text.
 One explanation for this difference may be the small size of the dataset which contains only 1254 texts, with only 437 being sarcastic.
@@ -205,7 +205,7 @@ One explanation for this difference may be the small size of the dataset which c
 \end{table}
 
 The LSTM model on its side less performed with a test accuracy of 67\%.
-A Similar behavior can be observed regarding the sarcastic text for which the model fails to understand its class.
+A Similar behavior can be observed regarding the sarcastic text for which the model fails to understand the sarcasm pattern in all the cases.
 
 \begin{table}[H]
     \centering
