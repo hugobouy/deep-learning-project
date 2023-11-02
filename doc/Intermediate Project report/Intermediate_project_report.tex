@@ -15,6 +15,8 @@
 \usepackage{amssymb}
 \usepackage{booktabs}
 \usepackage{float}
+\usepackage{float} % For positionning images
+\usepackage{tabularx} % For tables
 
 
 % It is strongly recommended to use hyperref, especially for the review version.
@@ -125,21 +127,104 @@ The main datasets used in the scope of this project are listed below.
     Each review is also associated with information about the product for which the review was written, the number of stars assigned by the author, etc.
     This dataset will be the most useful in the second part of our project when we link the sarcastic review with the information regarding the product.
 \end{itemize}
-As an initial data processing step, we first concatenated those datasets together in order to use them to implement an initial sarcasm detection model. The final combined dataset then has the full sentence or review and a sarcastic indicator (0 or 1). The final combined dataset contains 40,461 samples from different sources and types. We then have a quite complex dataset with sentences of very variable length as displayed in figure \ref*{sentence_fig}.
-\begin{figure}[]
+
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.8\linewidth]{Figure_sentence_length.png}
     \caption{Frequency of sentence length in the final combined dataset}
     \label[type]{sentence_fig}
 \end{figure}
 
+As an initial data processing step, we first concatenated those datasets together in order to use them to implement an initial sarcasm detection model. The final combined dataset then has the full sentence or review and a sarcastic indicator (0 or 1). The final combined dataset contains 40,461 samples from different sources and types. We then have a quite complex dataset with sentences of very variable length as displayed in figure \ref*{sentence_fig}.
+
 \subsection{Amazon reviews dataset}
+
+In order to explore more in depth our problematic around e-commerce, the sarcasm Amazon reviews dataset remains the most useful one in the scope of our project.
+As described previously, it contains reviews of products on Amazon that are labelled either as sarcastic or regular. 
+Additionally, this dataset reports other information associated to the review such as the product about which it was written, the number of stars assigned by the author, etc. 
+One of the sampled sarcastic reviews extracted from this dataset is given in table \ref*{tab:mytable} as an example.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{|c|p{6cm}|}
+\hline
+\textbf{Feature} & \textbf{Example} \\
+\hline
+STARS & 3.0 \\
+TITLE & Great Product, Poor Packaging \\
+DATE & May 14, 2009 \\
+AUTHOR & Patrick J. McGovern "Procrastinating Evil Scientist"\\
+PRODUCT & Uranium Ore \\
+REVIEW & I purchased this product 4.47 Billion Years ago and when I opened it today, it was half empty. \\
+\hline
+
+\end{tabular}
+\caption{Example of an ironic review sample and the associated information}
+\label{tab:mytable}
+\end{table}
+
+The additional information offered by this dataset will enable us to take additional parameters into account rather than basing our prediction solely on the review.
+We hope that taking some of those features into account will enable us to implement a more robust model.
+
+
+
+
 
 
 %-------------------------------------------------------------------------
 \section{Models}
+\subsection{Simple Sarcasm detection model}
+As introduced above, we build a heterogeneous dataset with sarcasm examples from very different sources and context.
+Our goal here is to experiment building a model that could learn the inner structure of sarcasm from a large amount of data.
 \subsection{BERT-based Sarcasm Detection Model}
 
+Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm using the Amazon review dataset only.
+At this stage, the model only takes into account the sentence and no additional factors. We will later add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered.
+
+Jain et al. previously conducted an experiment on this dataset~\cite{jain2019}.
+Their idea was to build a feature vector for each Amazon review using various features such as the positive/negative sentiment score, punctuation, part of speech and bigram analysis.
+Their results shown very good accuracy with Naïve Bayes (77.50\%), a multi-layer perceptron classifier (81\%), and SVM (81.5\%), with similar precision, recall and f1.
+To verify the necessity of this feature selection, we created 2 models, one SVM and one LSTM and train them on plain data, without feature selection.
+SVM used count vectorization and the LSTM word embedding.
+Our results showed that SVM performed well with 82\% accuracy on the Amazon review dataset.
+However, digging into the results revealed that the model was more likely to misclassify a sarcasm text with both precision and recall being much under the ones for Regular text.
+One explanation for this difference may be the small size of the dataset which contains only 1254 texts, with only 437 being sarcastic.
+
+\begin{table}[H]
+    \centering
+    \begin{tabularx}{\linewidth}{|X|X|X|X|}
+        \hline
+        & Precision & Recall & F1-score \\
+        \hline
+        Regular & 0.84 & 0.90 & 0.87 \\
+        \hline
+        Sarcasm & 0.72 & 0.61 & 0.66 \\
+        \hline
+    \end{tabularx}
+    \caption{Precision, Recall and F1-score for SVM on the Amazon review dataset with only count vectorization.}
+\end{table}
+
+The LSTM model on its side less performed with a test accuracy of 67\%.
+A Similar behavior can be observed regarding the sarcastic text for which the model fails to understand its class.
+
+\begin{table}[H]
+    \centering
+    \begin{tabularx}{\linewidth}{|X|X|X|X|}
+        \hline
+        & Precision & Recall & F1-score \\
+        \hline
+        Regular & 0.81 & 0.71 & 0.76 \\
+        \hline
+        Sarcasm & 0.43 & 0.57 & 0.49 \\
+        \hline
+    \end{tabularx}
+    \caption{Precision, Recall and F1-score for LSTM on the Amazon review dataset with only count vectorization.}
+\end{table}
+
+These results confirmed the necessity of feature selection before training the model.
+
+Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
 \subsubsection{Overview of BERT}
 Bidirectional Encoder Representations from Transformers (BERT) signifies a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
 In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
