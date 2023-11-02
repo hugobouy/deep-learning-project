@@ -88,6 +88,24 @@ While humor and sarcastic mechanisms are integral to human interaction, its subj
 Recent work has been able to open up this area using deep learning and natural language processing advances.
 With this project, we will attempt to improve e-commerce review processing using deep learning models for humor disambiguation.
 
+%-------------------------------------------------------------------------
+
+\section{Brief Survey of Previous Work}
+
+Several studies have been conducted over the past years in the ambition of detecting humor and sarcasm:
+
+Jain et al.~\cite{jain2019} delved into the complexities of identifying sarcasm in Amazon reviews. Recognizing sarcasm is crucial for accurate sentiment analysis, especially since sarcastic comments can be misinterpreted by traditional opinion mining methods. They utilized the "Sarcasm Corpus" containing labeled ironic and regular Amazon reviews, extracting features like sentiment scores, punctuation patterns, and contextual elements that consider the contrast between review sentiment and product rating. Their experiments designated the Support Vector Machine (SVM) classifier as the most accurate, emphasizing the role of context in sarcasm detection.
+
+Building upon the idea of sarcasm detection, Poria et al.~\cite{poria2020} introduced a method using deep convolutional neural networks (CNNs). They critiqued traditional methods that treat sarcasm detection as mere text categorization, arguing that such approaches often miss the deeper understanding of language nuances required for sarcasm. Their method integrates sentiment, emotion, and personality features extracted from pre-trained CNNs. By leveraging Twitter data, they contrasted sarcastic sentences with the ground-truth polarity of events. Their experiments with word embeddings from word2vec and a combined CNN-SVM approach demonstrated superior performance on benchmark datasets.
+
+Yaghoobian et al.~\cite{yaghoobian2020} further discussed the challenges of sarcasm detection in sentiment analysis. They categorized detection methods into content-based, which focus on lexical indicators, and context-based, which emphasize background knowledge. Their study highlighted the CASCADE model, which uses user embeddings to capture user-specific features, as an example of leveraging context for sarcasm detection.
+
+Shifting the focus to humor detection, Ziser et al.~\cite{ziser2020} identified product bias in Product Question Answering (PQA) systems, where certain products attract more humorous questions. They proposed a deep-learning framework to detect humor in PQA, focusing on incongruity and subjectivity.
+
+Annamoradnejad and Zoghi~\cite{annamoradnejad2020} proposed the ColBERT model for humor detection. This model leverages BERT embeddings for sentence representation and has achieved state-of-the-art results on various datasets.
+
+Lastly, Gupta et al.~\cite{gupta2021} explored the potential of Large Language Models (LLMs) in humor detection. Their research emphasized the capability of LLMs to capture the intricacies associated with humor and offense detection.
+
 
 %-------------------------------------------------------------------------
 \section{Datasets}
@@ -96,14 +114,14 @@ With this project, we will attempt to improve e-commerce review processing using
 To train our future models, we built a collection of datasets containing several sarcastic and non-sarcastic text. 
 The main datasets used in the scope of this project are listed below.
 \begin{itemize}
-    \item {\bfseries Headlines dataset}: Contains a list of 28,619 headlines collected from two news websites.
+    \item {\bfseries Headlines dataset \cite{misra2019}}: Contains a list of 28,619 headlines collected from two news websites.
     On one hand, TheOnions aims to produce sarcastic versions of real news events.
     On the other hand, real and non-sarcastic news headlines are collected form HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
-    \item {\bfseries MUStARD++ dataset}: Mustard++ is a multimodal sarcasm dataset that has been annotated with 9 emotions.
+    \item {\bfseries MUStARD++ dataset \cite{mustard2022}}: Mustard++ is a multimodal sarcasm dataset that has been annotated with 9 emotions.
     It was compiled form popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
-    \item {\bfseries Sarcasm Corpus V2 dataset}: This dataset contains both sarcastic and non-sarcastic utterances.
+    \item {\bfseries Sarcasm Corpus V2 dataset \cite{oraby2016}}: This dataset contains both sarcastic and non-sarcastic utterances.
     They are additionally classified in three different types: generic (6,520 samples), hyperbole (1.164 samples) and rhetorical (1,702 samples).
-    \item {\bfseries Sarcasm Amazon reviews dataset}: Contains a large number of both regular and ironic Amazon reviews.
+    \item {\bfseries Sarcasm Amazon reviews dataset \cite{filatova2012}}: Contains a large number of both regular and ironic Amazon reviews.
     Each review is also associated with information about the product for which the review was written, the number of stars assigned by the author, etc.
     This dataset will be the most useful in the second part of our project when we link the sarcastic review with the information regarding the product.
 \end{itemize}
@@ -119,16 +137,27 @@ As an initial data processing step, we first concatenated those datasets togethe
 
 
 %-------------------------------------------------------------------------
-\section{Results}
-\subsection{Simple Sarcasm detection model}
-As a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm.
-At this stage, the model only takes into account the sentence and no additional factors. We were able to later on add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered. 
+\section{Models}
+\subsection{BERT-based Sarcasm Detection Model}
 
-Our best results were obtained using the BERT pre-trained model.
-BERT or "Bidirectional Encoder Representations from Transformers", is a widely used pre-trained natural language processing model developed in 2018.
-This model is built on a transformer architecture which enables efficient handling of sequential data. Additionally, it has already been trained on a massive amount of text data making an ideal choice for any specific NLP task after fine-tuning.
-Furthermore, BERT uses a bidirectional approach making it possible to consider the entire context of a word in any given sentence making it better at capturing the nuance and complexity of language.
-Those few characteristics make this state-of-the-art deep neural network ideal to capture the intricacies of a complex human behavior such as sarcasm.
+\subsubsection{Overview of BERT}
+Bidirectional Encoder Representations from Transformers (BERT) signifies a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
+In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
+The aforementioned feature is especially beneficial in tasks such as sarcasm identification, where the contextual interpretation of words plays a crucial role in determining the presence of sarcasm in a statement.
+
+\subsubsection{Model Implementation}
+In our sarcasm detection task, we utilized a pre-trained BERT model, which we then fine-tuned on a dataset consisting of texts labeled as sarcastic or non-sarcastic. 
+By fine-tuning BERT on our specific dataset, the model could apply its deep, bidirectional understanding of language to effectively distinguish between sarcastic and genuine statements.
+
+\subsubsection{Experimental Results}
+The efficiency of our fine-tuned BERT model in sarcasm detection was significant. 
+The validation loss obtained was 0.3856664270511828, while the accuracy reached was 87.82336711883545\%. 
+The findings of this study emphasize the proficiency of BERT in effectively categorizing sentences as either sarcastic or non-sarcastic, hence showcasing its sophisticated comprehension of language and contextual nuances.
+
+\subsubsection{Conclusions}
+The efficacy of our BERT-derived model in detecting sarcasm illustrates the robustness of bidirectional contextual analysis in comprehending intricate linguistic patterns. 
+The experimental results demonstrate that BERT is effective in handling delicate natural language processing (NLP) tasks, specifically sarcasm detection, as seen by its high accuracy and minimal validation loss.
+The aforementioned efficacy highlights the wider possibilities of employing advanced, contextually-aware models in complex language comprehension tasks.
 
 
 \subsection{Sarcasm detection with additional factors}
