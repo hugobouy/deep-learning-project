@@ -226,7 +226,7 @@ These results confirmed the necessity of feature selection before training the m
 Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
 \subsection{BERT-based Sarcasm Detection Model}
 \subsubsection{Overview of BERT}
-Bidirectional Encoder Representations from Transformers (BERT) signifies a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
+Bidirectional Encoder Representations from Transformers (BERT) was a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
 In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
 The aforementioned feature is especially beneficial in tasks such as sarcasm identification, where the contextual interpretation of words plays a crucial role in determining the presence of sarcasm in a statement.
 
@@ -236,7 +236,7 @@ By fine-tuning BERT on our specific dataset, the model could apply its deep, bid
 
 \subsubsection{Experimental Results}
 The efficiency of our fine-tuned BERT model in sarcasm detection was significant. 
-The validation loss obtained was 0.3856664270511828, while the accuracy reached was 87.82336711883545\%. 
+The validation loss obtained was 0.386, while the accuracy reached was 87.823\% on the test set sampled from our 40,461 text dataset introduced previously. 
 The findings of this study emphasize the proficiency of BERT in effectively categorizing sentences as either sarcastic or non-sarcastic, hence showcasing its sophisticated comprehension of language and contextual nuances.
 
 \subsubsection{Conclusions}
@@ -270,7 +270,9 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 \section{What remains to be done}
 
 \begin{enumerate}
-    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata. 
+    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata.
+    
+    \item \textbf{Comparison between BERT and simpler model using feature selection:} Compare the efficiency of the previously introduced BERT model and an SVM model using features derived from the text as suggested by Jain et al.~\cite{jain2019} in their work.
 
     \item \textbf{Refine ChatGPT Approach:} The present approach employed with GPT-3.5-turbo necessitates further refinement. In order to enhance the precision of sarcasm detection within product evaluations, we will investigate more effective prompt designs.
 
@@ -278,7 +280,7 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 
     \item \textbf{Interpretation and Rephrasing (Time Permitting):} One of the biggest objectives is to make our model comprehend and reformulate sarcastic or amusing reviews into unambiguous and devoid-of-sarcasm textual content. This approach facilitates the identification of genuine customer feelings, even when they are expressed indirectly through sarcasm or comedy.
 
-    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within the designated timeframe, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
+    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within time, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
 
 \end{enumerate}
 
