@@ -177,7 +177,6 @@ We hope that taking some of those features into account will enable us to implem
 \subsection{Simple Sarcasm detection model}
 As introduced above, we build a heterogeneous dataset with sarcasm examples from very different sources and context.
 Our goal here is to experiment building a model that could learn the inner structure of sarcasm from a large amount of data.
-\subsection{BERT-based Sarcasm Detection Model}
 
 Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm using the Amazon review dataset only.
 At this stage, the model only takes into account the sentence and no additional factors. We will later add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered.
@@ -225,6 +224,7 @@ A Similar behavior can be observed regarding the sarcastic text for which the mo
 These results confirmed the necessity of feature selection before training the model.
 
 Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
+\subsection{BERT-based Sarcasm Detection Model}
 \subsubsection{Overview of BERT}
 Bidirectional Encoder Representations from Transformers (BERT) signifies a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
 In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
@@ -267,22 +267,21 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 
 %-------------------------------------------------------------------------
 
-\section{What is left to be done}
-
-Our project focus on how sentiment analysis tools dedicated to sarcasm and humor disambiguation can be used to enhance E-commerce review and Q\&A processing.
-It can be divided in 5 main milestones:
+\section{What remains to be done}
 
 \begin{enumerate}
-    \item First, we implement a basic model able to detect humor/sarcasm in small text reviews. This model would only be capable of saying whether or not a given phrase/text contains humor or sarcasm patterns. To build the model, we compare different approaches published in the scientific literature.
-    
-    \item Second, we improve the model to take into account several factors such as the type of product considered, its description, price, etc. (as sarcasm may be related to one aspect of the product). Feeding the model with the context can also help identify if some type of products are more prone to trigger humorous or sarcastic comments.
-    
-    \item Third, we compare our model to a LLM such as ChatGPT to assess if our dedicated humor/sarcasm classification model performs significantly better than a state of the art LLM using an appropriate prompt. We analyze the cost of both solutions.
-    
-    \item Fourth, we improve our model to properly classify a product review considering its sarcastic/humorous sense into meaningful categories such as "consumer thinks the product is overpriced", "consumer thinks the product is good quality", etc. For instance, humor regarding the price of a product may indicate the product is overpriced compared to the customer’s expectations.
-    
-    \item If time allows it, we will use our sarcastic model detection to generate relevent automatic answer that take into account the humorous tone of the comment/question.
+    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata. 
+
+    \item \textbf{Refine ChatGPT Approach:} The present approach employed with GPT-3.5-turbo necessitates further refinement. In order to enhance the precision of sarcasm detection within product evaluations, we will investigate more effective prompt designs.
+
+    \item \textbf{Evaluate GPT-4 Performance:} Leveraging a subset of our dataset, we plan to test the effectiveness of GPT-4 for sarcasm detection, keeping in mind the associated costs.
+
+    \item \textbf{Interpretation and Rephrasing (Time Permitting):} One of the biggest objectives is to make our model comprehend and reformulate sarcastic or amusing reviews into unambiguous and devoid-of-sarcasm textual content. This approach facilitates the identification of genuine customer feelings, even when they are expressed indirectly through sarcasm or comedy.
+
+    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within the designated timeframe, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
+
 \end{enumerate}
+
 
 %%%%%%%%% REFERENCES
 
