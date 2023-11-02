@@ -118,9 +118,9 @@ The main datasets used in the scope of this project are listed below.
 \begin{itemize}
     \item {\bfseries Headlines dataset \cite{misra2019}}: Contains a list of 28,619 headlines collected from two news websites.
     On one hand, TheOnions aims to produce sarcastic versions of real news events.
-    On the other hand, real and non-sarcastic news headlines are collected form HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
+    On the other hand, real and non-sarcastic news headlines are collected from HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
     \item {\bfseries MUStARD++ dataset \cite{mustard2022}}: Mustard++ is a multimodal sarcasm dataset that has been annotated with 9 emotions.
-    It was compiled form popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
+    It was compiled from popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
     \item {\bfseries Sarcasm Corpus V2 dataset \cite{oraby2016}}: This dataset contains both sarcastic and non-sarcastic utterances.
     They are additionally classified in three different types: generic (6,520 samples), hyperbole (1.164 samples) and rhetorical (1,702 samples).
     \item {\bfseries Sarcasm Amazon reviews dataset \cite{filatova2012}}: Contains a large number of both regular and ironic Amazon reviews.
@@ -178,7 +178,7 @@ We consider that adding these features may help the model to better identify the
 As introduced above, we build a heterogeneous dataset with sarcasm examples from very different sources and context.
 Our goal here is to experiment building a model that could learn the inner structure of sarcasm from a large amount of data.
 
-Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm using the Amazon review dataset only.
+Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some from of sarcasm using the Amazon review dataset only.
 At this stage, the model only takes into account the sentence and no additional factors. We will later add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered.
 
 Jain et al. previously conducted an experiment on this dataset~\cite{jain2019}.
