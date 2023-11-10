@@ -118,9 +118,9 @@ The main datasets used in the scope of this project are listed below.
 \begin{itemize}
     \item {\bfseries Headlines dataset \cite{misra2019}}: Contains a list of 28,619 headlines collected from two news websites.
     On one hand, TheOnions aims to produce sarcastic versions of real news events.
-    On the other hand, real and non-sarcastic news headlines are collected form HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
+    On the other hand, real and non-sarcastic news headlines are collected from HuffPost. This dataset has the advantage of having no spelling mistakes and informal usage since it is written by dedicated professionals in a formal manner.
     \item {\bfseries MUStARD++ dataset \cite{mustard2022}}: Mustard++ is a multimodal sarcasm dataset that has been annotated with 9 emotions.
-    It was compiled form popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
+    It was compiled from popular TV shows such as Friends, The Golden Girls or The Big Bang Theory. We will be using this dataset mostly to detect sarcasm but if we have time we may use the annotation to classify the emotion associated with the sarcastic sentence considered.
     \item {\bfseries Sarcasm Corpus V2 dataset \cite{oraby2016}}: This dataset contains both sarcastic and non-sarcastic utterances.
     They are additionally classified in three different types: generic (6,520 samples), hyperbole (1.164 samples) and rhetorical (1,702 samples).
     \item {\bfseries Sarcasm Amazon reviews dataset \cite{filatova2012}}: Contains a large number of both regular and ironic Amazon reviews.
@@ -141,7 +141,7 @@ As an initial data processing step, we first concatenated those datasets togethe
 
 In order to explore more in depth our problematic around e-commerce, the sarcasm Amazon reviews dataset remains the most useful one in the scope of our project.
 As described previously, it contains reviews of products on Amazon that are labelled either as sarcastic or regular. 
-Additionally, this dataset reports other information associated to the review such as the product about which it was written, the number of stars assigned by the author, etc. 
+Additionally, this dataset reports other information associated to the review such as the product associated with it, the number of stars assigned by the author, etc. 
 One of the sampled sarcastic reviews extracted from this dataset is given in table \ref*{tab:mytable} as an example.
 
 \begin{table}[H]
@@ -164,8 +164,8 @@ REVIEW & I purchased this product 4.47 Billion Years ago and when I opened it to
 \label{tab:mytable}
 \end{table}
 
-The additional information offered by this dataset will enable us to take additional parameters into account rather than basing our prediction solely on the review.
-We hope that taking some of those features into account will enable us to implement a more robust model.
+The additional information offered by this dataset will allow us to take additional parameters into account rather than basing our prediction solely on the review.
+We consider that adding these features may help the model to better identify the underlying patterns of sarcasm.
 
 
 
@@ -178,14 +178,14 @@ We hope that taking some of those features into account will enable us to implem
 As introduced above, we build a heterogeneous dataset with sarcasm examples from very different sources and context.
 Our goal here is to experiment building a model that could learn the inner structure of sarcasm from a large amount of data.
 
-Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some form of sarcasm using the Amazon review dataset only.
+Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some from of sarcasm using the Amazon review dataset only.
 At this stage, the model only takes into account the sentence and no additional factors. We will later add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered.
 
 Jain et al. previously conducted an experiment on this dataset~\cite{jain2019}.
 Their idea was to build a feature vector for each Amazon review using various features such as the positive/negative sentiment score, punctuation, part of speech and bigram analysis.
 Their results shown very good accuracy with Naïve Bayes (77.50\%), a multi-layer perceptron classifier (81\%), and SVM (81.5\%), with similar precision, recall and f1.
 To verify the necessity of this feature selection, we created 2 models, one SVM and one LSTM and train them on plain data, without feature selection.
-SVM used count vectorization and the LSTM word embedding.
+SVM used count vectorization and the LSTM used word embedding.
 Our results showed that SVM performed well with 82\% accuracy on the Amazon review dataset.
 However, digging into the results revealed that the model was more likely to misclassify a sarcasm text with both precision and recall being much under the ones for Regular text.
 One explanation for this difference may be the small size of the dataset which contains only 1254 texts, with only 437 being sarcastic.
@@ -205,7 +205,7 @@ One explanation for this difference may be the small size of the dataset which c
 \end{table}
 
 The LSTM model on its side less performed with a test accuracy of 67\%.
-A Similar behavior can be observed regarding the sarcastic text for which the model fails to understand its class.
+A Similar behavior can be observed regarding the sarcastic text for which the model fails to understand the sarcasm pattern in all the cases.
 
 \begin{table}[H]
     \centering
@@ -226,7 +226,7 @@ These results confirmed the necessity of feature selection before training the m
 Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
 \subsection{BERT-based Sarcasm Detection Model}
 \subsubsection{Overview of BERT}
-Bidirectional Encoder Representations from Transformers (BERT) signifies a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
+Bidirectional Encoder Representations from Transformers (BERT) was a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
 In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
 The aforementioned feature is especially beneficial in tasks such as sarcasm identification, where the contextual interpretation of words plays a crucial role in determining the presence of sarcasm in a statement.
 
@@ -236,7 +236,7 @@ By fine-tuning BERT on our specific dataset, the model could apply its deep, bid
 
 \subsubsection{Experimental Results}
 The efficiency of our fine-tuned BERT model in sarcasm detection was significant. 
-The validation loss obtained was 0.3856664270511828, while the accuracy reached was 87.82336711883545\%. 
+The validation loss obtained was 0.386, while the accuracy reached was 87.823\% on the test set sampled from our 40,461 text dataset introduced previously. 
 The findings of this study emphasize the proficiency of BERT in effectively categorizing sentences as either sarcastic or non-sarcastic, hence showcasing its sophisticated comprehension of language and contextual nuances.
 
 \subsubsection{Conclusions}
@@ -270,7 +270,9 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 \section{What remains to be done}
 
 \begin{enumerate}
-    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata. 
+    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata.
+    
+    \item \textbf{Comparison between BERT and simpler model using feature selection:} Compare the efficiency of the previously introduced BERT model and an SVM model using features derived from the text as suggested by Jain et al.~\cite{jain2019} in their work.
 
     \item \textbf{Refine ChatGPT Approach:} The present approach employed with GPT-3.5-turbo necessitates further refinement. In order to enhance the precision of sarcasm detection within product evaluations, we will investigate more effective prompt designs.
 
@@ -278,7 +280,7 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 
     \item \textbf{Interpretation and Rephrasing (Time Permitting):} One of the biggest objectives is to make our model comprehend and reformulate sarcastic or amusing reviews into unambiguous and devoid-of-sarcasm textual content. This approach facilitates the identification of genuine customer feelings, even when they are expressed indirectly through sarcasm or comedy.
 
-    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within the designated timeframe, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
+    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within time, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
 
 \end{enumerate}
 
