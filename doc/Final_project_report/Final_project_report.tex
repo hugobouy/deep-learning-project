@@ -81,6 +81,8 @@ Illinois Tech\\
 % \end{abstract}
 
 %%%%%%%%% BODY TEXT
+
+
 \section{Problem description}
 \label{sec:intro}
 In an increasingly e-commerce driven world, the analysis of review, comments and questions written by consumers online has become a field of interests.
@@ -419,52 +421,54 @@ To facilitate the integration of these multi-feature embeddings, we channel the 
 \newline\newline\newline
 
 
-\begin{tikzpicture}[
-    >={Latex[round]},
-    base/.style={draw, thick, align=center, minimum height=1ex, minimum width=2em, font=\small},
-    proc/.style={base, rectangle, minimum width=2em, fill=orange!30},
-    inout/.style={base, ellipse, fill=yellow!30},
+\begin{tikzpicture}[  
+    >={Latex[round]},  
+    base/.style={draw, thick, align=center, minimum height=1ex, minimum width=2em, font=\small},  
+    proc/.style={base, rectangle, minimum width=2em, fill=orange!30},  
+    inout/.style={base, ellipse, fill=yellow!30},  
 ]
 
-% Input Features Nodes
-\node[inout] (title) {Title};
-\node[inout, right=0.8cm of title] (author) {Author};
-\node[inout, right=0.8cm of author] (body) {Review Body};
+% Adjust the spacing by reducing the distance between nodes
+% Input Features Nodes  
+\node[inout] (title) {Title};  
+\node[inout, right=0.5cm of title] (author) {Author};  % Reduced from 0.8cm to 0.5cm
+\node[inout, right=0.5cm of author] (body) {Review Body};  % Adjusted spacing
 
-% BERT Embeddings Nodes
-\node[proc, below=0.6cm of author] (bertTitle) {BERT Encoder};
-\node[proc, right=0.8cm of bertTitle] (bertAuthor) {BERT Encoder};
-\node[proc, left=0.8cm of bertTitle] (bertBody) {BERT Encoder};
-\node[proc, below=0.6cm of bertBody] (bertProduct) {BERT Encoder};
+% BERT Embeddings Nodes  
+\node[proc, below=0.5cm of author] (bertTitle) {BERT Encoder};  
+\node[proc, right=0.5cm of bertTitle] (bertAuthor) {BERT Encoder};  % Adjusted spacing
+\node[proc, left=0.5cm of bertTitle] (bertBody) {BERT Encoder};  % Adjusted spacing
+\node[proc, below=0.5cm of bertBody] (bertProduct) {BERT Encoder};  % Adjusted spacing
 
-% Input Features Nodes
-\node[inout, below=0.6cm of bertProduct] (product) {Product Details};
-\node[inout, below=0.6cm of bertAuthor] (stars) {Star Rating};
+% Adjust the spacing for the product details and star rating features
+% Input Features Nodes  
+\node[inout, below=0.5cm of bertProduct] (product) {Product Details};  % Adjusted spacing
+\node[inout, below=0.5cm of bertAuthor] (stars) {Star Rating};  % Adjusted spacing
 
-% Concatenation Nodes
-\node[proc, below=2.1cm of author] (concat) {Concatenation};
+% Concatenation Nodes  
+\node[proc, below=1.5cm of author] (concat) {Concatenation};  % Adjusted vertical distance
 
-% Classifier Nodes
-\node[proc, below=1cm of concat] (fc) {Fully Connected};
-\node[proc, below=0.5cm of fc] (relu) {ReLU};
-\node[proc, below=0.5cm of relu] (dropout) {Dropout};
-\node[proc, below=0.5cm of dropout] (output) {Output Layer};
+% Classifier Nodes  
+\node[proc, below=0.5cm of concat] (fc) {Fully Connected};  % Adjusted spacing
+\node[proc, below=0.3cm of fc] (relu) {ReLU};  % Adjusted spacing
+\node[proc, below=0.3cm of relu] (dropout) {Dropout};  % Adjusted spacing
+\node[proc, below=0.3cm of dropout] (output) {Output Layer};  % Adjusted spacing
 
-% Arrows
-\draw[->] (title) -- (bertBody);
-\draw[->] (author) -- (bertTitle);
-\draw[->] (body) -- (bertAuthor);
+% Arrows with adjusted node references according to the proximity
+\draw[->] (title) -- (bertBody);  
+\draw[->] (author) -- (bertTitle);  
+\draw[->] (body) -- (bertAuthor);  
 \draw[->] (product) -- (bertProduct);
 
-\draw[->] (bertTitle) -- (concat);
-\draw[->] (bertAuthor) -- (concat);
-\draw[->] (bertBody) -- (concat);
-\draw[->] (bertProduct) -- (concat);
+\draw[->] (bertTitle) -- (concat);  
+\draw[->] (bertAuthor) -- (concat);  
+\draw[->] (bertBody) -- (concat);  
+\draw[->] (bertProduct) -- (concat);  
 \draw[->] (stars) -- node[left, align=right] {} (concat);
 
-\draw[->] (concat) -- (fc);
-\draw[->] (fc) -- (relu);
-\draw[->] (relu) -- (dropout);
+\draw[->] (concat) -- (fc);  
+\draw[->] (fc) -- (relu);  
+\draw[->] (relu) -- (dropout);  
 \draw[->] (dropout) -- (output);
 
 \end{tikzpicture}
