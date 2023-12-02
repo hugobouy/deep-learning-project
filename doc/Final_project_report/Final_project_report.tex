@@ -412,23 +412,26 @@ Subsequent examinations may be conducted to assess the potentialities of GPT-4; 
 
 %-------------------------------------------------------------------------
 
-\section{What remains to be done}
+\section{Conclusion}
 
-\begin{enumerate}
-    \item \textbf{Feature Integration for BERT Model:} The existing BERT-based model will be improved by integrating supplementary product-specific attributes from the Amazon dataset, including product ratings, names, and other pertinent metadata.
-    
-    \item \textbf{Comparison between BERT and simpler model using feature selection:} Compare the efficiency of the previously introduced BERT model and an SVM model using features derived from the text as suggested by Jain et al.~\cite{jain2019} in their work.
+Our project aimed to explore various potential solutions to unmask sarcasm in e-commerce reviews.
+Our goal was to determine which models can be use for this specific task, and their trade-off regarding cost and complexity.
+We observed that simple models, such as SVM, can be very efficient to unmask sarcasm in the vast majority of reviews, when paired with relevant features extraction over the data.
+However, sarcasm being a complex human mechanism, some humorous reviews are much more complex to identify, especially when the 'joke' is conducted over a long text.
+To this extent, state-of-the-art transformer models have proven to be extremely effective, with our BERT model reaching a precision of 99\% on classifying non-humorous review, and 91\% for the sarcastic texts on our combined dataset.
+Its only apparent weakness being the recall of sarcastic reviews falling to 75\%.
+We also observed that the BERT model using transfer learning from the combined dataset did not perform better when combined with additional features from the product review such as the number of stars and the product title.
+Finally, our experiment on ChatGPT highlighted that generative models using LLMs are no great sarcasm classifier, confirming our initial intuition.
+By doing so, we wanted to show that these models, that tend to be over-hyped and over-used, may not be an ideal solution, especially when considering their cost and slowness.
 
-    \item \textbf{Refine ChatGPT Approach:} The present approach employed with GPT-3.5-turbo necessitates further refinement. In order to enhance the precision of sarcasm detection within product evaluations, we will investigate more effective prompt designs.
+As a conclusion, our project highlighted the necessity of understanding the structure of sarcasm to choose a relevant model.
+We learned a lot during this project, and it gave us great experience on a real word deep-learning problem, especially on the hard and time-consuming tasks such as fine-tuning and data preparation.
 
-    \item \textbf{Evaluate GPT-4 Performance:} Leveraging a subset of our dataset, we plan to test the effectiveness of GPT-4 for sarcasm detection, keeping in mind the associated costs.
+Future work on this topic may include finishing the Colbert implementation which we unfortunately did not manage to do in time.
+A great application of our work may also be to use our classification model to then rephrase sarcasm review into unambiguous texts.
+This could be use as an inclusive tool on e-commerce platforms, as people suffering from language or autism pathologies may struggle to understand the sarcasm tone of a review.
 
-    \item \textbf{Interpretation and Rephrasing (Time Permitting):} One of the biggest objectives is to make our model comprehend and reformulate sarcastic or amusing reviews into unambiguous and devoid-of-sarcasm textual content. This approach facilitates the identification of genuine customer feelings, even when they are expressed indirectly through sarcasm or comedy.
-
-    \item \textbf{Automated Response Generation (Time Permitting):} If feasible within time, our objective is to create a functionality that enables our sarcasm detection model to autonomously generate responses that consider the tone of a user's comment or query.
-
-\end{enumerate}
-
+%-------------------------------------------------------------------------
 
 %%%%%%%%% REFERENCES
 
