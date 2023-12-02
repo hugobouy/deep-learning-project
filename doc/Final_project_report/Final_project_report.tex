@@ -357,6 +357,41 @@ The aforementioned efficacy highlights the wider possibilities of employing adva
 
 \subsection{Sarcasm detection with additional factors}
 
+\subsection{ColBERT Sarcasm Detection Model}
+Contextualized Late Interaction over BERT is a novel ranking model that adapts BERT for efficient retrieval.
+Traditionally, BERT models can be computationally expensive and memory-intensive.
+
+Those particularities make it challenging to apply for some tasks such as passage retrieval in search engines.
+In the scope of our project, such a model can be useful in our task of sarcasm detection.
+
+The key idea behind ColBERT is to use a late interaction mechanism between different tokens of the original sample.
+The proposal of this model is based on the observation that usually a joke can involve two or three stages of storytelling that are sometimes concluded with a punchline.
+Theories state that humor arises from the sudden transformation of an expectation into nothing.
+The punchline is, in that sense, related to the previous sentences, but often creates an opposition in order to transform a reader's expectation of the context.
+With that being said, if one reads the sentences of a joke separately, they are likely not going to be found funny.
+However, if those same sentences are read together, the text becomes humorous.
+This is why a model that extracts features independently from each sentence and then considers those features later can be interesting in sarcasm detection.
+
+We propose here to separate sentences from a sample and use the BERT model to create embeddings for each sentence.
+The embeddings are then passed through separate hidden layers to extract each feature. Finally, the results are concatenated and passed through a neural network to predict the target value.
+
+An additional preprocessing step is necessary in order to remove from the dataset samples that are too long.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{ColBERT_model.png}
+    \caption{Architecture of the ColBERT model}
+    \label[type]{sentence_fig}
+\end{figure}
+
+An architecture of the ColBERT model is given above. In addition to the sentences processed individually, it remains important to detect word interactions in the whole text.
+This is why we will also feed the whole text in its own parallel line and concatenate the results with features extracted from the other networks.
+
+
+Results in the literature have shown that ColBERT performs in fact quite well in sarcasm detection. It would have been interesting to check if such a model performed better than our BERT model presented previously.
+Unfortunately, our attempts at coding this model were inconclusive, but we believe that splitting the text as such into sentences processed independently is key to improving sarcasm detection.
+
+
 \subsection{Comparison with Chat-GPT}
 In order to enhance the depth of our analysis, we conducted a comparative evaluation between our sarcasm detection model and Chat-GPT, primarily focusing on the GPT-3.5-turbo variant developed by OpenAI.
 The objective of this comparison was to assess the efficacy of our model in comparison to a widely recognized general-purpose language model.
