@@ -29,7 +29,7 @@ The repository is organized into multiple directories, containing datasets, code
 
 ### Running the Notebooks
 
-To replicate our experiments or conduct your own, ensure that you have Jupyter Notebook or JupyterLab installed, along with necessary dependencies such as `transformers`, `torch`, and `pandas`. Notebooks can be run in sequence, starting with dataset preparation and culminating in model training and evaluation.
+To replicate our experiments or conduct your own, ensure that you have Jupyter Notebook or JupyterLab installed, along with necessary dependencies defined in `requirements.txt`. Notebooks can be run in sequence, starting with dataset preparation and culminating in model training and evaluation.
 
 ## Authors
 
