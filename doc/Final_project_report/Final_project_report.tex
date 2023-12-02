@@ -17,6 +17,8 @@
 \usepackage{float}
 \usepackage{float} % For positionning images
 \usepackage{tabularx} % For tables
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows.meta, shapes}
 
 
 % It is strongly recommended to use hyperref, especially for the review version.
@@ -223,6 +225,9 @@ A Similar behavior can be observed regarding the sarcastic text for which the mo
 
 These results confirmed the necessity of building features before training the model.
 
+Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
+\subsection{BERT-based Sarcasm Detection Model on Combined Dataset}
+\subsubsection{Introduction}
 \subsection{Feature-oriented model}
 
 Our previous experiment revealed that simple models such as SVM and LSTM do not manage to reveal the underlying structure of humorous reviews, with non-satisfactory precision and recall score on the sarcastic label.
@@ -334,29 +339,169 @@ Training a fully connected deep neural network on these features may produce bet
 
 Next, we train a state-of the art transformer model to observe if it can generalize sarcasm on our combined and general dataset.
 
-\subsection{BERT-based Sarcasm Detection Model}
-\subsubsection{Overview of BERT}
-Bidirectional Encoder Representations from Transformers (BERT) was a significant advancement in the field of natural language processing (NLP), as it leverages the Transformer, a state-of-the-art neural network architecture specifically built to effectively process sequential input.
-In contrast to conventional models that operate on text unidirectionally (either left-to-right or right-to-left), BERT stands out due to its capacity to comprehend the contextual meaning of a word within a sentence by considering the preceding and succeeding words, thus enabling bidirectional processing of the entire word sequence.
-The aforementioned feature is especially beneficial in tasks such as sarcasm identification, where the contextual interpretation of words plays a crucial role in determining the presence of sarcasm in a statement.
 
-\subsubsection{Model Implementation}
-In our sarcasm detection task, we utilized a pre-trained BERT model, which we then fine-tuned on a dataset consisting of texts labeled as sarcastic or non-sarcastic. 
-By fine-tuning BERT on our specific dataset, the model could apply its deep, bidirectional understanding of language to effectively distinguish between sarcastic and genuine statements.
+Bidirectional Encoder Representations from Transformers (BERT) represents a paradigm shift in the encoding of textual information for natural language processing (NLP) tasks \cite{devlin2018bert}. Unlike unidirectional models that process text in a singular direction (left-to-right or right-to-left), BERT's novelty lies in its ability to pre-train deep bidirectional representations. This characteristic enables the model to access both preceding and following context simultaneously across all layers. The employment of bidirectional conditioning is critical for sarcasm detection wherein the intended semantic orientation often contradicts the literal meaning, necessitating a comprehensive grasp of context to infer the true sentiment.
+
+BERT's architecture is grounded in the Transformer model \cite{vaswani2017attention}, which revolutionized sequence-to-sequence tasks by replacing sequential computation with a self-attention mechanism. This mechanism allows BERT to evaluate and integrate information from all tokens in the dataset regardless of their sequential position, providing a more fluid and enriched mapping of language contexts. Given that sarcasm frequently relies on complex linguistic cues and pragmatic factors, BERT's ability to interpret such subtleties offers significant advantages in detecting and understanding sarcastic expressions in textual data.
+
+\subsubsection{Methodology}  
+To enhance BERT's understanding of sarcasm, we implemented a two-phase training approach tailored to tackle the subtlety of sarcastic language in online text. Initially, BERT is fine-tuned on a combined dataset that brings together sentences from a variety of sources, ensuring the model encounters a broad spectrum of sarcastic styles and contexts. This stage allows BERT to adjust to the general patterns of sarcasm, preparing it for the nuanced detection required in the next phase.
+
+In the second phase, we focus on domain-specific fine-tuning by introducing the model to the Amazon product review dataset (using all of the features in it, not just the review), which presents a more focused form of sarcasm often seen in customer feedback. This step fine-tunes BERT's weights, which have already been adjusted for sarcasm, to this particular application. The intent behind this specialized training is to forge a model adept at recognizing sarcasm in the particular environment of e-commerce.
+
+By conducting our training in two stages, we aim to balance a broad understanding of language with a precise capability to detect sarcasm. Each stage is evaluated thoroughly to verify the model’s capability to accurately identify sarcasm in text.  
+\subsubsection{Dataset and Preprocessing}
+For model training, we developed the \textit{SarcasticSentencesDataset} to streamline the process of converting raw text into a form suitable for BERT. This dataset class utilizes the BERT tokenizer, applying it to each sentence to generate a sequence of tokens. Critical tokens, `[CLS]` and `[SEP]`, are added to the beginning and end of these sequences, respectively, to mark their boundaries as expected by the model.
+
+Given the variability in sentence lengths and BERT's fixed input size requirement, we established a preprocessing regimen that includes padding shorter sentences and truncating longer ones, enforcing uniformity in sequence length. This approach addresses BERT's sequence length constraint and ensures all input data is shaped consistently, thereby optimizing it for processing by the model without substantial information loss.
+
+\subsubsection{Model Architecture}
+The cornerstone of our sarcasm detection model is the `BertForSequenceClassification` from the Hugging Face's `transformers` library, which provides a convenient wrapper around the pre-trained BERT model tailored for sequence classification tasks. This base model comes with a fully connected layer on top for classification purposes, capable of rendering the final prediction for a given input sequence.
+
+To enhance the model's generalization capabilities and reduce the risk of overfitting, we strategically incorporated a dropout mechanism directly into the classification head. The dropout layers randomly silence a fraction of neurons during the training phase, thereby compelling the model to learn more robust features that do not rely on any specific set of neurons. This is combined with L2 regularization, applied via weight decay in the training optimizer. The regularization technique adds a penalty for large weights to the loss function, encouraging the model to maintain simpler, smaller weights which can improve performance on unseen data.
+
+Moreover, hyperparameters were meticulously chosen to balance the model's complexity with its predictive power on sarcasm detection. The classification layer utilizes a softmax function to output predicted probabilities, enabling the discernment of the two classes—sarcastic or not sarcastic—by assigning a likelihood to each possible category.
+
+\subsubsection{Training Procedure}
+The training procedure is outlined as a series of steps managed by the \texttt{train\_epoch} function. Each epoch involves processing batches of data where the model performs forward propagation to generate predictions, calculates the loss using the CrossEntropyLoss function appropriate for binary classification, and then adjusts its parameters through backpropagation. An optimizer, specifically AdamW with a defined learning rate and weight decay, then updates the weights to minimize the loss.
+
+The \texttt{eval\_model} function handles the evaluation phase. It mirrors the training function without performing any weight updates, ensuring the model's performance is assessed on the validation set without affecting its learned parameters. This phase computes key metrics, such as accuracy, precision, and recall, to evaluate the model's ability to discern sarcasm accurately. These metrics offer insights into the model's proficiency at correctly classifying inputs as either "sarcastic" or "non-sarcastic," thus providing a quantitative measure of its prediction quality.
 
 \subsubsection{Experimental Results}
-The efficiency of our fine-tuned BERT model in sarcasm detection was significant. 
-The validation loss obtained was 0.386, while the accuracy reached was 87.823\% on the test set sampled from our 40,461 text dataset introduced previously. 
-The findings of this study emphasize the proficiency of BERT in effectively categorizing sentences as either sarcastic or non-sarcastic, hence showcasing its sophisticated comprehension of language and contextual nuances.
+Our model's performance on the sarcasm detection task was quantitatively evaluated using precision and recall metrics, as detailed in the following results:
 
-\subsubsection{Conclusions}
-The efficacy of our BERT-derived model in detecting sarcasm illustrates the robustness of bidirectional contextual analysis in comprehending intricate linguistic patterns. 
-The experimental results demonstrate that BERT is effective in handling delicate natural language processing (NLP) tasks, specifically sarcasm detection, as seen by its high accuracy and minimal validation loss.
-The aforementioned efficacy highlights the wider possibilities of employing advanced, contextually-aware models in complex language comprehension tasks.
+\begin{table}[H]  
+    \centering  
+    \begin{tabularx}{\linewidth}{|X|X|X|X|}  
+        \hline  
+        Class & Precision & Recall & Accuracy \\  
+        \hline  
+        Sarcasm & 0.9138 & 0.7597 & - \\  
+        \hline  
+        Non-Sarcasm & 0.9995 & 0.9999 & - \\  
+        \hline  
+        Both & - & - & 0.8494 \\  
+        \hline  
+    \end{tabularx}  
+    \caption{Precision and Recall for BERT's predictions on the validation set of the combined dataset.}  
+\end{table}
+
+The results demonstrate that the model performs exceptionally well on non-sarcastic predictions with near-perfect precision and recall. However, there's a noticeable difference in the performance metrics for sarcasm, with precision exceeding recall. This indicates that while the model is highly confident in its sarcasm predictions, it tends to miss sarcastic instances more often than it falsely labels regular content as sarcastic.
+
+With these insights, we recognize areas where the model can benefit from further refinement. The next phase of our experimentation aims to use the insights gained from these results to improve the fine-tuning process on the domain-specific Amazon product review dataset, leveraging the learned weights.
+
+\subsection{Enhanced BERT-based Sarcasm Detection Model on Amazon Reviews Dataset}
+Having established a solid basis for sarcasm detection in generic texts, we now turn our attention to the more specialized domain of e-commerce, particularly focusing on Amazon product reviews. These reviews pose unique challenges for sarcasm detection due to the context-specific language, diverse expressions of customer sentiment, and the presence of informal, colloquial language patterns.
+
+\subsubsection{Challenges}
+Several key challenges are anticipated in adapting our model to this specialized domain:
+
+\begin{itemize}
+    \item Differentiating between genuine and sarcastic praise or criticism within product reviews, which may often involve subtle language cues and contextual understanding.
+    \item Addressing varied expressions of sarcasm that are unique to consumer behavior and product-specific references, requiring the model to interpret a complex interplay of sentiments.
+    \item Ensuring robustness against the backdrop of a diverse array of products and user demographics, which may contribute to the variability in the linguistic expression of sarcasm.
+\end{itemize}
+
+The goal is to enhance the model's adaptability and precision in this particular application while maintaining a balanced performance across both sarcasm and genuine sentiment detection tasks.
+
+\subsubsection{Dataset and Preprocessing}
+Adapting the BERT model to Amazon product reviews required special attention to dataset curation and preprocessing nuances. Our \texttt{SarcasticProductReviewDataset} class was designed to tokenize and encode multiple textual features associated with product reviews, such as titles, author names, product details, and the review body, with each text field contributing valuable context for sarcasm prediction.
+
+To address the class imbalance prevalent in the Amazon reviews dataset—where non-sarcastic reviews significantly outnumber their sarcastic counterparts—we implemented a stratified split, thus ensuring each subset maintains a consistent distribution of classes. Additionally, for the training phase, we incorporated a \texttt{WeightedRandomSampler} in our DataLoader. This stratagem assigned selection weights inversed to class frequencies, enabling the model to train on a balanced representation of both sarcastic and regular reviews. This technique is essential in cultivating a model less biased toward the more dominant class, thereby enhancing its ability to identify sarcasm with better accuracy.
+
+\subsubsection{Model Architecture}
+
+The architecture of the \texttt{ExtendedBertForMultiFeatureClassification} model is an augmentation of the standard BERT sequence classification framework, designed to accommodate the multidimensional nature of Amazon product reviews. Rooted in BERT's powerful contextual embeddings, we expanded the model's capacity by incorporating embeddings for textual features beyond the review body: titles, author information, product details, and star ratings. 
+
+In our extended model, specific BERT modules are utilized to encode each type of textual information independently, providing a representation enriched with diverse contextual features. These embeddings are then aggregated into a single comprehensive vector representation.
+
+To facilitate the integration of these multi-feature embeddings, we channel the combined output through a fully connected neural network. This network includes layers activated by the ReLU (Rectified Linear Unit) function, which introduces non-linearity, alongside strategically placed dropout layers to mitigate overfitting risks and to foster the robustness of the architecture. The culmination of this processing stream is a final classification layer that computes the logits, signifying the model's predictions regarding the sarcasm present in a provided review.
+\newline\newline\newline
 
 
-\subsection{Sarcasm detection with additional factors}
+\begin{tikzpicture}[
+    >={Latex[round]},
+    base/.style={draw, thick, align=center, minimum height=1ex, minimum width=2em, font=\small},
+    proc/.style={base, rectangle, minimum width=2em, fill=orange!30},
+    inout/.style={base, ellipse, fill=yellow!30},
+]
 
+% Input Features Nodes
+\node[inout] (title) {Title};
+\node[inout, right=0.8cm of title] (author) {Author};
+\node[inout, right=0.8cm of author] (body) {Review Body};
+
+% BERT Embeddings Nodes
+\node[proc, below=0.6cm of author] (bertTitle) {BERT Encoder};
+\node[proc, right=0.8cm of bertTitle] (bertAuthor) {BERT Encoder};
+\node[proc, left=0.8cm of bertTitle] (bertBody) {BERT Encoder};
+\node[proc, below=0.6cm of bertBody] (bertProduct) {BERT Encoder};
+
+% Input Features Nodes
+\node[inout, below=0.6cm of bertProduct] (product) {Product Details};
+\node[inout, below=0.6cm of bertAuthor] (stars) {Star Rating};
+
+% Concatenation Nodes
+\node[proc, below=2.1cm of author] (concat) {Concatenation};
+
+% Classifier Nodes
+\node[proc, below=1cm of concat] (fc) {Fully Connected};
+\node[proc, below=0.5cm of fc] (relu) {ReLU};
+\node[proc, below=0.5cm of relu] (dropout) {Dropout};
+\node[proc, below=0.5cm of dropout] (output) {Output Layer};
+
+% Arrows
+\draw[->] (title) -- (bertBody);
+\draw[->] (author) -- (bertTitle);
+\draw[->] (body) -- (bertAuthor);
+\draw[->] (product) -- (bertProduct);
+
+\draw[->] (bertTitle) -- (concat);
+\draw[->] (bertAuthor) -- (concat);
+\draw[->] (bertBody) -- (concat);
+\draw[->] (bertProduct) -- (concat);
+\draw[->] (stars) -- node[left, align=right] {} (concat);
+
+\draw[->] (concat) -- (fc);
+\draw[->] (fc) -- (relu);
+\draw[->] (relu) -- (dropout);
+\draw[->] (dropout) -- (output);
+
+\end{tikzpicture}
+
+\begin{figure}[ht]
+    \centering
+    % Your tikzpicture code goes here.
+    \caption{The architecture of the Extended BERT Model for Multi-Feature Classification.}
+    \label{fig:model_architecture}
+\end{figure}
+
+\subsubsection{Training Procedure}
+The training regimen for the Enhanced BERT-based Sarcasm Detection Model aligns with the initial methodology outlined in phases one, leveraging our \texttt{train\_epoch} and \texttt{eval\_model} functions. However, the model is further refined with domain-specific nuances of Amazon product reviews. We continue to use CrossEntropyLoss as the loss function and employ regularization and dropout techniques to prevent overfitting, complimenting the learned intricacies of sarcasm detection from the preliminary model.
+
+\subsubsection{Experimental Results}
+\label{sec:experimental_results}
+
+The enhanced BERT model's performance on the Amazon Reviews Dataset indicates intricacies in adapting to domain-specific sarcasm. While the overall accuracy suggests a competent level of sarcasm detection, the results did not markedly surpass those of the preliminary model. The performance of the best model configuration achieved during the training process is as follows:
+
+\begin{table}[H]  
+    \centering  
+    \begin{tabular}{|c|c|c|c|}  
+        \hline  
+        Class & Precision & Recall & Accuracy \\  
+        \hline  
+        Sarcasm & 0.8235 & 0.6462 & - \\  
+        \hline  
+        Non-Sarcasm & 0.9995 & 0.9998 & - \\  
+        \hline  
+        Overall & - & - & 0.8298 \\  
+        \hline  
+    \end{tabular}  
+    \caption{Precision, Recall, and Overall Validation Accuracy for the Enhanced BERT Model on the Amazon Reviews Dataset.}  
+    \label{tab:best_model_results}
+\end{table}
+
+The addition of contextual features such as titles and author details did not significantly enhance model performance, potentially pointing to the limitations introduced by the truncation of longer review texts. The truncation may result in the loss of critical information necessary for the BERT model to fully understand the sarcastic or non-sarcastic nature of texts. Additionally, the smaller size of the Amazon Reviews Dataset in comparison to the combined dataset used for the preliminary model may affect the richness of data needed for the model to effectively learn and generalize sarcasm detection. Future work may consider strategies to mitigate information loss from truncation and to utilize a larger, richer dataset for domain-specific training.
 \subsection{ColBERT Sarcasm Detection Model}
 Contextualized Late Interaction over BERT is a novel ranking model that adapts BERT for efficient retrieval.
 Traditionally, BERT models can be computationally expensive and memory-intensive.
