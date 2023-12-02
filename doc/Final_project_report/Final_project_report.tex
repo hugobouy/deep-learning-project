@@ -351,9 +351,9 @@ In the second phase, we focus on domain-specific fine-tuning by introducing the 
 
 By conducting our training in two stages, we aim to balance a broad understanding of language with a precise capability to detect sarcasm. Each stage is evaluated thoroughly to verify the model’s capability to accurately identify sarcasm in text.  
 \subsubsection{Dataset and Preprocessing}
-For model training, we developed the \textit{SarcasticSentencesDataset} to streamline the process of converting raw text into a form suitable for BERT. This dataset class utilizes the BERT tokenizer, applying it to each sentence to generate a sequence of tokens. Critical tokens, `[CLS]` and `[SEP]`, are added to the beginning and end of these sequences, respectively, to mark their boundaries as expected by the model.
+For model training, we developed the \textit{SarcasticSentencesDataset} (also refered as combined dataset in this document) to streamline the process of converting raw text into a form suitable for BERT. This dataset class utilizes the BERT tokenizer, applying it to each sentence to generate a sequence of tokens. Critical tokens, `[CLS]` and `[SEP]`, are added to the beginning and end of these sequences, respectively, to mark their boundaries as expected by the model.
 
-Given the variability in sentence lengths and BERT's fixed input size requirement, we established a preprocessing regimen that includes padding shorter sentences and truncating longer ones, enforcing uniformity in sequence length. This approach addresses BERT's sequence length constraint and ensures all input data is shaped consistently, thereby optimizing it for processing by the model without substantial information loss.
+Given the variability in sentence lengths and BERT's fixed input size requirement, we established a preprocessing pipeline that includes padding shorter sentences and truncating longer ones, enforcing uniformity in sequence length. This approach addresses BERT's sequence length constraint and ensures all input data is shaped consistently, thereby optimizing it for processing by the model without substantial information loss.
 
 \subsubsection{Model Architecture}
 The cornerstone of our sarcasm detection model is the `BertForSequenceClassification` from the Hugging Face's `transformers` library, which provides a convenient wrapper around the pre-trained BERT model tailored for sequence classification tasks. This base model comes with a fully connected layer on top for classification purposes, capable of rendering the final prediction for a given input sequence.
@@ -363,9 +363,9 @@ To enhance the model's generalization capabilities and reduce the risk of overfi
 Moreover, hyperparameters were meticulously chosen to balance the model's complexity with its predictive power on sarcasm detection. The classification layer utilizes a softmax function to output predicted probabilities, enabling the discernment of the two classes—sarcastic or not sarcastic—by assigning a likelihood to each possible category.
 
 \subsubsection{Training Procedure}
-The training procedure is outlined as a series of steps managed by the \texttt{train\_epoch} function. Each epoch involves processing batches of data where the model performs forward propagation to generate predictions, calculates the loss using the CrossEntropyLoss function appropriate for binary classification, and then adjusts its parameters through backpropagation. An optimizer, specifically AdamW with a defined learning rate and weight decay, then updates the weights to minimize the loss.
+The training procedure is outlined as a series of steps managed by the training function. Each epoch involves processing batches of data where the model performs forward propagation to generate predictions, calculates the loss using the CrossEntropyLoss function appropriate for binary classification, and then adjusts its parameters through backpropagation. An optimizer, specifically AdamW with a defined learning rate and weight decay, then updates the weights to minimize the loss.
 
-The \texttt{eval\_model} function handles the evaluation phase. It mirrors the training function without performing any weight updates, ensuring the model's performance is assessed on the validation set without affecting its learned parameters. This phase computes key metrics, such as accuracy, precision, and recall, to evaluate the model's ability to discern sarcasm accurately. These metrics offer insights into the model's proficiency at correctly classifying inputs as either "sarcastic" or "non-sarcastic," thus providing a quantitative measure of its prediction quality.
+The evaluation function handles the evaluation phase. It mirrors the training function without performing any weight updates, ensuring the model's performance is assessed on the validation set without affecting its learned parameters. This phase computes key metrics, such as accuracy, precision, and recall, to evaluate the model's ability to discern sarcasm accurately. These metrics offer insights into the model's proficiency at correctly classifying inputs as either "sarcastic" or "non-sarcastic," thus providing a quantitative measure of its prediction quality.
 
 \subsubsection{Experimental Results}
 Our model's performance on the sarcasm detection task was quantitatively evaluated using precision and recall metrics, as detailed in the following results:
@@ -411,7 +411,7 @@ To address the class imbalance prevalent in the Amazon reviews dataset—where n
 
 \subsubsection{Model Architecture}
 
-The architecture of the \texttt{ExtendedBertForMultiFeatureClassification} model is an augmentation of the standard BERT sequence classification framework, designed to accommodate the multidimensional nature of Amazon product reviews. Rooted in BERT's powerful contextual embeddings, we expanded the model's capacity by incorporating embeddings for textual features beyond the review body: titles, author information, product details, and star ratings. 
+The architecture of our extended BERT model is an augmentation of the standard BERT sequence classification framework, designed to accommodate the multidimensional nature of Amazon product reviews. Rooted in BERT's powerful contextual embeddings, we expanded the model's capacity by incorporating embeddings for textual features beyond the review body: titles, author information, product details, and star ratings. 
 
 In our extended model, specific BERT modules are utilized to encode each type of textual information independently, providing a representation enriched with diverse contextual features. These embeddings are then aggregated into a single comprehensive vector representation.
 
@@ -477,7 +477,7 @@ To facilitate the integration of these multi-feature embeddings, we channel the 
 \end{figure}
 
 \subsubsection{Training Procedure}
-The training regimen for the Enhanced BERT-based Sarcasm Detection Model aligns with the initial methodology outlined in phases one, leveraging our \texttt{train\_epoch} and \texttt{eval\_model} functions. However, the model is further refined with domain-specific nuances of Amazon product reviews. We continue to use CrossEntropyLoss as the loss function and employ regularization and dropout techniques to prevent overfitting, complimenting the learned intricacies of sarcasm detection from the preliminary model.
+The training regimen for the Enhanced BERT-based Sarcasm Detection Model aligns with the initial methodology outlined in phases one, leveraging our training and evaluation functions. However, the model is further refined with domain-specific nuances of Amazon product reviews. We continue to use CrossEntropyLoss as the loss function and employ regularization and dropout techniques to prevent overfitting, complimenting the learned intricacies of sarcasm detection from the preliminary model.
 
 \subsubsection{Experimental Results}
 \label{sec:experimental_results}
