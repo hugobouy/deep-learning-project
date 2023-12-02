@@ -180,7 +180,7 @@ We consider that adding these features may help the model to better identify the
 As introduced above, we build a heterogeneous dataset with sarcasm examples from very different sources and context.
 Our goal here is to experiment building a model that could learn the inner structure of sarcasm from a large amount of data.
 
-Before doing so, and as a starting point for this project, we first aimed at creating a simple model capable of detecting if a sentence contains some from of sarcasm using the Amazon review dataset only.
+Before doing so, and as a starting point for this project, we first aimed at creating a very simple model capable of detecting if a sentence contains some from of sarcasm using the Amazon review dataset only.
 At this stage, the model only takes into account the sentence and no additional factors. We will later add additional relevant factors in detecting sarcastic or humorous patterns such as information on the product considered.
 
 Jain et al. previously conducted an experiment on this dataset~\cite{jain2019}.
@@ -223,11 +223,122 @@ A Similar behavior can be observed regarding the sarcastic text for which the mo
     \caption{Precision, Recall and F1-score for LSTM on the Amazon review dataset with only count vectorization.}
 \end{table}
 
-These results confirmed the necessity of feature selection before training the model.
+These results confirmed the necessity of building features before training the model.
 
 Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
 \subsection{BERT-based Sarcasm Detection Model on Combined Dataset}
 \subsubsection{Introduction}
+\subsection{Feature-oriented model}
+
+Our previous experiment revealed that simple models such as SVM and LSTM do not manage to reveal the underlying structure of humorous reviews, with non-satisfactory precision and recall score on the sarcastic label.
+Additionally, even though SVM performed relatively well on the test set in terms of accuracy, it may not be robust to other real word data as it is based on a Bag of Word assumption. Out of Vocabulary (OOV) tokens are very likely to occur on very diverse Amazon product review.
+Thus, based on the previous research work of Jain et al~\cite{jain2019}, we implemented a new SVM model with feature selection.
+
+The main idea of this model is to build a feature vector for each review, given metrics/criteria that are likely to reveal the sarcastic aspect of a review.
+Our model uses 7 main features described bellow.
+
+\subsubsection{Sentiment score feature}
+
+Previous research on sarcasm classification showed that analyzing the sentiment of a review allows to give the model a first insight of the text's structure.
+In our experiment, we used VADER, a lexicon and rule-based sentiment analysis tool, trained on social media content~\cite{icwsm2014}.
+Amazon may not be a social media, but our intuition is that the review written by its consumers present similar structures as the texts found on social media such as X or Facebook.
+
+One key aspect of VADER is its sensitivity to both polarity and intensity of the sentiments expressed in the text.
+It also processes punctuation tokens that are used to reinforce the sentiment of a sentence.
+VADER produces 4 scores for each analysis: positive, negative, neutral and compound.
+The first 3 scores are ratios for proportions of text that fall in each category. The compound score is a normalized combination of the other 3.
+It can be interpreted as follows:
+
+\begin{itemize}
+    \item positive sentiment: compound score $>$= 0.05
+    \item neutral sentiment: (compound score $>$ -0.05) and (compound score $<$ 0.05)
+    \item negative sentiment: compound score =$<$ -0.05
+\end{itemize}
+
+We used the compound score as the first feature of our model.
+
+\subsubsection{Punctuation feature}
+
+Sarcastic reviews are more likely to contain more exclamatory or interrogative sentences than regular texts.
+Therefore, we calculate a ratio of punctuation counts over the total number of punctuation symbols in the text.
+
+For each review, we count the following symbols: '.', '!', '?', ',' and normalize the count as explained above.
+We thus produce a vector of 4 normalized counts.
+
+\subsubsection{Part of Speech (POS) feature}
+
+Another great indicator of potential sarcastic review is its proportion of certain grammatical tags.
+This feature has demonstrated in previous studies~\cite{jain2019} its ability to reveal the humorous tone of a text.
+We thus implement this feature which produce 4 normalized count of nouns, verbs, adjectives and adverbs by using the Stanza library for constituency parsing.
+
+\subsubsection{Unigram and bigram count}
+
+A simple intuition of how to detect sarcastic reviews is to count words that may be considered as sarcastic.
+This Naïve Bayes assumption is especially relevant when using bigrams which may reveal common sarcastic word association.
+
+To implement this feature, we build a vocabulary of sarcastic and regular unigram/bigram using the training data of the Amazon dataset.
+Another approach may  be to use the vocabulary of larger dataset (such as the one we built by aggregating very diverse content), but this option was not explored during our project.
+
+Then, for each review, we produce the ratio of unigram/bigram of the text that appear in sarcastic and regular vocabulary.
+
+\subsubsection{Contextual feature}
+
+This feature may be the most important/relevant for the model.
+The contextual feature uses the amount of stars given by the customer in its review and compare it to the sentiment score of its review.
+
+Indeed, one common sarcastic structure is to express the opposite of what we really think.
+Thus, sarcastic reviews tend to have a strong difference between these two scores.
+
+The contextual feature is therefore the subtraction of the normalized sentiment score (normalized on a 0 to 5 scale) and the amount of stars associated with the review.
+
+\subsubsection{Similarity feature}
+
+The last feature we explored is the similarity feature which is a measure of the similarity between the product title and the review given by the customer.
+Our intuition was that users writing sarcastic reviews tend to use more sentences/words that are off-topic compared to the product itself.
+Unfortunately, the Amazon dataset does not provide categories or other insight about the nature of the product associated with the review.
+
+Thus, our solution consists of 3 steps:
+\begin{itemize}
+    \item Extract the keywords from both the title and the review. We used for this the Rapid Automatic Keyword Extraction (RAKE) algorithm which uses a combination of n-grams and stop words to extract the most relevant keywords of a text.~\cite{rake2010}
+    \item For the review keywords, sort them by frequency and only keep the same amount as the amount of keywords extracted from the Title.
+    \item Calculate the average similarity between the title and the review keywords using the Spacy library similarity score function. We used the 'en\_core\_web\_lg' pipeline for the similarity calculation, which is trained on written texts from online blogs, news and comments (around 560MB of data).
+\end{itemize}
+
+We thus used this average similarity score as an input feature for our model.
+Data exploration revealed that the sarcastic reviews on the Amazon dataset have a global average similarity score of 0.146 with the product title associated, whereas this score is 0.157 for the regular reviews using our method.
+This difference confirmed our intuition and the relevance of this feature.
+
+\subsubsection{Training the improved SVM model}
+
+For each review, we built a feature vector with all the above-mentioned features and the addition of the stars amount given by the user as a raw feature.
+Thus, each review was represented by 16 float numbers.
+We then trained an SVM model (linear kernel and default parameters of the sklearn library) on our training data and evaluate it on our validation and test sets (consisting in 125 and 126 reviews).
+
+The results are the following for the test set:
+
+\begin{table}[H]
+    \centering
+    \begin{tabularx}{\linewidth}{|X|X|X|X|}
+        \hline
+        & Precision & Recall & F1-score \\
+        \hline
+        Regular & 0.89 & 0.88 & 0.88 \\
+        \hline
+        Sarcasm & 0.70 & 0.72 & 0.71 \\
+        \hline
+    \end{tabularx}
+    \caption{Precision, Recall and F1-score for SVM on the Amazon review dataset using feature selection}
+\end{table}
+
+Compared to our previous SVM model, we can observe that the recall of the sarcasm label is much improved by 10\%.
+Overall, our model is more stable and less sensitive to new data.
+The accuracy measured is 0.86 on the validation set and 0.83 on the test set.
+
+This experiment demonstrates that a simple model like SVM manage to understand the structure of sarcasm when using the appropriate features.
+Training a fully connected deep neural network on these features may produce better results, but we did not have the time to explore this path.
+
+Next, we train a state-of the art transformer model to observe if it can generalize sarcasm on our combined and general dataset.
+
 
 Bidirectional Encoder Representations from Transformers (BERT) represents a paradigm shift in the encoding of textual information for natural language processing (NLP) tasks \cite{devlin2018bert}. Unlike unidirectional models that process text in a singular direction (left-to-right or right-to-left), BERT's novelty lies in its ability to pre-train deep bidirectional representations. This characteristic enables the model to access both preceding and following context simultaneously across all layers. The employment of bidirectional conditioning is critical for sarcasm detection wherein the intended semantic orientation often contradicts the literal meaning, necessitating a comprehensive grasp of context to infer the true sentiment.
 
@@ -391,6 +502,41 @@ The enhanced BERT model's performance on the Amazon Reviews Dataset indicates in
 \end{table}
 
 The addition of contextual features such as titles and author details did not significantly enhance model performance, potentially pointing to the limitations introduced by the truncation of longer review texts. The truncation may result in the loss of critical information necessary for the BERT model to fully understand the sarcastic or non-sarcastic nature of texts. Additionally, the smaller size of the Amazon Reviews Dataset in comparison to the combined dataset used for the preliminary model may affect the richness of data needed for the model to effectively learn and generalize sarcasm detection. Future work may consider strategies to mitigate information loss from truncation and to utilize a larger, richer dataset for domain-specific training.
+\subsection{ColBERT Sarcasm Detection Model}
+Contextualized Late Interaction over BERT is a novel ranking model that adapts BERT for efficient retrieval.
+Traditionally, BERT models can be computationally expensive and memory-intensive.
+
+Those particularities make it challenging to apply for some tasks such as passage retrieval in search engines.
+In the scope of our project, such a model can be useful in our task of sarcasm detection.
+
+The key idea behind ColBERT is to use a late interaction mechanism between different tokens of the original sample.
+The proposal of this model is based on the observation that usually a joke can involve two or three stages of storytelling that are sometimes concluded with a punchline.
+Theories state that humor arises from the sudden transformation of an expectation into nothing.
+The punchline is, in that sense, related to the previous sentences, but often creates an opposition in order to transform a reader's expectation of the context.
+With that being said, if one reads the sentences of a joke separately, they are likely not going to be found funny.
+However, if those same sentences are read together, the text becomes humorous.
+This is why a model that extracts features independently from each sentence and then considers those features later can be interesting in sarcasm detection.
+
+We propose here to separate sentences from a sample and use the BERT model to create embeddings for each sentence.
+The embeddings are then passed through separate hidden layers to extract each feature. Finally, the results are concatenated and passed through a neural network to predict the target value.
+
+An additional preprocessing step is necessary in order to remove from the dataset samples that are too long.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{ColBERT_model.png}
+    \caption{Architecture of the ColBERT model}
+    \label[type]{sentence_fig}
+\end{figure}
+
+An architecture of the ColBERT model is given above. In addition to the sentences processed individually, it remains important to detect word interactions in the whole text.
+This is why we will also feed the whole text in its own parallel line and concatenate the results with features extracted from the other networks.
+
+
+Results in the literature have shown that ColBERT performs in fact quite well in sarcasm detection. It would have been interesting to check if such a model performed better than our BERT model presented previously.
+Unfortunately, our attempts at coding this model were inconclusive, but we believe that splitting the text as such into sentences processed independently is key to improving sarcasm detection.
+
+
 \subsection{Comparison with Chat-GPT}
 In order to enhance the depth of our analysis, we conducted a comparative evaluation between our sarcasm detection model and Chat-GPT, primarily focusing on the GPT-3.5-turbo variant developed by OpenAI.
 The objective of this comparison was to assess the efficacy of our model in comparison to a widely recognized general-purpose language model.
