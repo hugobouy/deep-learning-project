@@ -226,8 +226,7 @@ A Similar behavior can be observed regarding the sarcastic text for which the mo
 These results confirmed the necessity of building features before training the model.
 
 Before applying feature selection we experimented with the state-of-the art model BERT over our entire dataset to observe if the wilder and more diverse example set of sarcasm could be a strong benefit.
-\subsection{BERT-based Sarcasm Detection Model on Combined Dataset}
-\subsubsection{Introduction}
+
 \subsection{Feature-oriented model}
 
 Our previous experiment revealed that simple models such as SVM and LSTM do not manage to reveal the underlying structure of humorous reviews, with non-satisfactory precision and recall score on the sarcastic label.
@@ -339,6 +338,7 @@ Training a fully connected deep neural network on these features may produce bet
 
 Next, we train a state-of the art transformer model to observe if it can generalize sarcasm on our combined and general dataset.
 
+\subsection{BERT-based Sarcasm Detection Model on Combined Dataset}
 
 Bidirectional Encoder Representations from Transformers (BERT) represents a paradigm shift in the encoding of textual information for natural language processing (NLP) tasks \cite{devlin2018bert}. Unlike unidirectional models that process text in a singular direction (left-to-right or right-to-left), BERT's novelty lies in its ability to pre-train deep bidirectional representations. This characteristic enables the model to access both preceding and following context simultaneously across all layers. The employment of bidirectional conditioning is critical for sarcasm detection wherein the intended semantic orientation often contradicts the literal meaning, necessitating a comprehensive grasp of context to infer the true sentiment.
 
